@@ -1,1 +1,3 @@
 venv/
+data/step1/raw_*.tsv
+data/step1/mock_runs.tsv
