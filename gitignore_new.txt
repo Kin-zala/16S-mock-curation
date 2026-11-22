@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+data/step1/raw_*.tsv
+data/step1/mock_runs.tsv
+*.fastq
+*.fastq.gz
