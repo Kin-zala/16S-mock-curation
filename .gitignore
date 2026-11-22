@@ -1,7 +1,9 @@
 venv/
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
 data/step1/raw_*.tsv
-<<<<<<< HEAD
 data/step1/mock_runs.tsv
-=======
-data/step1/mock_runs.tsv
->>>>>>> a5dee07317efafa51dfff48a1d58f49102021a75
+*.fastq
+*.fastq.gz
