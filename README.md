@@ -24,7 +24,7 @@ accepted.
 | Step | What it does | Status |
 | --- | --- | --- |
 | 1 | Search ENA for amplicon runs that mention mock communities or commercial standards; classify and flag each run | Done |
-| 2 | Link each study to its publication(s) via Europe PMC; extract primers, target region, platform and mock product from methods sections (rules first, then an LLM), checked against hand-labelled papers | In progress |
+| 2 | Link each study to its publication(s) via Europe PMC; extract primers, target region, platform and mock product from methods sections (rules first, then an LLM), checked against hand-labelled papers | Planned (in development) |
 | 3 | Process a subset of runs with DADA2 (primer removal, filtering, error model, ASVs, chimera removal, SILVA taxonomy) | Planned |
 | 4 | Compare observed composition with the known recipe; test how region and platform affect accuracy | Planned |
 | 5 | Export results in MIxS-aligned, MiCoDa- and GBIF-ready tables | Planned |
@@ -39,6 +39,10 @@ accepted.
 | **Available**: strong mock evidence, mentions 16S, reads downloadable | 4,154 | **4,484** |
 | **Needs manual check**: weak evidence, possible "mock-treated" host, or no 16S mention | 20,570 | 20,240 |
 | **Not available**: no FASTQ files in ENA | 243 | 243 |
+
+These classes are an **automated candidate classification** based on ENA titles and patterns, not a biological
+validation: "available" means a run is a likely 16S mock community with downloadable reads, not that its reads
+have been checked against the known composition (that is steps 3–4).
 
 Filter v2 also accepts one word between "mock" and "community" ("mock microbial community", "mock bacterial
 community"), a gap found in the hand check below. This moved 330 runs from "needs manual check" to "available";
@@ -74,8 +78,10 @@ These were found while building step 1 and are handled in the code:
 3. **Product names can be traps.** `zymo` matched 7,088 runs, many of which only mention a Zymo DNA extraction kit.
    Catalogue numbers are far more specific.
 4. **Large downloads can be silently incomplete.** A single request for all 23,444 "mock" runs returned fewer
-   rows without any error, and paging with `offset` was rejected (HTTP 400). The script now downloads year by
-   year and checks every piece against ENA's own count.
+   rows without any error, and paging with `offset` was rejected (HTTP 400). Searches with more than 3,000 runs
+   are now downloaded year by year, each year checked against ENA's count and split further if incomplete.
+   Every search, large or small, ends with a final check of runs received against ENA's count; any shortfall is
+   recorded in `download_gaps.tsv`.
 5. **Some runs have no normal release date.** 55 runs counted by ENA did not fall into any year and could not be
    retrieved; they are recorded in `download_gaps.tsv` instead of being silently dropped.
 
@@ -84,17 +90,21 @@ These were found while building step 1 and are handled in the code:
 `data/step1/manual_check_sample.tsv` holds a stratified sample of 30 runs (15 "available", 15 "needs manual
 check", fixed random seed), checked by reading the titles and, where needed, the ENA record.
 
-- **Available (15 runs):** 14 were confirmed as mock communities; the exception was a "mock" made of synthetic
-  DNA templates rather than real organisms.
+- **Available (15 runs):** 14 were confirmed as mock communities, and 13 of them as **16S** mock communities.
+  The two exceptions: SRR1781705, a "mock" made of synthetic DNA templates rather than real organisms, and
+  SRR6336707, a mock community from a study that sequenced 16S, 18S and ITS, so the target of this run is unclear.
 - **Needs manual check (15 runs):** included the expected false hits (a mockingbird study, mock-treated mice and
-  roots, a Zymo extraction kit), but also **4 clear mock communities the filter missed** ("mock bacterial
-  community", "ATCC mock samples", "ZymoBIOMICS Fecal Reference", "ZymoBIOMICS HMW DNA Standard") and several
+  roots, a Zymo extraction kit), but also **4 clear mock communities the filter missed**: SRR20340758
+  ("mock bacterial community"), SRR10966512 ("ATCC mock samples"), SRR37578827 ("ZymoBIOMICS Fecal Reference")
+  and SRR34332017 ("ZymoBIOMICS HMW DNA Standard"), plus several
   likely ones with short sample names such as "Mock E". Four were mock communities of non-bacterial targets
   (fish, algae 18S, springtails, fungi).
 
 **Conclusion:** the "available" class is precise, but filter v1 missed mocks described with a word between
-"mock" and "community", unfamiliar product names, or short sample labels. Filter v2 fixes the first case
-(2 of the 4 clear misses are now "available"); product names such as "ATCC mock samples" and short labels such as
+"mock" and "community", unfamiliar product names, or short sample labels. Filter v2 fixes the first case:
+2 of the 4 clear misses are now "available", SRR20340758 ("mock bacterial community") and SRR37578827 (its study
+title reads "mock microbial communities"). This can be reproduced by running
+`python step1_find_mocks.py --reclassify` and comparing the `availability` column for these two runs. Product names such as "ATCC mock samples" and short labels such as
 "Mock E" still need a manual check. The hand check was done on filter v1 and its sample is kept unchanged.
 
 ## Limitations
@@ -122,7 +132,7 @@ Outputs are written to `data/step1/`:
 
 | File | Content | In this repository |
 | --- | --- | --- |
-| `mock_studies.tsv` | One row per study with run counts; runs without a study accession grouped as "(no study accession)" | Yes |
+| `mock_studies.tsv` | One row per study with counts of available, needs-check and not-available runs; runs without a study accession grouped as "(no study accession)" | Yes |
 | `manual_check_sample.tsv` | The 30-run hand-check sample | Yes |
 | `search_term_counts.tsv` | Runs found per search term, including zeros | Yes |
 | `download_gaps.tsv` | Searches where ENA returned fewer runs than it counted | Yes |

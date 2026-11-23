@@ -366,7 +366,9 @@ def write_outputs(runs: pd.DataFrame) -> None:
                     n_available=("availability",
                                  lambda s: (s == "available").sum()),
                     n_need_check=("availability",
-                                  lambda s: (s == "needs_manual_check").sum()))
+                                  lambda s: (s == "needs_manual_check").sum()),
+                    n_not_available=("availability",
+                                     lambda s: (s == "not_available").sum()))
                .reset_index())
     studies.to_csv(OUT_DIR / "mock_studies.tsv", sep="\t", index=False)
     assert studies["n_runs"].sum() == len(runs), "study table lost runs"
