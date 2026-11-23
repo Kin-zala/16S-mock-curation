@@ -89,10 +89,25 @@ def build_query(term: str) -> str:
 
 
 def ena_count(query: str) -> int:
-    """Ask ENA only HOW MANY runs match (fast check before downloading)."""
-    r = requests.post(ENA_COUNT, data={"result": "read_run", "query": query},
-                      timeout=60)
-    r.raise_for_status()
+    """Ask ENA only HOW MANY runs match (fast check before downloading).
+
+    Retries up to 5 times: ENA sometimes drops connections
+    ("Connection reset by peer", 23 Nov 2026).
+    """
+    for attempt in range(1, 6):
+        try:
+            r = requests.post(ENA_COUNT,
+                              data={"result": "read_run", "query": query},
+                              timeout=60)
+            r.raise_for_status()
+            break
+        except requests.RequestException as e:
+            if attempt == 5:
+                raise RuntimeError(
+                    f"ENA did not answer after 5 tries ({e}). "
+                    f"ENA may be down - try again later.") from e
+            print(f"   ENA connection problem ({e}); retry {attempt}/4 in 15 s")
+            time.sleep(15)
     # ENA returns plain text like "count\n123" or just "123"
     return int(r.text.strip().split()[-1])
 
