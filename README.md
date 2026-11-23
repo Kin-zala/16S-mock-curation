@@ -30,21 +30,32 @@ accepted.
 | 5 | Export results in MIxS-aligned, MiCoDa- and GBIF-ready tables | Planned |
 | 6 | Wrap the workflow in Snakemake, runnable with one command | Planned |
 
-## Step 1 results (run of 21 November 2026)
+## Step 1 results (ENA search of 21 November 2026)
 
-| Measure | Value |
-| --- | --- |
-| Amplicon runs found | 24,967 |
-| Studies | 1,373 |
-| **Available**: strong mock evidence, mentions 16S, reads downloadable | 4,154 |
-| **Needs manual check**: weak evidence, possible "mock-treated" host, or no 16S mention | 20,570 |
-| **Not available**: no FASTQ files in ENA | 243 |
-| Runs ENA counted but did not return (no normal release date) | 55 of 23,444 for the term "mock" (0.23%) |
+| Measure | Filter v1 (21 Nov) | Filter v2 (23 Nov, current) |
+| --- | --- | --- |
+| Amplicon runs found | 24,967 | 24,967 |
+| Studies | 1,373 + 224 runs without a study accession | same |
+| **Available**: strong mock evidence, mentions 16S, reads downloadable | 4,154 | **4,484** |
+| **Needs manual check**: weak evidence, possible "mock-treated" host, or no 16S mention | 20,570 | 20,240 |
+| **Not available**: no FASTQ files in ENA | 243 | 243 |
+
+Filter v2 also accepts one word between "mock" and "community" ("mock microbial community", "mock bacterial
+community"), a gap found in the hand check below. This moved 330 runs from "needs manual check" to "available";
+the ENA data itself was not downloaded again (`--reclassify`).
+
+**Retrieval gap:** ENA counted 23,444 runs for the term "mock" but returned 23,389; the 55 missing runs (0.23%)
+have no normal release date and are recorded in `download_gaps.tsv`.
+
+**Runs without a study accession:** 224 runs have no study accession in ENA: 23 Human Microbiome Project
+mock-community runs from 2010 (no downloadable reads) and 201 runs from a 2013 fungal gut study. They are kept in
+`mock_studies.tsv` as "(no study accession)" rather than dropped.
 
 **How runs are classified.** Search terms are sent to the ENA Portal API (`library_strategy="AMPLICON"`,
 matched against study, sample and experiment titles). Each run then gets flags in Python:
 
-- `strong_mock_evidence`: "mock community", "community standard", or a product code
+- `strong_mock_evidence`: "mock community" (one word may stand between, e.g. "mock microbial community"),
+  "community standard", or a product code
   (ZymoBIOMICS D6300/D6305/D6306/D6310/D6311/D6331, BEI HM-782D/HM-783D, ATCC MSA-1000/1002/2002)
 - `possible_fake_mock`: "mock-treated", "mock-inoculated", "mock-infected" and similar (control hosts, not mock communities)
 - `mentions_16S` and `mentions_zymo` ("Zymo" alone often means a DNA extraction kit, not a standard)
@@ -81,8 +92,10 @@ check", fixed random seed), checked by reading the titles and, where needed, the
   likely ones with short sample names such as "Mock E". Four were mock communities of non-bacterial targets
   (fish, algae 18S, springtails, fungi).
 
-**Conclusion:** the "available" class is precise, but the filter misses mocks described with words between
-"mock" and "community", unfamiliar product names, or short sample labels.
+**Conclusion:** the "available" class is precise, but filter v1 missed mocks described with a word between
+"mock" and "community", unfamiliar product names, or short sample labels. Filter v2 fixes the first case
+(2 of the 4 clear misses are now "available"); product names such as "ATCC mock samples" and short labels such as
+"Mock E" still need a manual check. The hand check was done on filter v1 and its sample is kept unchanged.
 
 ## Limitations
 
@@ -98,15 +111,18 @@ check", fixed random seed), checked by reading the titles and, where needed, the
 Requires Python 3 with `requests` and `pandas`.
 
 ```bash
-pip install requests pandas
-python step1_find_mocks.py
+pip install -r requirements.txt
+python step1_find_mocks.py                # full run: query ENA, then classify
+python step1_find_mocks.py --reclassify   # re-apply the filter to an existing mock_runs.tsv, no ENA queries
 ```
+
+`manual_check_sample.tsv` is only created if it does not exist yet, so a finished hand check is never overwritten.
 
 Outputs are written to `data/step1/`:
 
 | File | Content | In this repository |
 | --- | --- | --- |
-| `mock_studies.tsv` | One row per study with run counts | Yes |
+| `mock_studies.tsv` | One row per study with run counts; runs without a study accession grouped as "(no study accession)" | Yes |
 | `manual_check_sample.tsv` | The 30-run hand-check sample | Yes |
 | `search_term_counts.tsv` | Runs found per search term, including zeros | Yes |
 | `download_gaps.tsv` | Searches where ENA returned fewer runs than it counted | Yes |

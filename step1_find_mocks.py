@@ -2,26 +2,35 @@
 Step 1 - Find 16S mock community datasets in ENA
 ================================================
 
-What it does (in plain words):
-  1. Asks ENA: "Which amplicon sequencing runs mention a mock community
-     (a lab-made 'test soup' with a known recipe of bacteria)?"
+What it does:
+  1. Asks the ENA Portal API which amplicon runs mention a mock community
+     (a sample with a known composition) or a commercial mock standard.
   2. Puts all answers into one table, one row per run.
-  3. Adds simple warning flags so you know which rows to check by hand.
-  4. Makes a second, smaller table with one row per study.
+  3. Adds flags that show which runs are likely 16S mock communities and
+     which need a manual check.
+  4. Makes a second table with one row per study.
 
-Output files (in the folder data/step1/):
-  - raw_<term>.tsv         what ENA returned for each search word
-  - mock_runs.tsv          all runs, de-duplicated, with flags
-  - mock_studies.tsv       one row per study (summary)
-  - manual_check_sample.tsv  30 random rows for you to check by hand
+Output files (in data/step1/):
+  - raw_NN_<term>.tsv        what ENA returned for each search term
+  - mock_runs.tsv            all runs, de-duplicated, with flags
+  - mock_studies.tsv         one row per study; runs without a study
+                             accession are grouped as "(no study accession)"
+  - search_term_counts.tsv   runs found per search term, including zeros
+  - download_gaps.tsv        searches where ENA returned fewer runs than it counted
+  - manual_check_sample.tsv  15 'available' + 15 'needs_manual_check' runs for a
+                             hand check; written ONLY if the file does not exist
+                             yet, so a finished hand check is never overwritten
 
 Run:
-  python step1_find_mocks.py
+  python step1_find_mocks.py               full run: query ENA, then classify
+  python step1_find_mocks.py --reclassify  re-apply the flags to an existing
+                                           mock_runs.tsv without contacting ENA
 
-Needs: requests, pandas   (pip install requests pandas)
+Needs: requests, pandas   (pip install -r requirements.txt)
 """
 
 import re
+import sys
 import time
 from datetime import date, timedelta
 from pathlib import Path
@@ -59,8 +68,8 @@ SEARCH_TERMS = [
     "MSA1000", "MSA1002", "MSA2002",      # ATCC mock communities
 ]
 
-# Text fields in ENA where these words might appear.
-# CHECK THESE FIRST with the returnFields link in the guide (step 1.2).
+# Text fields in ENA where these words might appear. The allowed field names
+# are listed at https://www.ebi.ac.uk/ena/portal/api/returnFields?result=read_run
 TEXT_FIELDS = ["study_title", "sample_title", "experiment_title"]
 
 # Columns we want back for every run.
@@ -81,8 +90,9 @@ RETURN_FIELDS = [
 def build_query(term: str) -> str:
     """Build one ENA query: amplicon runs whose titles contain the term.
 
-    '*' means 'anything before or after', so "*mock community*" also
-    matches "ZymoBIOMICS mock community standard".
+    '*' means 'anything before or after', so "*mock*" also matches
+    "ZymoBIOMICS mock community standard". Terms must be single words without
+    spaces or hyphens: ENA returns 0 runs for "*mock community*".
     """
     text_part = " OR ".join(f'{field}="*{term}*"' for field in TEXT_FIELDS)
     return f'library_strategy="AMPLICON" AND ({text_part})'
@@ -125,7 +135,15 @@ def download_once(query: str) -> pd.DataFrame:
         "format": "tsv",
         "limit": 0,
     }
-    r = requests.post(ENA_SEARCH, data=params, timeout=600)
+    for attempt in range(1, 4):
+        try:
+            r = requests.post(ENA_SEARCH, data=params, timeout=600)
+            break
+        except requests.RequestException as e:      # dropped connection etc.
+            if attempt == 3:
+                raise RuntimeError(f"ENA download failed 3 times ({e})") from e
+            print(f"   ENA connection problem ({e}); retry {attempt}/2 in 15 s")
+            time.sleep(15)
     if r.status_code != 200:
         # Show ENA's own explanation, not just "400"
         raise RuntimeError(f"ENA error {r.status_code}: {r.text[:300]}")
@@ -216,15 +234,20 @@ def ena_search(query: str, expected: int) -> pd.DataFrame:
 # Patterns for the warning flags
 RE_16S = re.compile(r"16S", re.IGNORECASE)
 # "mock-treated", "mock inoculated", "mock infection" = control plants/animals,
-# NOT a test soup. These are the classic false hits.
+# NOT a mock community. These are the classic false hits. "mock control" is
+# included too; it can also mean a positive control, so such runs go to the
+# manual check rather than being excluded.
 RE_FAKE_MOCK = re.compile(
     r"mock[\s-]*(?:treat|inocul|infect|transfect|control|vaccin)",
     re.IGNORECASE)
-# Strong evidence that the run really is a test soup (mock community):
+# Strong evidence that the run really is a mock community:
 # "mock community", "community standard", or a known product code.
+# One word may stand between "mock" and "community" ("mock DNA community",
+# "mock bacterial community"): version 1 of this filter missed those, including
+# the Human Microbiome Project mock runs (found 23 Nov 2026).
 # NOTE: "zymo" alone is NOT evidence (could be a DNA extraction kit).
 RE_STRONG_MOCK = re.compile(
-    r"mock[\s_-]*commun"
+    r"mock[\s_-]*(?:[a-z0-9]+[\s_-]+)?commun"
     r"|community[\s_-]*standard"
     r"|HM-?78[23]D"
     r"|MSA-?[12]00[0-9]"
@@ -305,7 +328,7 @@ def main():
                  ).to_csv(OUT_DIR / "download_gaps.tsv", sep="\t", index=False)
 
     if not all_tables:
-        print("No results. Check the field names (guide step 1.2).")
+        print("No results. Check that the ENA field names in TEXT_FIELDS are valid.")
         return
 
     runs = pd.concat(all_tables, ignore_index=True)
@@ -318,10 +341,24 @@ def main():
     runs = runs.merge(terms_per_run, on="run_accession")
 
     runs = add_flags(runs)
+    write_outputs(runs)
+
+
+FLAG_COLUMNS = ["mentions_16S", "possible_fake_mock", "strong_mock_evidence",
+                "mentions_zymo", "mock_evidence_text", "has_fastq",
+                "n_fastq_files", "availability"]
+
+
+def write_outputs(runs: pd.DataFrame) -> None:
+    """Write mock_runs.tsv, mock_studies.tsv and (only if new) the hand-check sample."""
     runs.to_csv(OUT_DIR / "mock_runs.tsv", sep="\t", index=False)
 
     # One row per study: mocks are often a few control runs inside a big study.
-    studies = (runs.groupby("study_accession")
+    # Runs without a study accession (e.g. old Human Microbiome Project runs)
+    # are kept as their own group instead of silently disappearing.
+    by_study = runs.assign(study_accession=runs["study_accession"]
+                           .fillna("(no study accession)"))
+    studies = (by_study.groupby("study_accession")
                .agg(study_title=("study_title", "first"),
                     n_runs=("run_accession", "count"),
                     platforms=("instrument_model",
@@ -332,28 +369,43 @@ def main():
                                   lambda s: (s == "needs_manual_check").sum()))
                .reset_index())
     studies.to_csv(OUT_DIR / "mock_studies.tsv", sep="\t", index=False)
+    assert studies["n_runs"].sum() == len(runs), "study table lost runs"
 
-    # 30 rows for YOUR hand check: 15 'available' + 15 'needs_manual_check'
-    # (fixed seed = same rows every time).
-    #  - 'available' rows tell you: is the tool right when it says yes?
-    #  - 'needs_manual_check' rows tell you: how many real mocks does it miss?
-    parts = []
-    for group in ["available", "needs_manual_check"]:
-        g = runs[runs["availability"] == group]
-        parts.append(g.sample(n=min(15, len(g)), random_state=42))
-    sample = pd.concat(parts)
-    sample["manual_is_real_mock"] = ""   # you fill in: yes / no
-    sample["manual_is_16S"] = ""         # you fill in: yes / no
-    sample["manual_note"] = ""
-    sample.to_csv(OUT_DIR / "manual_check_sample.tsv", sep="\t", index=False)
+    # 30 rows for a hand check: 15 'available' + 15 'needs_manual_check'
+    # (fixed seed = same rows every time). Written only if the file does not
+    # exist yet, so a finished hand check is never overwritten.
+    sample_file = OUT_DIR / "manual_check_sample.tsv"
+    if sample_file.exists():
+        print(f"{sample_file} already exists - kept unchanged (hand check is safe).")
+    else:
+        parts = []
+        for group in ["available", "needs_manual_check"]:
+            g = runs[runs["availability"] == group]
+            parts.append(g.sample(n=min(15, len(g)), random_state=42))
+        sample = pd.concat(parts)
+        sample["manual_is_real_mock"] = ""   # fill in: yes / no / unsure
+        sample["manual_is_16S"] = ""         # fill in: yes / no / unsure
+        sample["manual_note"] = ""
+        sample.to_csv(sample_file, sep="\t", index=False)
 
-    # Short summary on screen
+    n_no_study = runs["study_accession"].isna().sum()
     print("\n--- Summary ---")
     print(f"Unique runs:    {len(runs)}")
-    print(f"Unique studies: {len(studies)}")
+    print(f"Unique studies: {runs['study_accession'].nunique()}"
+          f" (+ {n_no_study} runs without a study accession)")
     print(runs["availability"].value_counts().to_string())
     print(f"\nFiles written to {OUT_DIR}/")
 
 
+def reclassify() -> None:
+    """Re-apply the flags to an existing mock_runs.tsv, without contacting ENA."""
+    runs = pd.read_csv(OUT_DIR / "mock_runs.tsv", sep="\t", dtype=str)
+    runs = runs.drop(columns=[c for c in FLAG_COLUMNS if c in runs.columns])
+    write_outputs(add_flags(runs))
+
+
 if __name__ == "__main__":
-    main()
+    if "--reclassify" in sys.argv:
+        reclassify()
+    else:
+        main()
