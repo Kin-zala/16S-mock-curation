@@ -1,0 +1,2 @@
+query	expected	received	missing
+"library_strategy=""AMPLICON"" AND (study_title=""*mock*"" OR sample_title=""*mock*"" OR experiment_title=""*mock*"")"	23444	23389	55

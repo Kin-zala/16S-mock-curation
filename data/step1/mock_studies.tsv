@@ -1,0 +1,1374 @@
+study_accession	study_title	n_runs	platforms	n_available	n_need_check
+PRJDB10817	A benchmark of DNA extraction kits, PCR primers and bioinformatics analysis strategies for human gut microbiome analyses	49	Illumina MiSeq	0	49
+PRJDB12260	Revealing the structure of root microbiota in Brassica rapa roots in the presence of the root endophyte Colletotrichum tofieldiae	16	Illumina MiSeq	0	16
+PRJDB12311	16S rRNA sequencing for antimicrobial susceptibility testing	21	MinION	21	0
+PRJDB14336	eDNA haplotyping of an endangered fish Gnathopogon caerulescens	30	Illumina iSeq 100	0	30
+PRJDB14400	Quantitative sequencing of a bacterial mock community	5	Illumina MiSeq	2	3
+PRJDB15057	Probe capture enrichment sequencing of amoA gene	1	Sequel II	0	1
+PRJDB15097	Microbiome of cotton towels used in daily life	4	Illumina MiSeq	0	4
+PRJDB15560	DNA metabarcoding of fungi	5	MinION	0	5
+PRJDB16123	Optimal 16S rRNA gene amplicon sequencing analysisfor oral microbiota to avoid the potential bias introduced by trimming length, primers, and database	81	Illumina MiSeq	81	0
+PRJDB18593	in-house LAB mock community analysis	23	Illumina MiSeq	0	23
+PRJDB18726	Identification of microbiota associated with Polypedilum sp. (Diptera Chironomidae), a midge adapted to extremely acidic environment	2	Illumina MiSeq; MinION	0	2
+PRJDB19128	Repairing pathogenetic mutations using engineered Prime Editor in vivo	1	Illumina MiSeq	0	1
+PRJDB19957	Amplicon sequencing of full-length 16S rRNA gene in water samples	1	MinION	1	0
+PRJDB20430	Host factor screening for SAFV3	3	Illumina MiSeq	0	3
+PRJDB33433	16S rRNA gene amplicon analysis of pig gut microbiota (PRJCA032509)	6	Illumina MiSeq	0	6
+PRJDB35649	High-throughput screening of microalgal communities using water-in-oil droplet microfluidics and long-read metabarcoding	21	GridION	0	21
+PRJDB35688	Brassica rapa Komatsuna rhizosphere 16S rRNA gene metabarcoding	48	Illumina MiSeq	0	48
+PRJDB36488	AvrPto-FER pathway to enhance proliferation commensal bacteria (PRJCA038564)	26	Illumina NovaSeq 6000	0	26
+PRJDB38985	The 16S rRNA profiling of Arabidopsis thaliana paps1 and hsm6 root microbiomes under Ralstonia solanacearum GMI1000 Inoculation (PRJCA043613)	15	Illumina NovaSeq 6000	0	15
+PRJDB39844	Performance evaluation of portable DNA extraction protocols using a whole-cell mock community	12	NextSeq 1000	0	12
+PRJDB41742	Analysis of bacterial microbial diversity of 16 samples (PRJCA051186)	8	NextSeq 2000	0	8
+PRJDB42917	MiFish amplicon sequencing of fish egg mock communities	11	NextSeq 1000	0	11
+PRJDB4512	Metagenome sequencing of a mock fungal community consisting of 26 fungal species	4	Illumina MiSeq; Ion Torrent PGM; PacBio RS II	0	4
+PRJDB45609	Microbiome and Metabolome of Rice Plants with and without Sheath Blight Disease (PRJCA061690)	8	Illumina NovaSeq 6000	0	7
+PRJDB4568	Quantitative Sequencing by using random-sequence barcodes	118	Illumina MiSeq	0	118
+PRJDB4645	A quantitative protocol for DNA metabarcoding of springtails (Collembola)	40	454 GS Junior	0	40
+PRJDB5087	Bacterial composition in precipitation collected in Japan over one and half years	3	454 GS Junior	0	3
+PRJDB5307	The detection of eDNA from all 19 species and subspecies of the genus Anguilla	6	Illumina MiSeq	0	6
+PRJDB5879	Revealing the structure of root microbiota in A.thalina roots in the presence of the root endophyte Colletotrichum tofieldiae under phosphate limiting conditions	24	Illumina MiSeq	0	24
+PRJDB7448	Large-scale metabarcoding analysis of epipelagic and mesopelagic copepods in the Pacific	2	Illumina MiSeq	0	2
+PRJDB9473	16S gene (V3V4) and tuf gene amplicon sequencings of human hand	1	Illumina MiSeq	0	1
+PRJDB9654	Comparative analysis of Mock microbial community	2	Illumina MiSeq	0	2
+PRJDB9684	Evaluation of PCR conditions for characterizing bacterial community with full-length 16S rRNA genes using a portable Nanopore sequencer	12	Illumina MiSeq; MinION	12	0
+PRJEB100560	Effects of gestational antibiotics on pig gut microbiota and growth	1	Element AVITI	0	1
+PRJEB100772	Host genetics shapes the recovery of the gut microbiome after antibiotic treatment: The role of the blood group related B4galnt2 gene	8	Illumina MiSeq	0	8
+PRJEB100783	Metabarcoding of terrestrial gastropods	6	Illumina MiSeq	0	6
+PRJEB100865	PRUDENCE metagenomics and 16S	3	Illumina MiSeq	1	2
+PRJEB101075	Unraveling yeast diversity in food fermentation using ITS1-2 amplicon-based metabarcoding	21	Revio	0	21
+PRJEB101078	Fishing Active Soil Protists	3	Revio	0	3
+PRJEB101310	Genetic architecture and mechanisms of host/microbiome interactions from a multi-cohort analysis of outbred laboratory rats	1	Illumina MiSeq	0	1
+PRJEB101496	ArnicaSNP	1	Illumina MiSeq	0	1
+PRJEB102855	MBfR for biomethanation	1	Illumina MiSeq	1	0
+PRJEB104016	Nanopore sequencing of the 16S rRNA (V1-V3) and rpoB genes directly from clinical samples.	2	GridION	0	2
+PRJEB104694	Kuopio Birth Cohort (KuBiCo) neonate oral swabs for microbiota analysis	6	Illumina MiSeq	0	6
+PRJEB106052	HaCWINV2 effects on sunflower nectar microbiota	1	PromethION	0	1
+PRJEB106180	Opportunistic predation on earthworms	6	Illumina MiSeq	0	6
+PRJEB10633	Every base matters: assessing small subunit rRNA primers for marine microbiomes with mock communities, time-series and global field samples	202	Illumina MiSeq	13	92
+PRJEB106342	Microbial lifestyle and synbiotic effects	16	Illumina MiSeq	0	16
+PRJEB106608	Nanopore sequences from full fungal ITS	6	MinION	0	0
+PRJEB107294	griggs_spatial_microbiota	76	Illumina MiSeq	0	76
+PRJEB107617	Fucoquest Synthetic Community Experiment	6	Illumina NovaSeq 6000	0	6
+PRJEB107795	16S and 18S rRNA amplicon sequencing of bacterial and eukaryotic communities in algal-based wastewater treatment raceways	1	Illumina MiSeq	1	0
+PRJEB107811	Phycosphere microbiome assembly in long-term algal cultures: effects of culture history and co-culture	1	Illumina MiSeq	0	1
+PRJEB107907	Microfluidic enrichment reveals diverse proteolytic microorganisms compared to conventional screening	2	Illumina NovaSeq 6000	0	2
+PRJEB107981	Long-term stability of frozen FMT capsule microbiota	1	Illumina MiSeq	0	1
+PRJEB108601	microbiome P. columella	12	Illumina MiSeq	0	12
+PRJEB108994	Benchmarking full-length ITS metabarcoding across Illumina 2x500, PacBio Revio, and Oxford Nanopore sequencing using mock and soil communities	276	Illumina iSeq 100; MinION; Revio	0	276
+PRJEB109298	MetaBridge project: sediment metabarcoding for ecological status prediction at oil&gas installations on the Norwegian shelf	21	Illumina NovaSeq 6000	0	21
+PRJEB10949	Characterization of tissue microbiota using the Illumina MiSeq sequencing technology after pipeline validation on Mock communities	181	Illumina MiSeq	21	160
+PRJEB112280	Soil microbial communities (16S and ITS) of apple orchards in Asturias (Spain)	2	Illumina MiSeq	2	0
+PRJEB112398	Diagnostic microbiome profiling of native and invasive alien Drosophila species from French Guiana reveals candidate OTUs potentially linked to competitive advantages.	2	MinION	0	2
+PRJEB114639	Skin microbiota amplicon sequencing comparison (Nanopore and Illumina)	18	GridION; NextSeq 2000	0	18
+PRJEB115268	Related to Figure 2. Raw sequencing reads from 16S rDNA analysis of fecal microbiota composition in uninfected and Salmonella Typhimurium-infected mice administered two doses of 132 mg arabinose or mock-treated with PBS.	293	Illumina MiSeq	0	293
+PRJEB1177	Mock community analysis butyryl-CoA:acetate CoA-transferase (but)	1	454 GS FLX Titanium	0	1
+PRJEB1188	bphA defined (mock) community	2	454 GS FLX Titanium	0	2
+PRJEB11966	Haemophilus dominance and effect of antibiotic therapy on the airway microbiome in COPD	2	Illumina MiSeq	0	2
+PRJEB12234	Quarterly time series of the microbial community in the San Pedro Channel	6	Illumina MiSeq	0	6
+PRJEB12280	Comparison of samples and mock communities amplified with single-base variations in 515-Forward universal primer	56	Illumina MiSeq	0	56
+PRJEB12282	Evaluating the diversity and activity of marine archaea via 16S rRNA gene and transcript sequencing	11	Illumina MiSeq	0	11
+PRJEB123023	Polymerase and primer biases in eukaryote ultra-long-read metabarcoding	22	Revio	0	22
+PRJEB123364	Carbon starvation enhances microbiologically influenced corrosion in marine offshore infrastructures	4	Illumina NovaSeq 6000	0	4
+PRJEB123794	15-year shift in protist communities in the Oslofjord and Skagerrak	1	Illumina NovaSeq 6000	0	1
+PRJEB124641	Multicentre evaluation of full-length 16S rRNA gene sequencing using Oxford Nanopore Technologies	23	GridION; MinION	23	0
+PRJEB125711	Comparative Evaluation of radEmu and ANCOM-BC2 Across Three Classification Pipelines for Oxford Nanopore 16S rRNA Sequencing Data	2	MinION	2	0
+PRJEB127033	Gut microbiome composition in neonates with culture-confirmed sepsis and healthy controls at a tertiary hospital in Mwanza, Tanzania: a matched case-control study	1	NextSeq 2000	1	0
+PRJEB128131	Long-read rpoB metabarcoding for high-resolution bacterial community profiling	16	Illumina MiSeq; MinION	0	16
+PRJEB129335	Wild wood mouse gut microbiota are influenced by captivity and cross-fostering	7	Illumina MiSeq	0	0
+PRJEB129760	Culture-based and quantitative Nanopore 16S rRNA gene sequencing insights into microbial quality and safety of plant-based meat alternatives	102	GridION; PromethION	102	0
+PRJEB14074	Comparison of the upper and lower airway microbiota	2	Illumina MiSeq	0	2
+PRJEB15035	16S rRNA seq data from placenta, fetal membrane, oral and vaginal samples taken as part of the iLiNS-DYAD clinical trial in Malawi.	1	Illumina MiSeq	0	1
+PRJEB15264	Microbial diversity based on a multilocus and long amplicon sequencing approach using MinION(TM) sequencer.	2	Illumina MiSeq; MinION	0	1
+PRJEB15408	Vertical distribution of fungi in hollows and hummocks of boreal peatlands	1	Illumina MiSeq	0	1
+PRJEB18478	The Impact of Persistent Bacterial Bronchitis on the Pulmonary Microbiome of Children.	3	Illumina MiSeq	0	3
+PRJEB18918	Quality-filtering vastly improves diversity estimates from Illumina amplicon sequencing - DS2	4	Illumina MiSeq	0	4
+PRJEB18920	Quality-filtering vastly improves diversity estimates from Illumina amplicon sequencing - DS3	4	Illumina MiSeq	0	4
+PRJEB18921	Quality-filtering vastly improves diversity estimates from Illumina amplicon sequencing - DS5	1	Illumina MiSeq	0	1
+PRJEB18922	Quality-filtering vastly improves diversity estimates from Illumina amplicon sequencing - DS3	1	Illumina MiSeq	0	1
+PRJEB18946	Quality-filtering vastly improves diversity estimates from Illumina amplicon sequencing	1	Illumina HiSeq 2000	0	1
+PRJEB19192	Female 9-12 week old C57BL/6J wild-type mice were obtained from the Jackson Laboratory (Bar Harbor) or Charles River Laboratory (Morrisville), as indicated. Mice were randomly assigned into cages before the experiment. The drinking water was replaced with either filter-sterilized water (mock-treatment), or a filter-sterilized solution of 0.2% (w/v) sodium tungstate (Sigma, St Louis), or a filter-sterilized solution of 2% or 3% (w/v) dextran sulfate sodium (DSS relative molecular mass 36,000 â 50,000 MP Biomedicals) in water at the indicated concentrations, or a filter-sterilized solution of DSS and 0.2% (w/v) sodium tungstate.	24	Illumina MiSeq	0	24
+PRJEB19901	Quantification of mock microbial communities with metagenomes, 16S rRNA gene amplicons and metaproteomics	36	Illumina MiSeq	36	0
+PRJEB20575	Targeted sequencing of 86 regulatory elements and 12 breast cancer genes	1	Illumina MiSeq	0	1
+PRJEB22356	ESP deployed about 1-2 km from catalina island. Sampled 1 to 2 times per day in the photic zone.	4	Illumina MiSeq	0	4
+PRJEB22835	16S rRNA mock communities amplified with 515Y/926R and sequenced by HiSeq and MiSeq.	22	Illumina HiSeq 2500; Illumina MiSeq	22	0
+PRJEB23240	Impact of sequence variant detection and bacterial DNA extraction methods on the measurement of microbial community composition	6	Illumina MiSeq	0	6
+PRJEB23513	Marine cyanolichens from different littoral zones are associated with distinct bacterial communities	1	Illumina MiSeq	0	1
+PRJEB23956	An Accurate Microbial DNA Quantification Assay for HTS Library Preparation of Human Biological Samples	6	Illumina MiSeq	0	6
+PRJEB24007	KatharoSeq enables high-throughput microbiome analysis from low-biomass samples	8	Illumina MiSeq	0	8
+PRJEB24409	Raw sequences of mock communities sequenced by the Langille Lab.	7	Illumina MiSeq	0	7
+PRJEB24504	MiniSeq 16S rRNA sequencing	7	Illumina MiniSeq	7	0
+PRJEB24936	Culture dependent and independent methods were used to exhaustively describe the bacterial microbiota which is associated to entomopathogenic nematodes. The role of this microbiota in the nematode life cycle was investigated, e.g. their insecticidal performances and theit potential to produce antimicrobial compounds.	30	Illumina MiSeq	0	30
+PRJEB25779	Viable bacterial colonization is highly limited in the human intestine in utero	3	Illumina MiSeq	0	3
+PRJEB25886	Vertical stratification of peatland microbial communities follows a gradient of functional types across hummock-hollow microtopologies	1	Illumina MiSeq	0	1
+PRJEB26618	Early development of the airway microbiota in infants with cystic fibrosis	8	Illumina MiSeq	0	8
+PRJEB26793	Genetically determined leaf age-dependent variation in stress hormone crosstalk balances trade-offs between biotic and abiotic stresses in Arabidopsis	99	Illumina MiSeq	0	99
+PRJEB26952	Naphthalene degrading bacteria in the Port of Los Angeles and San Pedro Ocean Time-series detected by stable isotope probing (50x100ul fractions)	6	Illumina MiSeq	0	6
+PRJEB27158	Pyrofus a metabarcoding tool targeting the EF1 alpha region to assess Fusarium diversity on cereals	35	Illumina MiSeq	0	35
+PRJEB27854	Rapid assessment of phytoplankton assemblages using Next Generation Sequencing â Barcode of Life database: a widely applicable toolkit to monitor biodiversity and harmful algal blooms (HABs)	2	Ion Torrent PGM	0	2
+PRJEB28323	The effect of RSV-A M37 infection on the respiratory microbiome of adults	7	Illumina MiSeq	0	7
+PRJEB29081	LUKAS birth cohort living-room floor dust sequencing	20	Illumina MiSeq	0	20
+PRJEB29091	16S rRNA gene sequencing data from throat swabs from participants in the Busselton Health Study	7	Illumina MiSeq	7	0
+PRJEB30646	Large multicentred study of cystic fibrosis sputum from patients across 11 sites in Europe and the USA.	9	Illumina MiSeq	0	9
+PRJEB30868	Evaluation of in-field Nanopore sequencing of 16S rRNA genes and metagenomes using mock communities	12	MinION	12	0
+PRJEB30894	Microbiota long-term dynamics and prediction of acute graft-versus-host-disease in allogeneic stem cell transplantation	6	Illumina MiSeq	0	6
+PRJEB30924	Comparative analysis of amplicon and metagenomic sequencing methods reveals key features in the evolution of animal metaorganisms	24	Illumina MiSeq	0	24
+PRJEB31502	Characterizing chemoautotrophy and heterotrophy in marine archaea and bacteria with single-cell multi-isotope nanoSIP	10	Illumina MiSeq	0	10
+PRJEB31758	Equine intestinal microbiota after feeding a prebiotic	6	Illumina MiSeq	0	6
+PRJEB31775	pectin intervention	6	Illumina HiSeq 2000	0	4
+PRJEB31818	How the differential dynamics of microbial community networks can help identify microorganisms potentially useful for controlling residue-borne diseases: the case of the wheat pathogen Zymoseptoria tritici	4	Illumina MiSeq	0	4
+PRJEB32101	Candidate diazotrophs in deep-sea sediments are phylogenetically and catabolically diverse	3	Illumina MiSeq	0	3
+PRJEB32137	Developing a protocol, DNA extraction and pipelines for taxonomical assingment, to process marine samples (eDNA) of eukaryotic nano and picoplankton	18	Ion Torrent PGM	0	18
+PRJEB32265	Bacterial but not fungal gut microbiota alterations are associated with common variable immunodeficiency (CVID) phenotype	8	Illumina MiSeq	0	8
+PRJEB32516	Quantifying and understanding well-to-well contamination in microbiome research	79	Illumina MiSeq	0	79
+PRJEB32547	GOS elderly	8	Illumina HiSeq 2500	0	8
+PRJEB32674	Enabling high-accuracy long-read amplicon sequences using unique molecular identifiers with Nanopore or PacBio sequencing	10	MinION; Sequel	0	6
+PRJEB33434	Characterizing the Fungal Airway Microbiome in Cystic Fibrosis and Bronchiectasis by Next Generation Sequencing	10	Illumina MiSeq	0	10
+PRJEB33615	The duodenal, ileal, jejunal and caecal microbiota in chickens (16s)	1	Illumina MiSeq	0	1
+PRJEB33873	metabarcoding of eDNAbyss sediment samples	10	Illumina HiSeq 2500	2	8
+PRJEB34281	16s profiling of plant microbiomes following Verticillium dahliae infection	6	Illumina HiSeq 2500	0	6
+PRJEB34356	Metabarcoding of brown algal (Ectocarpus) bacterial cocultures.	1	Illumina MiSeq	0	1
+PRJEB34389	The lung microbiota in children with cystic fibrosis captured by induced sputum sampling	3	Illumina MiSeq; Illumina NovaSeq 6000	0	3
+PRJEB34431	Handling of spurious sequences dictates the outcome of high-throughput 16S rRNA gene amplicon profiling	14	Illumina MiSeq	0	14
+PRJEB34906	Field sampling of Ectocarpales and associated microbes from Southern Australia	1	Illumina MiSeq	0	1
+PRJEB35369	Effects of a resistance gene affecting fungal pathogen infection on the microbiome of crop residue: the case of the Leptosphaeria maculans-Brassica napus pathosystem	2	Illumina MiSeq	0	2
+PRJEB35449	Comparative analyses of vertebrate gut microbiomes reveal convergence between birds and bats	3	Illumina HiSeq 2500	0	3
+PRJEB35673	Comprehensive single-PCR 16S and 18S rRNA community analysis validated with mixed 16S and 18S rRNA mock communities and denoising algorithms	76	Illumina HiSeq 2500; Illumina MiSeq	65	0
+PRJEB35813	A North Sea fish community was monitored via environmental DNA (eDNA) over the summer season of 2015 in different time intervals and at different locations.	2	Illumina HiSeq 2500	0	2
+PRJEB36021	Bacterial microbiomes of guts of male C57BL/6J mice optionally treated with metformin and/or diet to induce obesity	1	Illumina MiSeq	0	1
+PRJEB36215	Characterising the core microbiota of the sandfly Phlebotomus argentipes using next-generation sequencing	3	Illumina MiSeq	0	3
+PRJEB36531	Daily supplementation with Lactobacillus reuteri DSM 17938 to extremely preterm infants modulated the gut microbiota during the first month of life in a randomised placebo-controlled trial	9	Illumina MiSeq	0	9
+PRJEB37167	PPIT: an R package for inferring microbial taxonomy from nifH sequences	3	Illumina MiSeq	0	3
+PRJEB37511	Effect of essential oil- and iodine treatments on the microbiota of the brown alga Ectocarpus siliculosus.	1	Illumina MiSeq	0	1
+PRJEB37561	Effect of swab, silica-gel and shock-freezing on the microbiota of the brown alga Saccharina latissima.	3	Illumina MiSeq	0	3
+PRJEB37886	COVID-19 Genomics UK (COG-UK) consortium	208	GridION; Illumina MiSeq; Illumina NovaSeq 6000; NextSeq 500; NextSeq 550; unspecified	0	208
+PRJEB38127	Bacterial succession during seed development	1	Illumina MiSeq	0	1
+PRJEB38767	Metabarcoding of eDNAbyss sediment samples Private	16	Illumina HiSeq 2500; Illumina HiSeq 4000; Illumina NovaSeq 6000	4	12
+PRJEB39382	Projection of gut microbiome pre and post bariatric surgery to predict surgery outcome	3	Illumina MiSeq	0	3
+PRJEB39417	TP53 sequence of human glioblastoma stem cells sorted for p53-Ser15 induction and NS1 virus protein expression upon parvovirus MVMp infection	16	Illumina MiSeq	0	16
+PRJEB39544	A previously developed high-throughput amplicon sequencing (HTS) method targeting the 16S rRNA and tuf genes was applied to characterize the bacterial communities in European fermented meats of different origins.	1	Illumina MiSeq	1	0
+PRJEB40035	In vivo CRISPR/Cas9 screen to identify candidate therapeutic gene targets to enhance docetaxel efficacy in prostate cancer	9	NextSeq 500	0	9
+PRJEB40187	This study presents, for the first time, the impact of acrolein, a highly reactive and toxic compound, whose formation is likely a common feature of human gut microbiota, on model intestinal microbial communities.	1	Illumina MiSeq	0	1
+PRJEB40245	serial dilutions of mock community to assess contaminant and spurious assignment of taxa	8	Illumina MiSeq	8	0
+PRJEB40329	Impact of yeast-derived Î²-glucans on the porcine gut microbiota and immune system in early life	28	Illumina NovaSeq 6000	0	28
+PRJEB40667	Power of the crowd: substrate-dependent impact of black soldier fly larvae on bacterial community composition in substrate and larval gut	10	Illumina HiSeq 4000	0	10
+PRJEB40753	The microbial pathology of asthma	6	Illumina MiSeq	0	6
+PRJEB40821	Relative contributions of egg-associated and substrate-associated microorganisms to Black Soldier Fly larval performance and microbiota	8	Illumina NovaSeq 6000	0	8
+PRJEB40903	DNA extraction comparison testing 2019-2020	322	Illumina MiSeq	0	322
+PRJEB41002	Evaluating the microbial context of SARS-CoV-2 in patients and the hospital built environment	128	Illumina MiSeq	0	128
+PRJEB41443	Resistant starch type 2 from wheat improves glycemic response with concurrent alterations in gut microbiota composition	1	Ion Torrent S5	0	1
+PRJEB42019	Earth Microbiome Project Multi-omics (EMP500)	13	Illumina MiSeq	0	13
+PRJEB42262	CRIB	8	Illumina HiSeq 2500	0	8
+PRJEB43006	Small-scale shRNA screen in primary mouse macrophages	4	NextSeq 500	0	4
+PRJEB4335	comparison of the fecal microbiota in stool of HIV negative and positive individuals	1	unspecified	0	1
+PRJEB43511	Amplicon sequencing of individual microbial strains for generating mock bacterial and fungal community data	236	Illumina MiSeq	0	236
+PRJEB43756	Dissecting biofilm diversity on water lily leaves through 16S rRNA amplicon analysis: Comparison of four DNA extraction kits	8	Illumina MiSeq	8	0
+PRJEB4387	Functional genes to assess nitrogen cycling and aromatic hydrocarbon degradation: primers and processing matter	3	454 GS FLX Titanium	0	3
+PRJEB43950	miR-802 regulates Paneth cell function and enterocyte differentiation	2	Illumina MiSeq	0	2
+PRJEB44556	Managing contamination and diverse bacterial loads in 16S rRNA deep sequencing of clinical samples - implications of the law of small numbers	10	Illumina MiSeq	0	10
+PRJEB44675	Impact of Glucosamine Supplementation on Gut Health	1	Ion Torrent S5	0	1
+PRJEB45207	Comparison of microbial profiling	248	BGISEQ-500; Illumina MiSeq; Ion Torrent PGM; MinION; Sequel II	0	248
+PRJEB45241	Strain-level resolution of pneumococcal co-colonization and carriage dynamics by single molecule real time (SMRT) sequencing of the plyNCR marker: A longitudinal study in Swiss infants.	40	Sequel	0	39
+PRJEB45611	Chicory inulin enhances fermentation of 2â-fucosyllactose by infant fecal microbiota and differentially influences immature dendritic cell and T-cell cytokine responses under normal and Th2-polarizing conditions	2	Illumina HiSeq 2500	0	2
+PRJEB45648	Immune dysregulation associated with respiratory illness in elite athletes	2	Illumina MiSeq	0	2
+PRJEB46054	Phylogenetic diversity and compositional dynamics of potential diazotrophs in sediments along a 300 kilometer continental margin transect	5	Illumina MiSeq	0	5
+PRJEB46145	Microbial epibiotic community of the galatheid squat lobster Munidopsis alvisca	2	Illumina MiSeq	0	2
+PRJEB46338	A study to assess transplantation of the gastrointestinal microbiota from older broiler chickens into young chickens from a different broiler line.	1	Illumina MiSeq	0	1
+PRJEB4688	Comparison of 454 and Illumina 16S sequencing	7	454 GS FLX Titanium; Illumina MiSeq	0	7
+PRJEB4693	Microbial life in snake and spider venoms	1	Ion Torrent PGM	0	1
+PRJEB47035	Exploring the Saccharina latissima microbiota	3	Illumina MiSeq	0	3
+PRJEB47175	Skin microbiota analysis in patients with anorexia nervosa and healthy-weight controls	6	Illumina MiSeq	0	6
+PRJEB47404	Fiber mixture-specific effect on distal colonic fermentation and metabolic health	2	Illumina HiSeq 2500	0	2
+PRJEB47653	Dysbiosis in Imiquimod-induced psoriasis alters gut immunity exacerbating colitis development	26	Illumina MiSeq	0	26
+PRJEB48004	The intestinal mycobiome of preterm infants in the first six postnatal weeks determined by ITS2 sequencing.	9	Illumina NovaSeq 6000	0	8
+PRJEB48040	Assessing saliva microbiome collection and processing methods	4	Illumina MiSeq	0	4
+PRJEB48162	Monthly time-series analysis of the marine microbial community from two size fractions at the San Pedro Ocean Time-series station	26	Illumina HiSeq 2500; Illumina MiSeq	0	20
+PRJEB48638	Evaluation of different phyllosphere sample types for parallel metabarcoding of fungi and oomycetes in grapevine	1	Illumina MiSeq	0	1
+PRJEB49223	Eco-AlpsWater project: 12S rRNA sequences determined in mock and environmental samples	40	Illumina MiSeq	0	40
+PRJEB49361	Rearing environment persistently modulates the phenotype of mice	3	Illumina NovaSeq 6000	0	3
+PRJEB49387	Combined effects of temperature and resource availability on organic matter degradation by Antarctic bacterioplankton	2	Illumina MiSeq	0	2
+PRJEB49990	Chronic hypersensitivity pneumonitis	2	Illumina MiSeq	0	2
+PRJEB50027	ESBL-EC gut colonization in dogs is associated with a distinct microbiota and resistome composition	1	Illumina MiSeq	0	1
+PRJEB51496	Microbiome profiling of cestode infection of Atlantic salmon	8	Illumina MiSeq	0	8
+PRJEB51981	Fungal Microbiota in Cystic Fibrosis	4	Illumina MiSeq	0	4
+PRJEB51992	Permafrost incubation with collembola addition, 16S V4V5 amplicon	4	Illumina MiSeq	0	4
+PRJEB52361	Glycerol amendment stimulates biosulfidogenesis in AMD	4	Illumina HiSeq 2000	0	4
+PRJEB52423	Dispersal in sourdough microbial communities	6	Illumina MiSeq	0	6
+PRJEB52442	Effect of flour on the microbiota of experimentally produced sourdoughs	6	Illumina MiSeq	0	6
+PRJEB52552	Mesocoms study of prokaryotic community succession during induced phytoplankton spring bloom using V4-V5 16SrRNA primers	2	Illumina MiSeq	0	2
+PRJEB52591	Microbial communities of the traditional Lebanese fermented goat's milk product: labneh Ambaris	6	Illumina MiSeq	0	6
+PRJEB52722	Evaluation of sequencing approaches to profile taxonomy and resistome of polymicrobial samples	3	Illumina MiSeq; Illumina MiniSeq	0	3
+PRJEB53631	Urobiome Benchmarking	8	Illumina MiSeq	0	8
+PRJEB53632	Vaginal Benchmarking	16	Illumina MiSeq	0	16
+PRJEB53675	Characterization of Ferret Microbiota	8	Illumina MiSeq	0	8
+PRJEB53718	Effect of amoxicillin clavulanate on the intestinal microbiota and metabolomes of mice administered yogurt and Bifidobacterium animalis subsp. lactis BB-12	3	Ion Torrent S5	0	3
+PRJEB54614	Bacterial diversity in clouds versus aerosols at puy de Dome, France	9	Illumina MiSeq	0	9
+PRJEB5482	Persistent gut microbiota immaturity in malnourished Bangladeshi children	64	Illumina MiSeq	0	64
+PRJEB54878	Single-cell view of deep-sea microbial activity and intracommunity heterogeneity	5	Illumina MiSeq	0	5
+PRJEB54921	Optimizing bioreactor 1	8	Illumina NovaSeq 6000	0	8
+PRJEB55059	genes involved in fatty acid biosynthesis in chicken	1	Illumina MiSeq	0	1
+PRJEB55581	Genomic Explorations into an active Rift System	2	Illumina MiSeq	0	2
+PRJEB56380	Comparison of Nanopore and Illumina 16S rRNA gene amplicon sequencing	6	GridION; Illumina NovaSeq 6000	0	6
+PRJEB57073	We analyzed a total of 1â104 samples representing 212 gastric, 187 duodenal, and 705 fecal samples using a metabarcoding approach targeting the full ITS2 region for fungi, and the V4 hypervariable region of the 18S rRNA gene for the overall eukaryome.. Our study is of one of the largest cohorts analyzing the human intestinal eukaryome to date and the first to compare the eukaryome across different compartments of the gastrointestinal tract. Our 3 results highlight the importance of studying populations across the world to uncover common features of the eukaryome in health.	21	Illumina MiSeq	0	21
+PRJEB57436	Rare methanogenic archaea and role high-CO2 environments	2	Illumina MiSeq	0	2
+PRJEB57561	Microbial dynamics of the traditional Lebanese fermented goat's milk product: labneh Ambaris	6	Illumina MiSeq	0	6
+PRJEB58215	COPSAC2000 1m nasopharynx swab 16S V3-V4 amplicon sequencing	3	Illumina MiSeq	0	3
+PRJEB58629	Amplicon-based high throughput sequencing of norovirus in oysters	2	Illumina MiSeq	0	2
+PRJEB58751	One-Pot Making of Sequence-Restricted DNA Dumbbells	1	Sequel	0	1
+PRJEB59472	Kenyan infant fecal batch cultivation	1	Illumina MiSeq	0	1
+PRJEB60062	controlled environment bacteria community composition	1	Illumina MiSeq	0	1
+PRJEB60079	Targeted metagenomic data from mock communities and pig faeces samples	377	Illumina MiSeq; Sequel; Sequel II	0	377
+PRJEB60081	Elucidating Infectious Causes of Fevers of Unknown Origin: A Laboratory-Based Observational Study in Patients With Suspected Ebola, Guinea, 2014	3	GridION	0	1
+PRJEB60267	Skin microbiome ichthyosis	2	Illumina MiSeq	0	2
+PRJEB61550	Microdialysis as an approach to unravel mechanisms involved in plant-microbe interactions shaping the rhizobiome	2	Illumina MiSeq	0	2
+PRJEB6244	Mock community sequencing	73	Illumina MiSeq	0	73
+PRJEB63378	Gut microbiota and fecal short chain fatty acids differ with adiposity and country of origin: The METS-Microbiome Study	104	Illumina NovaSeq 6000	0	104
+PRJEB64200	Amplicon sequencing of Cyp51 from a fungal pathogen using unique molecular identifiers	1	MinION	0	1
+PRJEB64217	The microbiota conditions a gut-milieu which selects for wild-type Salmonella Typhimurium virulence	10	Illumina NovaSeq 6000	0	10
+PRJEB64296	16S V4V5 and ITS2 amplicon from soil communities in a mycorrhiza-removal experiment	4	Illumina MiSeq	0	4
+PRJEB64349	Effect of electron donor and electron acceptor amendment on micropollutant biodegradation in 1D simulated aquifers	3	Illumina MiSeq	0	3
+PRJEB64521	Effect of natural microbiota treatment on the chicken microbiota, immune system and induction of vaccine responses	1	Illumina MiSeq	0	1
+PRJEB64618	Dysbiosis in leaf microbiome caused by Xanthomonas	10	Illumina MiSeq	0	10
+PRJEB64690	Baby Carbs Study	8	Illumina HiSeq 2500	0	8
+PRJEB65743	Experimental evidence that root-associated fungi improve plant growth at high altitude	12	Illumina MiSeq	0	12
+PRJEB65749	Deadwood priority and colonization	164	Illumina MiSeq	0	164
+PRJEB65750	Deadwood stochasticity	28	Illumina MiSeq	0	28
+PRJEB65903	Impact of French Maritime Pine Bark Extract and Methylphenidate on the Gut Microbiota of paediatric Attention-Deficit Hyperactivity Disorder Patients	7	Sequel	0	7
+PRJEB66339	Experimental investigations of the effects of temperature and organic matter availability on Weddell Sea bacterioplankton via 16S amplicon sequencing	4	Illumina MiSeq	0	4
+PRJEB66721	Metabolic features explaining the prevalence Bathyarchaeia among microbial communities in ferruginous deposits	3	Illumina MiSeq	0	3
+PRJEB67711	Microbial metabolite profiles in anaerobic enrichment cultures from deep anoxic groundwater	2	Illumina iSeq 100	0	2
+PRJEB67827	Buffer contamination and cross-contamination	68	Illumina MiSeq	0	68
+PRJEB70597	Coordinated SARS-CoV-2 genomic surveillance across six continents using cloud informatics	4	unspecified	0	4
+PRJEB71796	Human Astrovirus CRISPR screen in Caco2 cells	3	Illumina MiSeq	0	3
+PRJEB71916	Dynamics of drinking water biofilm formation associated with Legionella spp. colonization	3	Illumina MiSeq	0	3
+PRJEB72125	Unexpected scarcity of ANME Archaea in hydrocarbon seeps within Monterey Bay	12	Illumina MiSeq	0	12
+PRJEB72160	Identity and abundance of diverse diazotrophs inside and outside six geochemically distinct cold seeps	11	Illumina MiSeq	0	11
+PRJEB72415	Repeated antibiotic usage independent of recent consumption results in gut barrier dysfunction	1	Illumina NovaSeq 6000	0	1
+PRJEB72432	16S rRNA V4 metabarcoding for bulk soil, distal rhizosphere, proximal rhizosphere, and roots of European Zea mays L. landraces	2	Illumina iSeq 100	2	0
+PRJEB72538	A mucin-degrading synthetic microbial community	2	Illumina NovaSeq 6000	0	2
+PRJEB72539	BIG-Syc continuous fermentations on HMOs	6	Illumina NovaSeq 6000	0	6
+PRJEB72643	Microbiome of control and exposed (divided into live, sick or dead diseases states) juvenile Pacific oysters in response to OsHV-1 exposure.	8	Illumina MiSeq	0	8
+PRJEB72734	Glycan degradation in the maturing infant gut microbiota	4	Illumina NovaSeq 6000	0	4
+PRJEB73502	The effects of climate and soil depth on living and relic bacterial communities along a longitudinal gradient in Chile	6	Illumina MiSeq	0	6
+PRJEB73593	Metataxonomic and bacterial culture studies of breast milk microbiota in premature infants: factors influencing its bacterial composition and diversity	6	Illumina MiSeq	0	6
+PRJEB73711	Investigating the impact of sanitisation of a liquid feeding system for pigs on the bacterial and fungal microbiota of the liquid feed and liquid feeding system surfaces	2	Illumina MiSeq	0	2
+PRJEB73712	Early-life fecal filtrate transplantation reduces mortality and post-weaning diarrhea in pigs reared without antibiotics	1	NextSeq 550	0	1
+PRJEB74474	16S amplicon sequencing for the diagnosis of drowning	4	Illumina MiSeq	0	4
+PRJEB75732	Microbial community shifts characterization in potato upon foliar infection	2	Illumina NovaSeq 6000	0	2
+PRJEB75931	pKjK5 in an anaerobic polymicrobial bioreactor	1	Illumina MiSeq	0	1
+PRJEB75957	Enhanced polyhydroxyalkanoate (PHA) production by a combined growth and storage response in waste activated sludge	1	Illumina MiSeq	0	1
+PRJEB76184	Water column methanotrophs in Wadden Sea and at cold seep in North Sea	3	Illumina MiSeq	0	3
+PRJEB76241	Phytophthora ITS1 amplicon Illumina MiSeq sequencing in tree nurseries and wider environment.	199	Illumina MiSeq	0	199
+PRJEB76487	Circum polar fecal DNA-based dietary studies of Arctic shorebird chicks	9	Illumina MiSeq	0	9
+PRJEB76595	Plants, not just environment, select the interacting fungal pool along altitude	14	Illumina MiSeq	0	14
+PRJEB77370	Characterisation of the microbiome of Halichondria panicea in the Baltic Sea using 16S rRNA gene amplicon sequencing	2	Illumina MiSeq	0	2
+PRJEB77412	10,487 metatranscriptomic assembled contigs generated from diverse global ecosystems	1	Illumina MiSeq	0	1
+PRJEB79238	Bioinoculant-induced plant resistance is modulated by interactions with resident soil microbes	2	Illumina MiSeq	0	2
+PRJEB79375	Crohn's Disease patients 16S gut microbiota from in vitro xenobiotic experiments	1	Illumina MiSeq	0	1
+PRJEB79664	Baltic TRANSCOAST G3 project, 3rd cohort	2	Illumina MiSeq	0	2
+PRJEB80221	Comparison of short and long-read metabarcoding sequencing of Ascophyllum nodosum microbial communities	17	Illumina MiSeq; Illumina NovaSeq 6000; MinION	0	17
+PRJEB80319	Temporary lake sustains active heterotrophic microbial communities in poly-extreme high-altitude environments of the Atacama Desert	6	Illumina MiSeq	0	6
+PRJEB80391	Intervention human study with antibiotics and 2-FL	6	Illumina NovaSeq 6000	0	6
+PRJEB80473	The Impact of Human Milk Oligosaccharides on Antibiotic-Induced Microbial Dysbiosis and Gut Inflammation in Mice	1	NextSeq 550	0	1
+PRJEB80558	Nanopore sequencing of mock and swine fecal communities	12	MinION	0	12
+PRJEB80691	BODAC filters operated for 14 years were studied in terms of its performance in removing organic micropollutants (OMPs) from wastewater effluent.	1	Illumina MiSeq	1	0
+PRJEB80709	Soil metabarcoding in conventional vs. organic farming practices	4	Illumina MiSeq	0	4
+PRJEB81670	eDNA metabarcoding based marine fish biodiversity using short and long amplicons	3	MinION	0	3
+PRJEB81812	Optimizing rpoB metabarcoding for low-concentration bacterial DNA in eukaryotic matrices using nested PCR: application to insect microbiota	37	Illumina MiSeq	0	37
+PRJEB81887	Metabarcoding of Walrus scat samples	1	Illumina MiSeq	0	1
+PRJEB82315	NaMeco - metataxonomic tool for 16S Nanopore long reads clustering and annotation	15	MinION	15	0
+PRJEB82492	Host-Level Biodiversity Shapes the Dynamics and Networks within the Coral Reef Microbiome	14	Illumina MiSeq	14	0
+PRJEB82852	Effective metabarcoding of endophytic fungi through host-exclusive primer design for nanopore long-read sequencing	10	MinION	0	10
+PRJEB83050	Impact of COVID infection and alcohol consumption on the gut microbiome.	14	Illumina NovaSeq 6000	0	14
+PRJEB83626	Respiratory microbiota and ventilator-associated pneumonia in children	4	Illumina MiSeq	0	4
+PRJEB83805	Mucin type affects synthetic community composition	2	Illumina NovaSeq 6000	0	2
+PRJEB85600	North Sea and Wadden Sea microbial communities in microcosm incubations with adjusted methane, temperature and salinity conditions	2	Illumina MiSeq	0	2
+PRJEB85713	Lacustrine Deep Biosphere and Sediment Substrates along a Million-Year Ferruginous Archive	4	Illumina MiSeq	0	4
+PRJEB85975	A duo of fungi and complex and dynamic bacterial community networks contribute to shape the Ascophyllum nodosum holobiont	6	Illumina NovaSeq 6000	0	6
+PRJEB86848	Study with raw data and assemblies that have problems	4	Sequel	0	4
+PRJEB86993	Contribution of DNA metabarcoding to the environmental fungal assessments in hospitals	3	Illumina MiSeq	0	3
+PRJEB87280	Monitoring of non-indigenous species in Sweden 2024	3	Illumina MiSeq	0	3
+PRJEB8730	MinION full 16S amplicon sequencing from mock microbial community and bacterial communities recovered by modified culture media.	2	MinION	2	0
+PRJEB87603	16S rRNA V4 metabarcoding of root-associated microbiomes of European Zea mays L. landraces and modern varieties grown in the field under ambient and 60% reduced precipitation	2	Illumina iSeq 100	2	0
+PRJEB87662	EMOSE (2017) Inter-Comparison of Marine Plankton Metagenome Analysis Methods	16	Illumina HiSeq 2500; Illumina MiSeq	0	16
+PRJEB87831	MetaBridge project: sediment processing comparisons for animal biodiversity through metabarcoding	8	Illumina NovaSeq 6000	0	8
+PRJEB87999	Lactobacillus crispatus based vaginal synthetic communities	2	MinION	0	2
+PRJEB88008	Dynamics of an Estuarine and Brackish Coastal Biotic Community Captured in High Spatio-Temporal Resolution using 16S Amplicon Sequencing	34	Illumina MiSeq	34	0
+PRJEB88011	The Dynamics of an Estuarine and Brackish Coastal Biotic Community Captured in High Spatio-Temporal Resolution using 18S Amplicon Sequencing	17	Illumina MiSeq	0	17
+PRJEB88026	DMR gut 16S plate4-8	5	Illumina MiSeq	0	5
+PRJEB89464	Prime_editing_of_PE2_oesophageal_epithelioids	3	Illumina MiSeq	0	3
+PRJEB89465	Role of 7alpha-dehydroxylated secondary bile acids in Clostridioides difficile colonization resistance	12	MinION	0	12
+PRJEB89490	Metataxonomic Longitudinal Study of Bacterial and Fungal Dynamics in Vacuum-Packed Beef	2	Illumina MiSeq	0	2
+PRJEB89653	Microbial species diversity along the kaak process	8	Illumina MiSeq	5	3
+PRJEB89945	Investigating protistan diversity in the Masurian Lakeland through Illumina and Nanopore amplicon sequencing	2	Illumina MiSeq; MinION	0	2
+PRJEB90117	Discovery of nitrogen-responsive microbial indicators as metrics of freshwater ecosystem health and River Microbiomes as Sentinels of National-Scale Freshwater Ecosystems	1	Illumina MiSeq	0	1
+PRJEB90267	characterisation of the antimicrobial protein Av2	10	Illumina MiSeq	0	10
+PRJEB90999	An optimized flow cytometry sorting-sequencing workflow reduces storage, sorting and extraction biases in sorted microbial communities	17	Illumina MiSeq	0	17
+PRJEB91249	Preserving insects for non destructive metabarcoding	77	Illumina MiSeq	0	77
+PRJEB91343	Gut bacteriome and mycobiome in glioblastoma: a prospective case-control study	1	Illumina MiSeq	0	1
+PRJEB91550	Seed Microbiota of mature seeds of rapeseed, tomato and wheat	6	Illumina MiSeq	0	6
+PRJEB91662	Effect of SynCom inoculation of Brassica napus JUPITER seed on seed and seedling microbiota.	2	Illumina MiSeq	0	2
+PRJEB92094	Volumetric diet through metabarcoding in a top predator	24	Illumina MiSeq	0	24
+PRJEB92103	16SrRNA Dataset of SDWDS (Uruguay)	3	Illumina MiSeq	0	3
+PRJEB93865	Improving_prime_editing_efficiency_of_PE2_oesophageal_epithelioids	2	Illumina MiSeq	0	2
+PRJEB93909	In vitro utilization of barley husk by human gut microbiota depends on husk composition and particle size	11	Illumina NovaSeq 6000	0	11
+PRJEB94327	16S rRNA from water column and sediment in sub-Arctic waterbodies	9	Illumina MiSeq	9	0
+PRJEB94350	Assessing_the_effect_of_transduction_order_on_prime_editing_efficiency	2	Illumina MiSeq	0	2
+PRJEB94648	Lung cancer respiratory tract microbiome	7	Illumina MiSeq	0	7
+PRJEB95106	Metabarcoding of 16S rRNA genes and transcripts from root-associated prokaryotic communities in maize and strawberry under artificial microplastic contamination	3	Illumina iSeq 100	3	0
+PRJEB96207	In this study we sequenced gut-metagenomic DNA by bacteria and nascent vesicles(vesiculome)	2	Illumina MiSeq	0	2
+PRJEB96487	The microbiome and mycobiome ecology of paediatric Crohnâs disease	4	Illumina MiSeq	0	4
+PRJEB97637	Triangulation and selective inhibition of patient-specific pathobionts	432	Illumina NovaSeq X	0	432
+PRJEB97802	Bacterial 16S V4V5 data on 4 permafrost soils inoculated with active layer soils in an aerobic incubation experiment	7	Illumina MiSeq	0	7
+PRJEB98135	Environmental microbiota transfer into urban homes	24	Illumina MiSeq	0	24
+PRJNA1000746	Bacterial Leaf Phyllosphere Microbiome Treated with Copper- and Sulphur Based Fungicides. (16S Sequences)	2	Illumina MiSeq	2	0
+PRJNA1000758	Fungal Leaf Phyllosphere Microbiome Treated with Copper- and Sulphur Based Fungicides. (ITS Sequences)	2	Illumina MiSeq	0	2
+PRJNA1000981	Impact of Fungicides on the Grape Berry Microbiome and the Sensory Profile of Derived Wines. (ITS Sequences)	2	Illumina MiSeq	0	2
+PRJNA1002477	Assessment of DNA extraction methods for human gut mycobiome analysis using mock community	6	Illumina MiSeq	0	6
+PRJNA1005064	The chromatin context differently impacts prime editors and base editors and controls the fidelity and purity of base editing	8	Illumina MiSeq	0	8
+PRJNA1005643	Microbial Diversity of Air in Czech Republic Archives	10	Illumina MiSeq	0	10
+PRJNA1006621	Removal of false positives in metagenomics-based taxonomy profiling via targeting Type IIB restriction sites	4	Illumina HiSeq 2500	0	4
+PRJNA1007604	Fungal biodiversity on Historical Audio-Visual Materials in the Czech Republic	5	Illumina MiSeq	0	5
+PRJNA1008362	Tuatara gut microbiome Raw sequence reads	1	Illumina MiSeq	1	0
+PRJNA1010014	High intensity perturbations induce an abrupt shift in soil microbial state	2	Illumina MiSeq	2	0
+PRJNA1010761	Seawater microbiome of Jardines de la Reina, Cuba Reef System Raw sequence reads	2	Illumina MiSeq	0	2
+PRJNA1013055	Rhizobacterial communities associated with wild wheat progenitors, ancestral and commercial wheats grown in soils treated with and without NPK fertilizer	4	Illumina MiSeq; Illumina NovaSeq 6000	4	0
+PRJNA1013601	Comparative Analysis of the Gut Microbiome: Impacts of Oral Contraceptives and Prune Diet Intervention in Women	2	NextSeq 2000	2	0
+PRJNA1015258	Tumor-associated microbiota suppresses anti-tumor immunity by driving cDC1 dysfunction in lung adenocarcinoma	2	Illumina MiSeq	0	2
+PRJNA1015384	Endophytic microbiomes of Arabidopsis thaliana with mutant pattern recognition receptors in the field	56	Illumina MiSeq	0	56
+PRJNA1015679	16S rRNA nasopharyngeal gene amplicons from apparently healthy Holstein calves and calves diagnosed with bovine respiratory disease	4	Illumina MiSeq	4	0
+PRJNA1016047	Investigation of duckweed microbial communities	4	Sequel	0	4
+PRJNA1017437	Olive seed microbiome	3	Illumina MiSeq	3	0
+PRJNA1018846	Efficacy of the butyrate/DCA combination in the prevention of necrotic enteritis in chickens	21	Illumina MiSeq	0	21
+PRJNA1019781	Benchmarking long-read sequencing strategies for obtaining ASV-resolved rRNA operons from environmental microeukaryotes	3	MinION; Sequel II	0	3
+PRJNA1021338	Lactobacillaceae mock community Nanopore sequencing	6	MinION	4	2
+PRJNA1021650	Metabarcoding marker portfolio for aquaculture feeds	87	HiSeq X Ten	0	87
+PRJNA1023543	The reproductive microbiome and maternal transmission via eggs in Sceloporus virgatus	6	Illumina MiSeq	0	6
+PRJNA1023617	Strongylocentrotus purpuratus microbiome raw sequence reads 16S rDNA	1	Illumina MiSeq	1	0
+PRJNA1025276	Female Catheterized Urine Targeted loci	2	Sequel II	2	0
+PRJNA1027363	GAC biofilter community under nitrogen concentrations	6	Illumina MiSeq	0	6
+PRJNA1027822	landfill cover system soil samples Raw sequence reads	1	Illumina MiniSeq	0	0
+PRJNA1032436	Optimising species detection probability and sampling effort in lake fish eDNA surveys	24	Illumina MiSeq	0	24
+PRJNA1032620	Effect of chronic aspartame on bone strength	8	Illumina MiSeq	0	8
+PRJNA1033793	Zika virus MR766 Raw sequence reads	4	Illumina MiSeq	0	4
+PRJNA1034814	Impact of starter cultures and brine management on the fermentation of Itrana table olives	2	Illumina NovaSeq X	0	2
+PRJNA1036403	Unveiling climate- and resource-driven Variation in Bumble Bee Gut Microbiomes: Perspectives from Elevational Gradients, Colony Translocation, and Climate Chamber Experiments	1	Illumina MiSeq	0	1
+PRJNA1036534	16s rRNA gene amplicon dataset of microbiome of planarians	1	Illumina MiSeq	1	0
+PRJNA1036680	Near full-length 16S rRNA amplicon sequencing of ZymoBIOMICS mock	13	MinION	0	13
+PRJNA1039717	Study of wheat-associated endophytic microbiome	72	Illumina MiSeq	0	72
+PRJNA1039858	Microbial diversity of Appalachian salamander skin	8	Illumina MiSeq	8	0
+PRJNA1042945	Activated carbon amendment of sand in the base of a pilot-scale permeable pavement reduces total nitrogen and nitrate leaching	2	MinION	2	0
+PRJNA1043901	Biodiversity comparison between fallow crop fields and natural veld: The process of natural recovery assessed through DNA barcoding	2	Illumina MiSeq	0	2
+PRJNA1044006	Interactions Between Diet, Microbiome and Abiotic Conditions in the Gut (PRIMA)	5	Ion Torrent S5	0	5
+PRJNA1044735	hummock soil 16S rRNA	72	Illumina MiSeq	0	72
+PRJNA1044909	hummock soil ITS	66	Illumina MiniSeq	0	66
+PRJNA1044914	hummock soil 16S rRNA	66	Illumina MiniSeq	0	66
+PRJNA1045552	Archaeal and bacterial amplicons from hosts systems of the CRC1182 Metaorganisms	4	Illumina MiSeq	0	4
+PRJNA1046454	Fungal communities of grape leaves and fruits	1	Illumina MiSeq	0	1
+PRJNA1047301	Precision genome editing using combinatorial viral vector delivery of CRISPR-Cas9 nucleases and donor DNA constructs	5	Illumina MiSeq	0	5
+PRJNA1048331	Fibrex	12	Ion Torrent S5	0	12
+PRJNA1048355	Determining the microbial species content in brain tissue	1	MinION	0	1
+PRJNA1049855	Diversity of symbiotic cyanobacteria in cycad coralloid roots using a short-read rbcL-X amplicon	5	Illumina MiSeq	0	5
+PRJNA1052754	Nanopore Amplicon Sequencing: Drinking Water Case Studies	6	GridION	0	6
+PRJNA1055511	Updating gyrB primer sets to be used in microbiome coevolutionary research	8	Illumina MiSeq; Sequel II	2	6
+PRJNA1059782	Real and mock estuarine fish data Raw sequence reads	33	Illumina MiSeq	0	33
+PRJNA1061202	Diet effects on gut and reproductive structure microbiome in Bactrocera dorsalis	2	Illumina MiSeq	2	0
+PRJNA1062042	Microbial mats libraries	3	Illumina NovaSeq 6000	0	3
+PRJNA1063628	Early assessment of microbial pathogens using MinION sequencing	192	MinION	0	192
+PRJNA1065327	Atacama Soils and microbial mat samples	3	Illumina NovaSeq 6000	0	3
+PRJNA1065589	Resting cysts of dinoflagellates host bacterial microbiomes with more diverse metabolism under mock conditions of marine sediments	11	Illumina NovaSeq 6000	0	11
+PRJNA1065643	AlRub' AlGhali: a study of the Empty Quarter in Saudi Arabia	2	Illumina MiSeq	2	0
+PRJNA1066814	BIOS-SCOPE Size-fractionated microbial communities in the upper 500m at the Bermuda Atlantic Time Series	3	Illumina MiSeq	0	3
+PRJNA1068337	Benthic protist community in Mediterranean sediment samples Raw sequence reads	6	Illumina MiSeq	0	6
+PRJNA1068637	16S amplicons from SARS-CoV2 exposed infants	2	Illumina MiSeq	1	1
+PRJNA1069732	Sea buckthorn dieback in Northern Germany: Fungal isolations and mycobiome analyses	1	Illumina MiSeq	0	1
+PRJNA1069904	Oral, vaginal, rectal and colostrum microbiota in periparturient sows	2	Illumina MiSeq	2	0
+PRJNA1074069	Drosophila melanogaster Raw sequence reads	4	Illumina MiSeq	0	4
+PRJNA1076586	Impact of antiretroviral therapy on oral health and oral microbiome of domestic cats with Feline Immunodeficiency Virus	3	Illumina NovaSeq 6000	0	3
+PRJNA1078733	Oyster transcriptome and associated microbiota after microbial exposure	4	Illumina MiSeq	0	4
+PRJNA1078834	Microbiome and Transcriptional Changes associated with Fecal Microbiota Transplantation in Mice	1	Illumina MiSeq	1	0
+PRJNA1082293	Caterpillar-parasitoid interactions: species-specific influences on host microbiome composition	1	Illumina MiSeq	0	1
+PRJNA1082425	Tuatara cloacal swabs Nanopore raw sequence reads	1	GridION	0	1
+PRJNA1083322	Biofia	3	Illumina MiSeq	0	3
+PRJNA1083727	Environmental DNA metabarcoding differentiates between micro-habitats within the rocky intertidal	2	Illumina MiSeq	0	2
+PRJNA1084203	Healthy human feces and ZymoBIOMICS Microbial Community Standard Raw sequence reads	96	Illumina MiSeq	0	96
+PRJNA1085780	wastewater treatment plant Raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA1087128	Deoxycholic Acid Protects Chickens from Necrotic Enteritis by Inhibiting Pathobionts While Enriching Specific Lactic Acid Bacteria	22	Illumina NovaSeq 6000	0	22
+PRJNA1087739	A functional circadian clock regulates composition and daily bacterial load of the gut microbiome in Drosophila melanogaster	3	Illumina MiSeq	0	3
+PRJNA1089945	Root microbiota and metabolome of Pinus pinaster trees affected by decline	6	Illumina MiSeq	6	0
+PRJNA1090029	An aptamer-mediated base editing platform for simultaneous knock-in and multiple gene knockout for allogeneic CAR-T cells generation	24	Illumina MiSeq	0	24
+PRJNA1092079	EnsembleSeq: A workflow towards real-time, rapid and simultaneous multi-kingdom amplicon sequencing for holistic and resource-effective microbiome research at scale	1	MinION	1	0
+PRJNA1092393	Green roof substrate microbes: Stress-tolerant communities characterized by the aeromicrobiome?	2	Illumina MiSeq	0	2
+PRJNA1092644	Ash microcosms Raw sequence reads	3	Illumina MiniSeq	0	3
+PRJNA1092847	Nothobranchius furzeri transcriptomes of the brain and spleen and gut microbiome - treatment with lifespan extending compounds	1	Illumina MiSeq	0	1
+PRJNA1093005	CVM animal feed microbiome 16S	36	NextSeq 500	36	0
+PRJNA1093424	Pediatric Bariatric Surgery	2	Illumina MiSeq	2	0
+PRJNA1095240	The full-length 16S rRNA gene for MOCK and real samples	6	PromethION; Sequel II	0	6
+PRJNA1096453	Natural Caenorhabditis microbiomes and their substrate microbiome	24	Illumina MiSeq	0	24
+PRJNA1096953	Lethal Disruption of the Symbiotic Gut Community in Eastern Subterranean Termite (Reticulitermes flavipes) Caused by Boric Acid	3	Illumina NovaSeq 6000	3	0
+PRJNA1097575	Relating target fish DNA concentration to community composition analysis in freshwater fish via metabarcoding	150	Illumina MiSeq	0	150
+PRJNA1097841	Food plants of grey-headed flying fox (Pteropus poliocephalus)	6	Illumina MiSeq	0	6
+PRJNA1098090	16s metagenomic sequences from mice	12	Illumina NovaSeq 6000	0	12
+PRJNA1100180	Bacterial landscapes in Trinervitermes trinervoides termite colonies from South Africa	1	Illumina MiSeq	0	1
+PRJNA1100950	Synthetic spike-in controls for bacterial and fungal rRNA gene amplicon sequencing	86	Illumina MiSeq	0	86
+PRJNA1101406	Rice diterpenoids affect microbial communities in nematode infested soils	8	Illumina MiniSeq	0	8
+PRJNA1101562	Quantifying Variation Across 16S rRNA Gene Sequencing Runs in Human Microbiome Studies	38	Illumina MiSeq	0	38
+PRJNA1102949	Short-read full-length 16S rRNA amplicon sequencing for characterisation of the respiratory bacteriome of captive and free-ranging African elephants (Loxodonta africana).	1	Illumina iSeq 100	0	1
+PRJNA1104222	Horn Point Laboratory Oyster Hatchery 2021 Larval Microbiota	2	Illumina MiSeq	0	2
+PRJNA1104457	Soil microbial diversity and function are more affected by plant identity than plant interspecific interactions in intensive grasslands.	2	Illumina MiSeq	0	2
+PRJNA1104538	Robust genome editing activity and the applications of enhanced miniature CRISPR-Cas12f1	107	Illumina MiSeq	0	107
+PRJNA1106024	IgG Sequencing in PI-ME/CFS	4	Illumina MiSeq	0	4
+PRJNA1114669	The bacterial community in a Nile tilapia and garlic aquaponic system co-cultivating various microalgae	1	Illumina MiSeq	0	1
+PRJNA1117022	Effects of Nitrogen Enrichment on Lignin Decomposition and Microbial Community Dynamics in Boreal Forest Soils	1	Sequel II	0	1
+PRJNA1117193	Palm Oil Recovery Plots	8	Revio	0	8
+PRJNA1117889	Non-viral DNA delivery and TALEN editing corrects the sickle cell mutation in Hematopoietic Stem Cells	10	NextSeq 550	0	10
+PRJNA1118258	Pelagic fungal diversity in Scandinanvia	1	Illumina MiSeq	0	1
+PRJNA1118282	16S and 18S libraries of maize microbiomes - protist growth chamber experiment	12	Illumina MiSeq	0	12
+PRJNA1118287	Gadid metabarcoding of mock communities and aquarium metagenomes	735	Illumina MiSeq	0	735
+PRJNA1120123	Mangrove 16S and ITS metabarcoding	2	Illumina MiSeq	0	2
+PRJNA1120972	Biogeography of the human mucosal-associated microbiota	12	Illumina MiSeq	0	12
+PRJNA1122981	Long-read Pacbio amplicon sequencing of food-associated mock communities	16	Sequel	0	16
+PRJNA1123408	Environmental DNA metabarcoding in the Cape Fold aquatic ecoregion	2	Illumina MiSeq	0	2
+PRJNA1126037	molecular gut content analysis to investigate the feeding behavior of phytophagous insects	2	MinION	0	2
+PRJNA1127241	Cat fecal fiber fermentations	2	Illumina MiSeq	0	2
+PRJNA1128649	Identification of Species of shuizhi (leech) in Chinese Patent Medicine	1	Illumina MiSeq	0	1
+PRJNA1129458	CONCOMPRA validation data	4	MinION	0	4
+PRJNA1129542	Effect of intra-partum azithromycin on gut microbiome development in early childhood	7	Illumina MiSeq	7	0
+PRJNA1129888	GDH1 suppresses ferroptosis and promotes immune evasion in pancreatic ductal adenocarcinoma by liberating NRF2 from KEAP1 [scRNA-seq]	1	Illumina HiSeq 4000	0	1
+PRJNA1131785	Next-generation sequencing of highly host-contaminated mock samples and saliva samples.	4	Illumina MiSeq	0	4
+PRJNA1136882	The effects of ceftriaxone on the gut microbiome	1	Illumina MiSeq	0	1
+PRJNA1136929	Uropathogenic Dysbiosis Pattern is Associated With Urethral Fibrosis	19	Illumina MiSeq	0	19
+PRJNA1137549	Autophagy induction enhances HR-mediated gene editing	3	Illumina MiniSeq	0	3
+PRJNA1138067	ITS2 amplicon sequencing quality bias	5	Illumina MiSeq	0	5
+PRJNA1139700	Bacterial mock community analysis using Nanopore long-read metabarcoding	6	MinION	6	0
+PRJNA1140235	Marden Creek eDNA and Electrofishing Comparison Project	4	Illumina MiSeq	0	4
+PRJNA1140537	Pre-sowing recurrent inoculation with Pseudomonas fluorescens promotes maize growth	1	Illumina MiSeq	0	1
+PRJNA1141486	Interstitial Cystitis Longitudinal Urobiome	20	Illumina MiSeq	20	0
+PRJNA1142905	Microbiome sequencing of toxigenic and nontoxigenic Pseudo-nitzschia cultures	2	Illumina MiSeq	0	2
+PRJNA1145657	Role of mouse strain in a model of adjuvat-free epicutaneous sensitization and food allergy	3	Illumina MiSeq	3	0
+PRJNA1147009	Mock community for Oxford Nanopore sequencing Raw sequence reads	30	PromethION	0	30
+PRJNA1149044	28S rRNA metabarcoding marker	13	Illumina MiSeq	0	13
+PRJNA1151640	Fungal community of Fagus sylvatica deadwood bark	1	MinION	0	1
+PRJNA1152481	On- and off- target multiplex sequencing of primary human cells edited in TCRB, TCRA, and PDCD1 genes.	6	Illumina MiSeq; NextSeq 2000	0	6
+PRJNA1153716	Programmable Editing of Primary MicroRNA Switches Stem Cell Differentiation and Improves Tissue Regeneration	9	Illumina NovaSeq 6000	0	9
+PRJNA1155606	Spina Bifida Urinary and Fecal Microbiomes	16	Illumina MiSeq	0	16
+PRJNA1156799	Microbiome Characterization of Two Fresh Pork Cuts During Production in a Pork Fabrication Facility	1	Illumina MiSeq	0	1
+PRJNA1156994	VUMC Urobiome	20	Illumina MiSeq	4	16
+PRJNA1157715	Metabarcoding of a mock community of soil invertebrates: DNA extraction, false-positives, and data filtration	24	Illumina MiSeq	0	24
+PRJNA1158730	Nanopore-based metagenomic sequencing for rapid detection and identification of Bacillus spp. in plant-based products	6	MinION	3	3
+PRJNA1160472	Sampling of native grass endophyte communities in endangered prairies of the Pacific Northwest, USA	4	Illumina MiSeq	0	4
+PRJNA1162421	bacteria and ant species in ant yogurt fermentation Raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA1162502	Interaction between RA/JIA-associated PTPN2 loss of function and patient microbiome promotes the gut-joint axis in mice	16	Illumina MiSeq	0	16
+PRJNA1162556	Peaola Rhizosphere Microbiome	7	Illumina MiSeq	0	7
+PRJNA1162582	2021 Peaola Project	2	Illumina MiSeq	0	2
+PRJNA1162884	2022 Peaola Project	1	Illumina MiSeq	0	1
+PRJNA1164676	Konjac glucomannan on cardiometabolic health and gut microbiota	1	Illumina MiSeq	1	0
+PRJNA1167903	Genome editing with the HDR-enhancing DNA-PKcs inhibitor AZD7648 causes large-scale genomic alterations	16	NextSeq 2000; PromethION	0	16
+PRJNA1170979	Long-term tillage regime structures bacterial assimilation of xylose and cellulose	2	Illumina MiSeq	0	2
+PRJNA1170992	Precipitation paradox: drought suppresses amphibian pathogen yet intensifies transmission and disrupts protective skin microbiome	1	Illumina MiSeq	0	1
+PRJNA1172999	CoSMIC A hybrid approach for large-scale, high-resolution microbial profiling of novel niches	4	Illumina NovaSeq 6000	0	4
+PRJNA1175077	Root-associated microbiota of banana mother and suckers plants	2	Illumina MiSeq	2	0
+PRJNA1175825	Panama amphibian microbiome	1	Illumina MiSeq	0	1
+PRJNA1177626	Towards Gold-Standard Microbiota Procedures with Oxford Nanopore Technology: Insights from Water and Multiple Fish Compartments	12	MinION	0	12
+PRJNA1178689	Temporal Dynamics of Fresh Pork Microbial Ecology Across Meat, Contact Surfaces, and Fabrication Lines in a Pork Processing Facility	2	NextSeq 2000	0	2
+PRJNA1185193	Outstanding enrichment of ladderane lipids in anammox bacteria: overlooked effect of pH	1	Illumina NovaSeq 6000	0	1
+PRJNA1185436	Optimisation of DNA extraction from nasal lining fluid	19	Illumina MiSeq	19	0
+PRJNA1188511	Nasopharyngeal microbiota is influenced by agricultural air pollution in individuals with and without COPD	19	Illumina MiSeq	0	19
+PRJNA1189047	Wheat rhizosphere SynCom 16S rRNA	3	Illumina MiSeq	0	3
+PRJNA1189321	Studies of microbial diversity on plant	12	NextSeq 2000	0	12
+PRJNA1189465	Assessment of anthropogenic effects on biodiversity in the Peruvian Amazon using environmental DNA (eDNA)	3	Illumina NovaSeq 6000	0	3
+PRJNA1190518	Mumps CRISPR Screen Sequencing	3	Illumina NovaSeq 6000; NextSeq 500	0	3
+PRJNA1190857	Fungal community associated with conifer seeds	8	Illumina MiSeq	0	8
+PRJNA1191072	Cooking-derived organic compounds drive the concentration, diversity, and composition of bacteria on household surfaces	6	Illumina MiSeq	0	6
+PRJNA1191373	Microbiome of wheat spermosphere	1	Illumina MiSeq	0	1
+PRJNA1193629	Optimizing antigenic variations to improve influenza vaccine efficiency	32	Illumina MiSeq	0	32
+PRJNA1194595	Longitudinal microbiomes of coral and near-coral seawater influenced by disease phase	3	Illumina MiSeq	0	3
+PRJNA1195741	Infant gut microbiome sequencing study including mock controls, technical replicates and stool/rectal swab sample pairs	138	Illumina MiSeq	0	138
+PRJNA1196954	Full length 16S rRNA Kinnex Sequencing of Male and Female Tephritid Fruit Flies from ARS Colony '24	179	Revio	0	179
+PRJNA1197520	Next-generation sequencing for identification and detection of Cryptosporidium species, including minority variants and mixed infections at the species level	10	Illumina MiSeq	0	10
+PRJNA1197710	V3-V4 16S rRNA gene sequencing data from the metagenomes of various types of samples Metagenome	15	Illumina MiSeq	15	0
+PRJNA1199060	Season, body condition, and age influence the gut microbiota of the sole living Rhynchocephalian reptile (Sphenodon punctatus)	3	GridION	0	3
+PRJNA1199206	Nationwide multicenter study of Nanopore long-read sequencing for 16S rRNA-species identification	454	GridION; MinION; PromethION	0	454
+PRJNA1201596	Microbial diversity of a trematode under the influence of host identity	1	Illumina MiSeq	1	0
+PRJNA1201757	Cervical microbiome of liquid based cytology samples from PepCan and Candida treatments.	4	Illumina MiSeq	0	4
+PRJNA1205945	Microbiota of Co-occurring Mosses and Vascular Plants in Alpine Habitat Raw sequence reads	11	Illumina MiSeq	0	11
+PRJNA1207053	Honey bee (Apis mellifera) queen quality: Host-microbial transcriptomes exploring the influence of age and hindgut symbiont Commensalibacter melissae	1	Sequel IIe	0	1
+PRJNA1208416	A novel approach using CRISPR-ribonucleoprotein packaged in virus-like particles to generate genetically engineered mouse models	4	Illumina MiSeq	0	4
+PRJNA1209071	Long-term microbiome alteration following early-life respiratory syncytial virus infection	3	Illumina MiSeq	3	0
+PRJNA1209786	Multi-marker fish eDNA metabarcoding comparison: Illumina vs Nanopore	24	Illumina NovaSeq X; MinION	0	24
+PRJNA1213012	Analytic Attributes of the 16S rRNA Gene Sequencing Methodology for Human Gut Microbiota Characterization	3	Illumina MiSeq	3	0
+PRJNA1213719	Microbial diversity of skin and gut of infants and toddlers with atopic dermatitis and/or food allergy.	2	Illumina MiSeq	0	2
+PRJNA1214382	Antibiotic and Prebiotic effects on maternal and offspring microbiota	3	Illumina MiSeq	0	3
+PRJNA1215047	16S rRNA gene sequencing on Illumina ZymoBIOMICS Gut Microbiome Standard	4	Illumina MiSeq	0	4
+PRJNA1215048	16S rRNA gene sequencing on MinION ZymoBIOMICS Gut Microbiome Standard	4	MinION	0	4
+PRJNA1215381	The Effect of Oomycete Pathogen Inoculation on the Rhizobiome of Rhododendron	4	Illumina MiSeq	0	4
+PRJNA1217616	JA and SA-shaped Rhizosphere Bacterial Communities	32	Illumina NovaSeq 6000	0	32
+PRJNA1217804	JA and SA-shaped Rhizosphere Fungal Communities	32	Illumina NovaSeq 6000	0	32
+PRJNA1218494	Metabarcoding at savanna waterholes to monitor terrestrial vertebrates	19	Illumina NovaSeq X	0	19
+PRJNA1218679	Plant relative abundance estimates affected by primer choice in fecal metabarcoding	106	Illumina MiSeq	0	106
+PRJNA1219089	Multifaceted Assessment of Fungal Diversity and Biodegradation Activity in Historical Library	6	Illumina MiSeq	0	6
+PRJNA1223696	Microbial diversity from soil samples under Maytenus senegalensis and gaps	2	Illumina MiSeq	0	2
+PRJNA1223959	Microbiome diversity of caves, bat skin, and bat ectoparasites in Mexico	2	Illumina MiSeq	1	1
+PRJNA1224601	Survival and succession of Salmonella	60	NextSeq 2000	0	60
+PRJNA1224988	Oligotrophic lakes Raw sequence reads	5	Illumina MiSeq	0	5
+PRJNA1226244	Moorea 2017 reef exometabolites	4	Illumina MiSeq	0	4
+PRJNA1227997	The bacterial community composition of American lobster (Homarus americanus) embryos and recently hatched larvae held under different temperature and acidification conditions	2	Illumina MiSeq	2	0
+PRJNA1229090	AI-generated MLH1 small binder improves prime editing efficiency	159	Illumina MiniSeq; Illumina NovaSeq X	0	159
+PRJNA1232188	Diversity of soilborne oomycetes associated with industrial hemp in southeastern Pennsylvania	6	Illumina MiSeq	0	6
+PRJNA1232616	Comprehensive Cross-Domain Taxonomic Classification of Microbiotas using Partitioned Amplification Multiplexed Amplicon Sequencing	3	Illumina MiSeq	0	3
+PRJNA1232847	Root samples of wild-type (Nipponbare) treated by functional strains in the field	2	Illumina HiSeq 2500	0	2
+PRJNA1236344	Assessing barcoding efficiency using mock fungal communities	24	MinION	0	24
+PRJNA1236398	COVID-19 Induces Lasting Gut Microbiome Alterations	24	Illumina NovaSeq 6000	0	24
+PRJNA1238575	Microbial Diversity from soil samples under Quercus ilex trees	2	Illumina MiSeq	0	2
+PRJNA1240184	Effects of prebiotic xylo-oligosaccharide on PWD piglet performance and gut health	5	Illumina MiSeq	5	0
+PRJNA1241238	Phosphorus Nanoparticle Corn Rhizosphere Nanopore Soil Microbiome	1	MinION	0	1
+PRJNA1242334	Comparing mcrA and V4 16S rRNA sequencing in methanogenic archaea	30	Illumina MiniSeq	0	30
+PRJNA1244892	Testing marine microbial mock communities for rRNA gene amplicon sequencing	6	Illumina MiSeq; NextSeq 2000	2	4
+PRJNA1244918	Real-time and field-friendly diet and gut microbiome metabarcoding analyses of skipjack tuna (Katsuwonus pelamis) with Oxford Nanopore Technology	8	MinION	0	8
+PRJNA1246597	Full-length 16S rRNA PacBio Kinnex sequencing of mass-reared Ceratitis capitata in Hawaii 2023, Apr 3 2025	172	Revio	0	172
+PRJNA1249111	Preservation of particle-attached microbial communities	5	Illumina MiSeq	0	5
+PRJNA1249409	Multi-gene metabarcoding of fungi	36	Illumina MiSeq	0	36
+PRJNA1254228	HIGH-PERFORMING UPLAND COTTON SHIFTS ROOT-ASSOCIATED MICROBIOMES UNDER WATER LIMITATION	1	Illumina MiSeq	0	1
+PRJNA1256130	Giant Kelp Microbiome - Mohawk Reef	2	Illumina MiSeq	2	0
+PRJNA1257538	Spodoptera exigua whole body and hemolymph microbiome changes in HvAV-3h infected and mock larvae	36	Illumina MiSeq	0	36
+PRJNA1259967	hoof Targeted loci environmental	1	Illumina HiSeq 2500	0	1
+PRJNA1260186	12S rRNA metabarcoding in rocky reef habitat with and without black coral	1	NextSeq 500	0	1
+PRJNA1261430	Senescent CD9+Dll4+ neutrophils induced tumoral F1,6P allosterically recovers AKT kinase for rapid adaption of Capivasertib	1	Illumina NovaSeq 6000	0	1
+PRJNA1261676	Swabs of surfaces in meat processing facilities Raw sequence reads	10	Illumina NovaSeq 6000	0	10
+PRJNA1262538	Targeted_SF370_genome_NAC	1	Illumina MiniSeq	0	1
+PRJNA1262544	Targeted_SF370_genome_H2O2	1	Illumina MiniSeq	0	1
+PRJNA1263539	FlexTax: Assigning species-level taxonomy to full-length 16S rRNA gene sequences	20	Sequel IIe	11	9
+PRJNA1263788	Leaf microbiome of wild pathosystems	44	Illumina MiSeq	0	44
+PRJNA1266140	an interlaboratory evaluation of SOPs for microbiome study in the SUS-MIRRI.IT Project Raw sequence reads	48	Illumina MiSeq	0	48
+PRJNA1266630	16S sequence of experimentally infected sheep with bovine digital dermatitis lesion material Targeted loci environmental	114	Illumina MiSeq	0	79
+PRJNA1267477	Tiling 16S rRNA Gene Amplicon Sequencing Identifies Bacterial Species Soon After Lung Transplant That Predict Later Acute Rejection	1	Illumina MiSeq	1	0
+PRJNA1268008	16S microbial community profiling in qFit samples.	2	Illumina MiSeq	2	0
+PRJNA1268757	Effects of Host Contamination in 16S rRNA Gene Sequencing of Low Biomass Samples	45	Illumina MiSeq	45	0
+PRJNA1270070	16S Analysis of Children in Cryptosporidium Burden Cohort	6	Illumina MiSeq	6	0
+PRJNA1272323	Microbiota modulate immune cell populations and drive dynamic structural changes in gut- associated lymphoid tissue	1	Illumina NovaSeq 6000	1	0
+PRJNA1272818	Soil RNA-stable isotope probing using glucose under oxic and anoxic conditions	1	Illumina MiniSeq	0	1
+PRJNA1276476	Bacterial and fungal microbiota in Anopheles darlingi from three regions of Colombia Raw sequence reads	1	Illumina NovaSeq 6000	0	1
+PRJNA1276480	Exploring the Gut-Liver Axis Following Combined Radiation Exposure and Burn Injury in a Sinclair Minipig Model	6	NextSeq 500	0	6
+PRJNA1277168	Microbiome diversity of low biomass skin sites is captured by metagenomics but not 16S amplicon sequencing	54	Element AVITI	0	54
+PRJNA1277515	Air pressure impact on rhizosphere microbiota	6	Illumina NovaSeq 6000	3	3
+PRJNA1279169	Fungal and bacterial microbiome of transgenic tobacco plants emitting isoprene Targeted loci environmental	1	Illumina MiSeq	0	1
+PRJNA1279211	Soil Steaming Disturbance Alters Assembly of the Spermosphere Microbiome Leading to Differrent Rhizosphere Compositions	5	Illumina MiSeq	5	0
+PRJNA1279806	Soil Microbial Diversity Assessed by Metabarcoding Under Different Sizes of Lavandula Latifolia	2	Illumina MiSeq	0	2
+PRJNA1280277	On-farm diversification and landscape composition on soil microbiome diversity	2	Illumina MiSeq	1	1
+PRJNA1281704	Preterm gut microbiome characterization in Uruguay	1	GridION	0	1
+PRJNA1282715	Substrate and root associated bacteriome of petunia	1	NextSeq 1000	0	1
+PRJNA1285122	Optimization of UMI-based nanopore sequencing for accurate microbial whole genome analysis	97	GridION	0	97
+PRJNA1289179	Effect of vendor difference in oral and gut microbiomes on oral cancer development in mice	1	Illumina MiSeq	0	1
+PRJNA1290692	Standardizing Vaginal Microbiome Profiling_Mock sample	63	Sequel IIe	0	63
+PRJNA1291230	Bypass of colibactin-induced DNA damage is mutagenic	7	Illumina MiSeq	0	7
+PRJNA1291795	Upper airway microbiota in individuals with pneumonia (VGO3 study)	15	Illumina MiSeq	0	15
+PRJNA1291798	Upper airway microbiota in rural residents (VGO3 study)	108	Illumina MiSeq	0	108
+PRJNA1291802	Upper airway microbiota in goat farmers (VGO3 study)	13	Illumina MiSeq	0	13
+PRJNA1292811	METAOlive: a survey of the microbiota of table olives	2	Illumina NovaSeq X	2	0
+PRJNA1298236	Skin Bacterial Microbiota of Craugastor ranoides	3	Illumina MiSeq	0	3
+PRJNA1298761	Gut microbiota-derived butyrate impairs innate antiviral immunity against coronavirus PEDV infection via class IIa HDACs inhibition	3	Illumina NovaSeq 6000	0	3
+PRJNA1300411	Bacterial communities in potato warts and associated soils characterized by Nanopore sequencing of the full-length 16S rRNA gene	3	MinION	3	0
+PRJNA1300666	COI metabarcoding of marine zooplankton samples from North Sea, Norwegian Fjords	2	Illumina MiSeq	0	2
+PRJNA1301452	Changes in the rectal BACTERIAL microbiome associated with oral itraconazole administration in healthy cats	3	Revio	2	1
+PRJNA1305474	Development of a single-source extraction method for soil virome and microbiome analysis.	4	Illumina MiSeq	0	4
+PRJNA1306186	Housing woodrats in metabolic cages	1	Illumina NovaSeq 6000	0	1
+PRJNA1307061	Improving coral mycobiome characterization	3	Illumina MiSeq	0	3
+PRJNA1307182	Drought intensity shapes soil legacy effects on grassland plant and soil microbial communities and their responses to future drought (prokaryote sequences)	1	NextSeq 1000	1	0
+PRJNA1308109	Effects of prebiotic galacto- and xylo-oligosaccharide on post-weaning piglet performance and gut health	6	Illumina MiSeq	6	0
+PRJNA1309034	Spatial and temporal investigation of the microbial communities within laboratory scale biologically active carbon filters.	6	Illumina MiSeq	6	0
+PRJNA1309157	USDA-BBS 1134 vaccination of broiler chickens reduces cecal colonization and systemic dissemination of serogroup D Enteritidis with decreased susceptibility to ciprofloxacin (DSC)	39	Illumina MiSeq	1	38
+PRJNA1311482	CRISPR-Cas9 Knockout Screen for Identification of Host Dependency Factors of Crimean-Congo Hemorrhagic Fever Virus	2	Illumina HiSeq 2000; NextSeq 2000	0	2
+PRJNA1312881	Genomics-based approaches to ant monitoring in land management: Validation of COI metabarcoding primers	50	Illumina MiSeq	0	50
+PRJNA1313130	eDNA Metabarcoding of Fungal Communities in the Scats of Long-footed Potoroos (Potorous longipes)	1	NextSeq 2000	0	1
+PRJNA1313473	Raw sequence reads (16SrRNA gene) of common bean seed endophytes: rain-out shelter field experiment	8	Illumina MiSeq	0	8
+PRJNA1320979	Intratumoral bacteriota analysis of Multiple myeloma patients	1	Illumina MiSeq	0	1
+PRJNA1321533	Rsearch	15	Illumina MiSeq	0	15
+PRJNA1327566	Little Prince	18	Illumina HiSeq 2000	0	18
+PRJNA1328842	Assessing The Microbiome As A Tool For The Mitigation Of Viral Disease In Nursery Pigs	3	Illumina HiSeq 2000	0	3
+PRJNA1332595	RHO1-2 meganuclease gene editing MTA	3	NextSeq 550	0	3
+PRJNA1332814	Raw sequence reads of bacterial microbiomes of Symbiodiniaceae lab cultures	4	MinION	0	4
+PRJNA1334225	Long-read sequencing of 16S-23S rRNA operons in synthetic microbial communities	9	MinION	3	6
+PRJNA1334440	Long-read Oxford Nanopore sequences and short-read Illumina MiSeq sequences of 16S rRNA from Symbiodiniaceae cultures and ZymoBIOMICS Microbial Community Standards	20	MinION	20	0
+PRJNA1337104	Vaginal lIve Biotherapeutic RANdomized Trial: A Phase 1 randomized trial of multi-strain vaginal L. crispatus live biotherapeutic products in people with bacterial vaginosis	51	NextSeq 2000	0	51
+PRJNA1338336	Species level identification via tiling 16S rRNA gene amplicon sequencing may identify bacterial species soon after transplant that may promote later acute rejection, October 6 2025	1	Illumina MiSeq	0	0
+PRJNA1338501	Long-term nitrogen fertilization shapes plant-microbe interactions across soil, rhizosphere, and nodules	5	Revio	0	5
+PRJNA1346425	Raw sequence reads of bacterial microbiomes of Symbiodiniaceae lab cultures	9	MinION	9	0
+PRJNA1347229	Bulk ichthyoplankton metabarcoding	13	Illumina MiSeq	0	13
+PRJNA1347389	Biodiversity in citrus soils from the Canary Islands	3	Illumina MiSeq	3	0
+PRJNA1348951	Comparative Assessment of Sample Storage Methods on vaginal Microbiome Community Structure	1	Illumina MiSeq	0	0
+PRJNA1354425	Influence of Suture Type on Healing Dynamics in Osteoporotic Patients Treated with Antiresorptive Agents	51	Illumina MiSeq	0	51
+PRJNA1354847	Alps_Seasonal_Rhizosphere	3	Illumina MiSeq	0	3
+PRJNA1357901	Spatial characterization of bacterial and fungal communities in Trichoderma-infected Trachymyrmex septentrionalis fungus garden	3	Illumina MiSeq	3	0
+PRJNA1365321	Marine Microbial Ecology Baltic Sea, GEOMAR	18	Illumina MiSeq	0	18
+PRJNA1368952	EPR_Size_Fractionated_Microbiota	2	Illumina MiSeq	2	0
+PRJNA1369552	Bodega Bay Environmental Survey	4	Illumina MiSeq	0	4
+PRJNA1373510	Selector AAV-CRISPR vectors facilitate on-target precise genome editing and purge off-target chromosomal insertions	1	Illumina MiSeq	0	1
+PRJNA1380722	Habitat and hydrodynamics influence coral reef and seagrass microbial and exometabolite dynamics	1	Illumina MiSeq	0	1
+PRJNA1399129	16s rRNA Raw sequence reads	1	Illumina MiSeq	1	0
+PRJNA1400480	STRmieHD A Short Tandem Repeat Mapping and Identification Engine for Interruption Aware Genotyping and Somatic Mosaicism Profiling in Huntingtons Disease	1	Illumina MiSeq	0	1
+PRJNA1403811	mock communities of silage isolates	6	Sequel II	0	6
+PRJNA1405243	Dengue virus infection and gut microbiome changes in a dengue mouse model	48	MinION	0	45
+PRJNA1415287	The Aedes aegypti bacterial microbiota is robust to infection with the obligate microsporidian parasite Edhazardia aedis: Raw sequencing reads	27	NextSeq 2000	2	25
+PRJNA1417723	16S rRNA sequencing rhizosphere communities of spring barley treated with C6-HSL	32	Illumina HiSeq 2500	0	32
+PRJNA1417778	Multi-omics investigation of iron-responsive idiopathic anemia in hybrid catfish (Ictalurus punctatus x I. furcatus)	1	GridION	0	1
+PRJNA1423801	Dynamic gut dysbiosis in wild bumble bees of southern California	3	Illumina MiSeq	0	3
+PRJNA1424181	Viral immune escape selection-NGS	2	Illumina NovaSeq 6000	0	2
+PRJNA1425465	Crosstalk between CD8+ T cells and systemic bile acid metabolism shapes antiviral immunity and immunopathology during chronic LCMV infection	8	Illumina MiSeq	0	8
+PRJNA1427650	Eukaryote diversity and interactions with bacterial communities within laboratory granular activated carbon biofilter treating surface water.	3	Illumina MiSeq	0	3
+PRJNA1428556	Long-read ITS metabarcoding of wood-inhabiting fungi across European beech deadwood substrates	4	PromethION	0	4
+PRJNA1429106	PRIMA-KOST	1	Ion Torrent S5	0	1
+PRJNA1430090	Multiomics longitudinal analysis of the gut microbiome in dogs with chronic enteropathy	16	Illumina MiSeq	8	8
+PRJNA1431560	Amplicon-based (ITS2) fungal community profiling of cranberry fruit tissues	4	Illumina NovaSeq 6000	0	4
+PRJNA1433218	Studying the impact of fermented food on gut microbiota composition of male mice	1	Illumina NovaSeq X Plus	0	1
+PRJNA1433357	Cacao flower microbiome under pollinator exclusion across farming systems in Ghana	28	Illumina NovaSeq 6000	14	14
+PRJNA1435053	Standardized mock microbial communities composed of multiple bacterial species. Raw sequence reads.	30	Illumina MiSeq; MinION	1	29
+PRJNA1438469	Effects of long-term exposure to fluoride and tebuconazole on gill, skin and gut microbiomes in rainbow trout	5	NextSeq 2000	0	5
+PRJNA1439785	Comparison of library preparation protocols and bioinformatic pipelines in high-throughput 16S microbiome sequencing	26	Illumina HiSeq 2000	26	0
+PRJNA1440404	Relic DNA - Trace Evidence Microbiome	16	NextSeq 1000	16	0
+PRJNA1440457	Bacterial 16S rRNA sequences from the centipede Lithobius forficatus (Chilopoda, Lithobiomorpha)	1	PromethION	1	0
+PRJNA1440488	Astrangia poculata microbiome shifts in dormancy	4	Illumina MiSeq	0	4
+PRJNA1440988	26-fz-paper	3	MGISEQ-2000RS	0	3
+PRJNA1442200	Maize Rhizosphere Synthetic community (MARSc) colonization of the maize rhizosphere	8	GridION	0	8
+PRJNA1443009	Higher order interaction effects among operating conditions and feedstocks shape reactor microbiomes and fatty acid production profiles	8	Illumina MiSeq	0	8
+PRJNA1446205	Early microbial reassembly during saltmarsh restoration: 16S rRNA and ITS amplicon sequencing across soil compartments and restoration treatments	1	NextSeq 2000	0	1
+PRJNA1450886	Full-length targeted amplicon sequencing (16S rRNA and surface layer protein) of a complex mock microbial community and swine intestinal microbiome	6	Sequel II	0	6
+PRJNA1454853	caries experience and oral microbiome in centenarians, offspring and matched controls	3	NextSeq 2000	0	3
+PRJNA1454974	Amplicon sequencing of replication fork collapse and repair products in Xenopus laevis egg extracts	2	Illumina MiSeq	0	2
+PRJNA1456109	Relic DNA - Decomposition Microbiome for Postmortem Interval Estimation	16	NextSeq 1000	0	16
+PRJNA1464477	On the effectiveness of two universal metabarcoding primer pairs in amplifying gelatinous zooplankton DNA from tissue and environmental samples	17	Illumina NovaSeq 6000	0	17
+PRJNA1469268	Coral-associated fungi	1	Illumina MiSeq	0	1
+PRJNA1471181	BSFL Gut Microbiome Waste Oils	2	NextSeq 1000	0	2
+PRJNA1472269	Solitary bee and Miscellaneous Hymenoptera Microbiomes	13	Illumina MiSeq	0	13
+PRJNA1472310	SMXL678 links rhizosphere microbiome shifts and metabolism defense	4	Illumina MiSeq	0	0
+PRJNA1472651	A microbiome-independent fecal resistome effect of ceftiofur treatment in dairy cows with metritis	2	Illumina MiSeq	2	0
+PRJNA1472793	Long-read nanopore metabarcoding of mock DNA and sediment environmental DNA	30	PromethION	0	30
+PRJNA1474435	Integrated benchmark of taxonomic classification tools for human gut microbiome analysis	1	NextSeq 2000	1	0
+PRJNA1474436	Leaf microbiome of the Triticum aestivum Obelisk - Zymoseptoria tritici pathosystem	10	Illumina MiSeq	0	10
+PRJNA1476859	Fibre supplementation of EEN improves gastrointestinal function during health and disease	6	Illumina MiSeq	0	6
+PRJNA1478682	Effects of captivity and species on the cloacal microbiomes of an invasive and native anole	5	Element AVITI	5	0
+PRJNA1481301	Bacterial community composition under experimental mixing regimes in small freshwater ponds	1	NextSeq 2000	1	0
+PRJNA1481354	Persistence of spinach- and irrigation-associated microbiota through simulated gastrointestinal digestion	2	Revio	2	0
+PRJNA1481554	Bdellovibrio diversity effect in vitro	7	Illumina MiSeq	0	7
+PRJNA1481647	Cyanobacterial cohorts structure the diversity, abundance, and metabolism of heterotrophic bacteria in Lake Erie	1	NextSeq 2000	1	0
+PRJNA1482040	Three-species bacterial mock community for bioinformatic pipeline assessment	4	Illumina MiSeq; PromethION	0	4
+PRJNA1482634	Illuminating the black boxes of microbiome sequencing	2	MinION	0	2
+PRJNA1494805	Sensory performance and microbial ecology: Olfaction and the nasal microbiome in Romania, June 2026	6	PromethION	0	6
+PRJNA1502813	Minimal colony-level effects in bumblebee Bombus terrestris of exposure to the entomopathogenic fungus Beauveria bassiana despite high individual susceptibility	2	Illumina MiSeq	0	2
+PRJNA1505645	BSFL Gut Microbiome Meta-analysis	1	NextSeq 1000	1	0
+PRJNA1506109	Off-target profiling of high-multiplex adenine base-edited T cells	30	Illumina MiSeq	0	30
+PRJNA1508989	Plant defense metabolite detoxification by a pathogenic fungus opens necrotic tissue to diverse bacteria in Arabidopsis thaliana	3	Illumina MiSeq	3	0
+PRJNA1509030	Nanopore Sequencing of 16s rRNA Gene from Defined and Environmental Samples	2	MinION	0	0
+PRJNA1514187	The Effects of an Acidic Bioresorbable Polymer Matrix on the Diabetic Foot Ulcer Microenvironment	2	Illumina MiSeq	0	2
+PRJNA1514894	UV-LED disinfection of drinking water plumbing biofilms: 16S rRNA amplicon survey of copper and PEX coupons in cold and warm water lines	2	Illumina MiSeq	2	0
+PRJNA1516075	Evaluate Impact of Swab Recovery and DNA Extraction on Relative Abundances	24	Illumina NovaSeq X	0	24
+PRJNA1517970	Vaginal and meconium metagenomes across spontaneous and medically indicated preterm birth subtypes	4	Illumina MiSeq	4	0
+PRJNA1518866	Root exudate components in shaping soil bacterial community structure and biodegradation potential	36	Illumina MiSeq	0	36
+PRJNA1520063	Comparison of the gastrointestinal bacterial community between mice fed a purified vs. conventional diet	1	Illumina MiSeq	1	0
+PRJNA1529290	Neutrophil-associated inflammatory programs in the jejunum are linked to heightened anaphylactic severity in a murine model of food allergy	18	Illumina MiSeq	18	0
+PRJNA1531643	The Respiratory and Gut Microbiomes of Children with Tracheostomies: Links to Antibiotic Exposure, Infection, and MDRO Colonization	12	Illumina MiSeq	0	12
+PRJNA1532658	ITS2 Amplicon Sequencing of the ATCC MSA-2010 Mycobiome Whole Cell Mock Community	12	Illumina MiSeq	0	12
+PRJNA1534685	Grape ripeness shapes bacterial and fungal communities during early winemaking	1	DNBSEQ-G400	0	1
+PRJNA1538413	Manglar_Calderas_Sedimento_DR Raw sequence reads	1	Illumina MiSeq	1	0
+PRJNA1540849	A nanozyme-engineered human commensal forms living microbioreactors to amplify native microbial defense in tooth-decay biofilms	1	Illumina MiSeq	0	1
+PRJNA1540911	Longitudinal patient and hospital environmental microbiome sampling in intensive care units for the study of multidrug-resistant organism transmission	21	Illumina MiSeq	0	21
+PRJNA1543768	Sequence-function mapping of a DYW-like deaminase reveals activity-tuning residues for enhanced base editing	14	Illumina iSeq 100	0	14
+PRJNA1548877	Analysis of the influence of extrinsic and intrinsic factors on host-microbiota- endoparasite relationships in bank voles	1	GridION	1	0
+PRJNA1553331	Long-read 16S rRNA sequencing of human gut microbial communities in an in vitro colon model	9	PromethION	0	0
+PRJNA171855	Cpn60 mock community Targeted Locus	1	454 GS FLX Titanium	0	1
+PRJNA175870	Synthetic microbial community partial 16S rRNA amplicons and metagenomes from synthetic microbial community	42	454 GS FLX	42	0
+PRJNA177889	Mock and soil DNA Targeted Locus (Loci)	8	454 GS FLX Titanium	0	8
+PRJNA213315	Geothermal Springs Targeted Locus (Loci)	1	454 GS FLX Titanium	0	1
+PRJNA217969	Mock community 16S rRNA V4 sequence	9	Illumina Genome Analyzer IIx	9	0
+PRJNA221649	Mouse gut microbiome	1	454 GS FLX Titanium	0	1
+PRJNA230852	T-W-B	9	454 GS FLX Titanium	0	9
+PRJNA232175	A community genomics investigation of fungal adaptation to cold	2	Illumina MiSeq	0	2
+PRJNA239464	Influence of DNA extraction on oral microbial profiles obtained via 16S rRNA gene sequencing- Mock Communities	4	454 GS FLX Titanium	4	0
+PRJNA242424	Synthetic bacterial mixtures and diseased human tissues Targeted Locus (Loci)	4	Illumina MiSeq; Ion Torrent PGM	4	0
+PRJNA246158	Changes in the Lung Microbiome Following Lung Transplantation Include the Emergence of Two Distinct Pseudomonas Species with Distinct Clinical Associations	3	454 GS Junior	0	3
+PRJNA254831	16S rRNA gene pyrosequencing of reference and clinical samples and investigation of the temperature stability of microbiome profiles	24	454 GS FLX+	0	24
+PRJNA257816	Effect of triclosan on the fathead minnow gut microbiome	4	Illumina MiSeq	4	0
+PRJNA257992	NoDe: a fast error-correction algorithm for pyrosequencing reads	3	454 GS FLX Titanium	0	3
+PRJNA260846	Microbiome Quality Control Project - 16S	274	Illumina HiSeq 2500; Illumina MiSeq	274	0
+PRJNA262579	Three sample types:(1) Mock community DNA a mixture of four different synthetic double-stranded DNA templates, varying at priming sites and at a 10-base recognition site in the middle of the sequence(2) Genomic DNA isolated from chinchilla feces	89	Illumina MiSeq; Ion Torrent PGM	89	0
+PRJNA264430	Homo sapiens strain:HEK293T Targeted Locus (Loci)	3	Illumina MiSeq	0	3
+PRJNA264789	Metabarcoding of macrozoobenthos invertebrates (method testing)	1	Illumina HiSeq 2500	0	1
+PRJNA265745	Chamber indoor air microbiome Targeted Locus (Loci)	2	Illumina MiSeq	0	2
+PRJNA266566	Evaluation of PGM for gene-targeted studies using nifH	9	Ion Torrent PGM	0	9
+PRJNA267584	Human microbiome data	1	Illumina MiSeq	0	1
+PRJNA267701	Quantifying Bias in 16S rRNA Experiments due to DNA Extraction, PCR Amplification, and Sequencing and Classification	240	454 GS FLX Titanium	240	0
+PRJNA277040	Mock zooplankton communities	45	454 GS FLX Titanium	0	45
+PRJNA278126	Manipulation of the gut microbiome reveals role for microbial community structure in colon tumorigenesis	2	454 GS	0	2
+PRJNA278399	Mixed oligochaetes samples - specimens VS reads	12	Illumina MiSeq	0	12
+PRJNA279146	Surface seawater from coral reefs and aquaria Raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA279193	Fungi in tropical soils Targeted Locus (Loci)	1	Illumina MiSeq	0	1
+PRJNA281455	Micelle PCR increases the accuracy of 16S rRNA microbiota profiling	12	454 GS Junior	12	0
+PRJNA281490	Antibiotic induced alterations of the murine gut microbiota and subsequent effects on colonization resistance against Clostridium difficile	7	454 GS	0	7
+PRJNA281707	Evaluation of genus-specific primers for the study of Fusarium communities in field samples	31	454 GS FLX; 454 GS FLX+	0	31
+PRJNA284155	Fungi Targeted Locus (Loci)	1	Illumina MiSeq	0	1
+PRJNA287262	Inflammation-associated alterations to the intestinal microbiota reduce colonization resistance against non-typhoidal Salmonella during concurrent malaria parasite infection	10	Illumina MiSeq	0	10
+PRJNA287840	watershed biome Raw sequence reads	2	Illumina MiSeq	0	2
+PRJNA290926	Microbiome analysis complements fecal occult blood test for improved detection	5	454 GS	0	5
+PRJNA292063	DsrAB Mock community Variation	10	Illumina MiSeq	0	10
+PRJNA292101	The levonorgestrel-releasing intrauterine system is associated with delayed endocervical clearance of Chlamydia trachomatis without alterations in vaginal microbiota	1	454 GS	0	1
+PRJNA292120	Human gut bacteria Targeted Locus (Loci)	1	Illumina MiSeq	0	1
+PRJNA293102	Anaerobic microbial community response to methanogenic inhibitors 2-bromoethanoesulfonate and propynoic acid	9	454 GS	0	9
+PRJNA293556	Indoor environments Targeted Locus (Loci)	3	Illumina MiSeq	0	3
+PRJNA298882	Bacterial 16S DNA raw sequence reads	2	Illumina MiSeq	2	0
+PRJNA301171	Air and phyllosphere metagenome Targeted loci environmental	2	Illumina MiSeq	0	2
+PRJNA302007	Analysis of synthetic mock community for assessing sequencing errors in bioinformatic pipelines	3	Illumina MiSeq	0	3
+PRJNA302453	A Multi-Center Study of the Lung Microbiome in Chronic Obstructive Pulmonary Disease	2	Illumina MiSeq	0	2
+PRJNA305924	Fungal ITS Mock Community Spike-in Control	105	Illumina MiSeq; Ion Torrent PGM	0	105
+PRJNA306596	Mock communities and PWS data sets Metagenome	155	Illumina MiSeq	155	0
+PRJNA306605	Brewery process surface samples raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA307545	Primer optimization using known mock communitiy	2	Illumina MiSeq	0	2
+PRJNA309339	Influenza A virus strain:A/WSN/1933(H1N1) Raw sequence reads	8	Illumina HiSeq 2500	0	8
+PRJNA313192	Investigation of the Coral Microbiome	1	Illumina MiSeq	0	1
+PRJNA313432	eDNA metabarcoding of UK lake fish communities	20	Illumina MiSeq	0	20
+PRJNA314018	Environmental spread of microbes impact the development of metabolic phenotypes in mice transplanted with microbial communities from humans	5	Ion Torrent PGM	5	0
+PRJNA314956	Temporal faecal microbiota dynamics in the weaner pig, in response to experimental ETEC challenge.	1	Illumina MiSeq	0	1
+PRJNA314977	Design and Evaluation of Illumina MiSeq compatible 18S rRNA Primers for Improved Characterization of Mixed Phototrophic Communities.	124	Illumina MiSeq	0	124
+PRJNA316098	The Bacterial Topography of the Healthy Human Respiratory Tract	3	454 GS	0	3
+PRJNA317862	Development of an Environmental Metagenetic Approach for Monitoring Aquatic Biodiversity	4	Illumina MiSeq	0	4
+PRJNA318004	DNA from FIT can replace stool for microbiota-based colorectal	4	Illumina MiSeq	0	4
+PRJNA320383	Homo sapiens Raw sequence reads	4	PacBio RS II	0	4
+PRJNA320967	environmental DNA - mitochondrial 16S rRNA gene Raw sequence reads	32	Illumina MiSeq	32	0
+PRJNA323807	Homo sapiens Genome sequencing and assembly	3	Illumina HiSeq 2500; Illumina MiSeq	0	3
+PRJNA324163	Synthetic spike-in standards for high-throughput 16S rRNA gene amplicon sequencing	11	Illumina MiSeq	0	11
+PRJNA324706	NLRP6 controls intestinal homeostasis by limiting colonization of pathobionts	1	Illumina MiSeq	0	1
+PRJNA325813	NADC mock bacterial community	12	Illumina MiSeq	0	12
+PRJNA326417	Hot Lake phototrophic mat metagenomics	3	Illumina MiSeq	0	3
+PRJNA326866	Microbiome in polycystic ovary syndrome	1	Illumina MiSeq	0	1
+PRJNA327394	Community composition of diatom genus Thalassiosira in Narragansett Bay	14	Illumina MiSeq	0	14
+PRJNA327935	Human ear 16S rDNA profiles	18	Illumina MiSeq	0	18
+PRJNA337937	Bacterial 16S rRNA gene sequences extracted from sheep exhaled breathe condensate and lung brushing samples with controls. Raw sequence reads	1	Illumina MiSeq	1	0
+PRJNA345200	Selected plant secondary metabolites promote bacterial degradation of cis-1,2-dichloroethylene	8	Illumina MiSeq	0	8
+PRJNA348617	An optimization of 16S community amplicon analysis using mock communities	56	Illumina MiSeq	56	0
+PRJNA350277	In depth characterisation of the impact of wheat bran on the human gut microbiome	6	454 GS; Illumina MiSeq	0	6
+PRJNA352866	Mycobacterium tuberculosis PncA saturation mutagenesis	10	Illumina HiSeq 2500	0	10
+PRJNA353865	Characterizing and predicting cyanobacterial blooms in an 8-year amplicon sequencing time-course	2	Illumina MiSeq	0	2
+PRJNA369775	16s rRNA sequencing of sino-nasal microbiome and mock-community samples	150	PacBio RS II	150	0
+PRJNA374960	ectomycorrhizal fungi colonizing pine seedlings in spatial heterogeneity experiment	1	Illumina MiSeq	0	1
+PRJNA376506	Study of the intestinal microbiota in immunocompromised patients	2	Illumina MiSeq	0	2
+PRJNA377530	fungus metagenome	54	Illumina MiSeq	0	54
+PRJNA379165	synthetic Raw sequence reads	10	Illumina MiSeq	10	0
+PRJNA380665	An improved method for utilizing next-generation sequencing to determine the diets of insectivorous animals	2	Ion Torrent PGM	0	2
+PRJNA380722	Characterization of a microbial mock community through hybridization capture	1	Illumina MiSeq	0	1
+PRJNA381395	Gut and nasal microbiome in Parkinson''s disease	36	Illumina MiSeq	0	36
+PRJNA382464	The intestinal microbiome in C. elegans deficient to RDE-1 upon Orsay virus infection	6	Illumina MiSeq	0	6
+PRJNA382998	Infection dynamics of multidrug-resistant Salmonella serotype I 4,[5], 12:i:- in experimentally challenged swine	3	Illumina MiSeq	0	3
+PRJNA383316	synthetic metagenome Targeted loci	18	454 GS Junior	0	18
+PRJNA383577	Clostridium difficile colonizes alternative nutrient niches during infection across distinct murine gut microbiomes	2	454 GS	0	2
+PRJNA383938	Influenza A virus (A/WSN/1933(H1N1)) Transcriptome or Gene expression	3	Illumina HiSeq 3000	0	3
+PRJNA384224	Diversity of root-associated bacterial populations of Tamarix parviflora cultivated under various environmental conditions	1	454 GS	0	1
+PRJNA384400	DNA methylation alterations in inflammation-induced colon tumors	7	Illumina MiSeq	0	7
+PRJNA384812	Bacteria Raw sequence reads	3	Illumina HiSeq 2500	0	3
+PRJNA385181	Microbiome of Naupaka (Scaevola taccada) - Bacteria Metagenome	1	Illumina MiSeq	0	1
+PRJNA385545	Gut microbiome of shorebird Red-necked Stint	2	Illumina MiSeq	0	2
+PRJNA385915	Reagent contamination human feces	1	Illumina MiSeq	0	1
+PRJNA387753	raw sequences from mock community (MBARC26, Singer et al., 2016, scientific data) 16s DNA V3-V4 region.	2	Illumina MiSeq	2	0
+PRJNA388335	16S rRNA amplicon V4 Rag1KO and WT mice infected with Clostridium difficile	18	Illumina MiSeq	0	18
+PRJNA389438	Insect diet of bats in Wisconsin using high throughput COI amplicon sequencing	1	Ion Torrent PGM	0	1
+PRJNA390244	Evaluation of reproducibility and accuracy of 16S rRNA gene sequecing using mock communities	21	Ion Torrent PGM	21	0
+PRJNA392425	Singleton Filtering	4	Illumina MiSeq	0	4
+PRJNA394753	Impact of daytime nitrogen limitation on structure and function of mixed microalgal communities derived from three geographically distinct sources	216	Illumina MiSeq	0	216
+PRJNA395904	Commercial Port Metazoan Metabarcoding Targeted loci environmental	4	Illumina MiSeq	0	4
+PRJNA399227	Homo sapiens Targeted Locus (Loci)	12	Illumina MiniSeq	0	12
+PRJNA401637	Upper respiratory tract metagenome Raw sequence reads	2	Illumina MiSeq	0	2
+PRJNA402045	HmmUFOtu_mock	20	Illumina MiSeq	0	20
+PRJNA407269	Ecological stability properties of microbial communities assessed by flow cytometry	2	Illumina MiSeq	0	2
+PRJNA407686	Homo sapiens Targeted Locus (Loci)	1	Illumina MiSeq	0	1
+PRJNA411963	Homo sapiens Targeted Locus (Loci)	15	Illumina MiniSeq	0	15
+PRJNA412105	Santa Barbara Channel bacterioplankton primer comparison study	32	Illumina MiSeq	32	0
+PRJNA413199	The absolute gut microbiome alters host physiology, varies by gut architecture and disease, and predicts response to therapy	59	Illumina MiSeq	0	59
+PRJNA413594	Rhizosphere microbial community of maize and summer annuals	1	Illumina MiSeq	0	1
+PRJNA414269	Comparing PacBio and Illumina platforms for fungal metabarcoding	1	Illumina MiSeq	0	1
+PRJNA414274	fungus Targeted loci environmental	1	PacBio RS II	0	1
+PRJNA414455	Nasal microbial ecology and chronic otitis media with effusion	6	Illumina MiSeq	0	6
+PRJNA415495	Homo sapiens Targeted Locus (Loci)	9	Illumina MiniSeq	0	9
+PRJNA415628	Biological and technical variation in microbiome studies	218	Illumina MiSeq	218	0
+PRJNA415906	Biological soil crust 16S and 18S rRNA gene amplicons	1	Illumina MiSeq	1	0
+PRJNA416365	Bioinformatics for biomonitoring: Species detection and diversity estimates across next generation sequencing platforms	2	Illumina MiSeq	0	2
+PRJNA417382	NGS fungal mock communities	42	Illumina MiSeq	0	42
+PRJNA418765	Microbiota of Ustekinumab-treated Crohn's subjects.	18	Illumina MiSeq	0	18
+PRJNA418896	soil metagenome Metagenome	3	Illumina MiSeq	0	3
+PRJNA419860	Lung microbiota of C57BL/6J mice (Mus Musculus) Raw sequence reads	90	Illumina MiSeq	0	90
+PRJNA419861	mouse gut metagenome Raw sequence reads	90	Illumina MiSeq	0	90
+PRJNA419862	feces metagenome Raw sequence reads	40	Illumina MiSeq	0	40
+PRJNA420005	Comparing different sample handling conditions for 16S rRNA amplicon sequencing	28	Illumina MiSeq	0	28
+PRJNA420016	Mock communities and Arabidopsis thaliana leaves, Amplification of 16S 18S ITS	264	Illumina MiSeq	264	0
+PRJNA420028	Nematoda mock community metabarcoding	12	Illumina MiSeq	0	12
+PRJNA422125	Characterisation of Akkermansia muciniphila behaviour in complex microbial gut ecosystem	3	454 GS	0	3
+PRJNA427170	In depth characterisation of the microbial succesion during wheat bran fermentation by the human fecal microbiota	3	454 GS	0	3
+PRJNA427175	Caucasian skin microbiota and aging	2	Illumina MiSeq	2	0
+PRJNA428594	Origin of the public memory antibody response induced upon antiviral vaccination in fish	4	Illumina MiSeq	0	4
+PRJNA430104	80 year history of maize breeding alters plant nitrogen acquisition but not rhizosphere bacterial community composition	1	Illumina MiSeq	1	0
+PRJNA430326	Homo sapiens Targeted Locus (Loci)	9	Illumina MiniSeq	0	9
+PRJNA430451	Mus musculus Targeted loci	22	Illumina MiniSeq	0	22
+PRJNA431036	Functional rescue of dystrophin deficiency in mice caused by frameshift mutations using Campylobacter jejuni Cas9	37	Illumina MiniSeq	0	37
+PRJNA43253	Human fecal microbiome	1	454 GS FLX	1	0
+PRJNA432667	soil metagenome Targeted loci environmental	18	Illumina MiSeq	0	18
+PRJNA433588	Fungi Targeted loci	12	Illumina MiSeq	0	12
+PRJNA434072	Phylotype-level profiling of lactobacilli community in high complex environments through a novel ITS-based metagenomic approach.	1	Illumina MiSeq	0	1
+PRJNA434243	The Influence of Different High Fidelity DNA Polymerase on 16S rRNA Sequencing	128	454 GS	0	128
+PRJNA434340	Human gut metagenome Raw sequence reads	12	Illumina MiSeq	0	12
+PRJNA435265	Isolation and Identification of the Follicular Microbiome: Implications for Acne Research	1	Illumina MiSeq	0	1
+PRJNA435661	Long-term effects of in vivo genome editing in the mouse retina using Campylobacter jejuni Cas9 expressed via AAV	18	Illumina MiniSeq	0	18
+PRJNA437436	Metabarcoding of fungi from lake water and sediment	8	PacBio RS II	0	8
+PRJNA439189	Tadpole Mouthpart Microbiomes	1	Illumina MiSeq	0	1
+PRJNA445979	Gut microbiome in PCOS mouse model	1	Illumina MiSeq	0	1
+PRJNA450340	A comparative study of the gut microbiota in immune-mediated inflammatory diseases	4	Illumina MiSeq	0	4
+PRJNA450937	Oral and nasopharyngeal microbiota in early life	19	Illumina MiSeq	0	19
+PRJNA464047	Fungal diversity in water-damaged public housing	1	Illumina MiSeq	0	1
+PRJNA472373	Amplicon sequencing of a Vibrio cholerae specific protein coding gene	1	Illumina MiSeq	0	1
+PRJNA472386	Temporal survey of fungi and bacteria in household showers	2	Illumina MiSeq	0	2
+PRJNA472794	The endophytic mycobiome of European ash and sycamore leaves	8	Illumina MiSeq	0	8
+PRJNA474008	Leaf litter microbes Raw sequence reads	3	Illumina MiSeq	2	1
+PRJNA475867	Yeast metagenome (26S) from fermented cocoa beans	8	Illumina MiSeq	0	8
+PRJNA476560	Effects of forest-management practices on below-ground fungal diversity and community composition in Idaho	5	Ion Torrent PGM	0	5
+PRJNA479679	ant metagenome Raw sequence reads	18	Illumina MiSeq	18	0
+PRJNA481086	DNA metabarcoding of known pollen samples	84	Illumina MiSeq	0	84
+PRJNA482674	Mock microbial community dilution series	10	Illumina MiSeq	0	10
+PRJNA482750	Fungal mock community (even and staggered)	20	Illumina MiSeq	0	20
+PRJNA48341	Human Microbiome Project (HMP) 16S rRNA Gene Diversity, the diversity of 16S ribosomal RNA genes in the human microbiome: 454 Protocol Validation - Mock	138	454 GS FLX	0	138
+PRJNA48465	Human Microbiome Project (HMP) 16S rRNA Gene Diversity, the diversity of 16S ribosomal RNA genes in the human microbiome: 454 Protocol Development - Mock	192	454 GS FLX; 454 GS FLX Titanium	114	78
+PRJNA48471	Human Microbiome Project (HMP) 16S rRNA Gene Diversity, the diversity of 16S ribosomal RNA genes in the human microbiome: Sanger Mock Pilot	20	AB 310 Genetic Analyzer	0	20
+PRJNA485180	Grapevine trunk-associated ascomycetes ITS metabarcoding dataset	10	Illumina MiSeq	0	10
+PRJNA487151	Mini viral RNAs act as innate immune agonists during influenza virus infection	8	NextSeq 500	0	8
+PRJNA488090	Revealing the Complexities of Metabarcoding with a Diverse Arthropod Mock Community	99	Illumina MiSeq; Ion Torrent PGM; Ion Torrent S5	0	99
+PRJNA488913	What is the best technique to extract bacterial DNA from sputum sample for microbiota analysis?	30	Illumina MiSeq	0	30
+PRJNA489669	Ultra-high throughput multiplexing and sequencing of long amplicon regions on the Illumina HiSeq 2500 platform	10	Illumina MiSeq	0	10
+PRJNA491853	Assessing Differences in 16S rRNA Gene Sequencing Due to Preservation Method and Extraction Kit Used.	4	454 GS	0	4
+PRJNA493101	Influenza A virus Genome sequencing	7	Illumina HiSeq 2500	0	7
+PRJNA493800	Microbiota of MAIT cell Deficient Mice Confer Resistance Against Clostridium difficile Infection	8	Illumina MiSeq	0	8
+PRJNA494885	Influenza A virus strain:A/Perth/16/2009(H3N2) Genome sequencing	4	Illumina HiSeq 2500	0	4
+PRJNA495320	This project aimed to characterize the microbiota of the proximal gastrointestinal tract using a multi-lumen tube that samples aspirates at designated sites Raw sequence reads	5	Illumina MiSeq	0	5
+PRJNA495486	Microbiota samples Raw sequence reads	6	MinION	0	6
+PRJNA497205	New Fusarium specific primers for metabarcoding studies in environmental samples	6	Illumina MiSeq	0	6
+PRJNA498591	PacBio sequencing of 16S-ITS-23S rRNA operon amplicons	1	PacBio RS II	1	0
+PRJNA498895	Symbiotic skin bacteria of Boana prasina	9	Illumina MiSeq	0	9
+PRJNA501806	Impact of smoking on the respiratory microbiome	9	Illumina MiSeq	9	0
+PRJNA504612	DNA metabarcoding from sample fixative as a quick and voucher-preserving biodiversity assessment method	1	Illumina MiSeq	0	1
+PRJNA505523	Microbiota analysis optimization for human bronchoalveolar lavage fluid.	80	Illumina MiSeq	0	80
+PRJNA506058	SABR nature methods co-incubation assay amplicon sequencing	2	Illumina HiSeq 2500	0	2
+PRJNA506577	Chicken gut metagenome	44	Illumina MiSeq	0	44
+PRJNA507122	Comparison of nucleic acid extraction procedures in moist snuff smokeless tobacco using 16S	42	Illumina MiSeq	22	20
+PRJNA509578	Characterization of the Community State Types (CST) of the cervico-vaginal microbiota in women infected with C. trachomatis	1	Illumina MiSeq	0	1
+PRJNA513276	Invasion Genetics from eDNA and Thousands of Larvae: A Targeted Metabarcoding Assay that Distinguishes Species and Population Variation of Zebra and Quagga Mussels	8	Illumina MiSeq	0	8
+PRJNA513984	Nematode mock communities	81	Illumina MiSeq	0	81
+PRJNA515259	Fungal ITS1 sequences from sediments in the the Gulf of Mexico-Raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA515316	Microbiome study of dietary therapy on chronic enteritis in a canine model	21	Illumina MiSeq	0	21
+PRJNA516442	Depletion of human DNA from complex clinical samples for metagenomic sequencing	6	Illumina MiSeq	0	6
+PRJNA516455	Mycobiome of mock communities and the human lung.	75	Illumina MiSeq	0	75
+PRJNA517146	Microbial survey of coral reef seawater microbial communities from Cuba and the Florida Keys	3	Illumina MiSeq	0	3
+PRJNA517275	Highly efficient therapeutic gene editing of human hematopoietic stem cells	23	Illumina MiSeq	0	23
+PRJNA520912	Arabidopsis thaliana Targeted loci environmental	4	Illumina MiSeq	0	4
+PRJNA520924	CF airway microbiota within baseline clinical state	19	Illumina MiSeq	0	19
+PRJNA521472	Diatom-Bacteria interactions modulate composition and productivity of benthic diatom biofilms	1	Illumina MiSeq	0	1
+PRJNA521516	Rhesus monkey urogenital microbiome	1	Illumina MiSeq	0	1
+PRJNA521540	Structure of bacterial communities and their association with anthropogenic pollutants	1	454 GS FLX Titanium	0	1
+PRJNA521754	Long-read amplicon sequencing of the full-length 16S rRNA gene	2	Sequel	2	0
+PRJNA521980	Microbiota-dependent IL-33 restricts the virulence of Clostridium difficile via ILC2s	1	Illumina MiSeq	1	0
+PRJNA523583	Ectoine production from biogas	1	454 GS	0	1
+PRJNA524030	Bemisia tabaci MEAM1 gut-associated bacteria profiles during host-plant adaptation process	1	Illumina MiSeq	0	1
+PRJNA524645	Mock community standards for evaluation of metataxonomic analysis workflows.	11	Illumina MiSeq; Ion Torrent S5	6	5
+PRJNA525566	Metataxonomic analysis of stool samples from visceral leishmaniasis cases and endemic controls	13	Illumina MiSeq	5	8
+PRJNA526728	Plant species and temporal variation influence on rhizosphere bacterial community composition and activity	1	Illumina MiSeq	1	0
+PRJNA526905	Homo sapiens Genome sequencing	94	Illumina MiSeq	0	94
+PRJNA527300	Comparison of PCR and capture enrichment and bulk and etDNA on freshwater invertebrates mock communities	42	Illumina MiSeq	0	42
+PRJNA528517	Bacterioplankton response to phytoplankton lysate across mesoscale eddy dipole in the Pacific Ocean	1	Illumina MiSeq	1	0
+PRJNA528810	PCR Bias in Mock Microbial Community	51	Illumina MiniSeq	0	51
+PRJNA529534	Homo sapiens Targeted loci (BRCA1)	8	Illumina MiniSeq	0	8
+PRJNA530277	Influenza A virus strain:A/Perth/16/2009(H3N2) Raw sequence reads	8	Illumina HiSeq 2500	0	8
+PRJNA530384	Targeted loci environmental - metagenome (16S rDNA) sequencing of several (diluted) Mock community samples	10	Illumina MiSeq	10	0
+PRJNA530770	Skin microbiome project/ mock community study	16	Illumina MiSeq	0	16
+PRJNA530795	Zika virus strain:MR766 Raw sequence reads	3	Illumina HiSeq 2500	0	3
+PRJNA531928	Stability of the murine gut microbiota (without metagenomes)	2	454 GS	0	2
+PRJNA531930	Stability of the murine gut microbiota (sequenced with metagenomes)	2	454 GS	0	2
+PRJNA533029	Goldenrod rhizosphere microbiome over oldfield succession	34	Illumina MiSeq	0	34
+PRJNA533783	Evaluation of Bacteria Detected in Both Urine and Open Wounds in Nursing Facility Residents	2	454 GS	0	2
+PRJNA539907	Gut microbiota of Atlantic salmon fed diets with different soy sources	1	Illumina MiSeq	0	1
+PRJNA540312	Homo sapiens Raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA541286	Metataxonomic tool for Treponema diversity	3	Illumina MiSeq	0	3
+PRJNA541369	paenibacillus polymyxa DSM 36, escherichia coli DSM 4230, stenotrophomonas rhizophila DSM 14405, kocuria rhizophila DSM 348 Raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA542392	Amplicon sequencing of low-density Plasmodium falciparum mock infections	82	Illumina MiSeq	0	82
+PRJNA542488	Impact of oral probiotic Lactobacillus acidophilus vaccine vactor on the murine gut microbiome	1	Illumina MiSeq	0	1
+PRJNA544040	Musca domestica bacterial and fungal microbiota	5	Illumina MiSeq	0	5
+PRJNA544326	Wheat-associated microbiomes under FACE Raw sequence reads	10	Illumina MiSeq	0	10
+PRJNA544686	Coral Microbiome Preservation and Extraction Method Comparison	1	Illumina MiSeq	1	0
+PRJNA544797	Zea Mays Raw sequence reads - Brule, 2014	2	Illumina MiSeq	0	2
+PRJNA546583	Ontario Lamp Survey 2019 - Metabarcoding insects in light fixtures	1	Illumina MiSeq	0	1
+PRJNA547352	Malaise trap distance experiments (2019) - DNA metabarcoding	3	Illumina MiSeq	0	3
+PRJNA547358	Concurrent Genome and Epigenome Editing by CRISPR-Mediated Sequence Replacement of the HPRT1 CpG Island	12	Illumina MiSeq; PacBio RS II; Sequel	0	12
+PRJNA549088	Microbiome in Acropora corals	2	Illumina MiSeq	1	1
+PRJNA549733	Skin Microbiome in Hidradenitis Suppurativa	1	Illumina MiSeq	1	0
+PRJNA550260	Wood decay metagenome Metagenome	3	Illumina HiSeq 2500	0	3
+PRJNA550343	Diel and daily coral reef seawater microbial time-series	3	Illumina MiSeq	0	3
+PRJNA552082	Differential impact of subtherapuetic antibiotics and ionophores on intestinal microbiota of broilers	1	454 GS	0	1
+PRJNA552603	The full-length 16S gene for species and strain-level microbiome analysis	4	PacBio RS II	4	0
+PRJNA553551	Characterization of skin microbiomes in healthy individuals from Washington DC	1	Illumina MiSeq	0	1
+PRJNA553872	16S rRNA amplicon raw sequence reads from human milk and feces samples	3	Ion Torrent PGM	3	0
+PRJNA554337	Microbial regrowth in different niches of a drinking water distribution system	2	Illumina MiSeq	2	0
+PRJNA554866	Impact of omeprazole, antibiotics, and Clostridium Difficile infection on murine gut microbiota	1	454 GS	0	1
+PRJNA555355	Gut microbiota of seawater-phase Atlantic salmon fed insect meal	2	Illumina MiSeq	0	2
+PRJNA557328	Bacterial microbiome of sputum samples from patients with bronchiectasis recruited in stable state	4	Illumina MiSeq	0	4
+PRJNA559408	Pyrocosms	1	Illumina MiSeq	0	1
+PRJNA560079	Ceftiofur formulation differentially affects the resistance of fecal bacteria and the microbiome of steers	2	Illumina MiSeq	2	0
+PRJNA560758	CRISPR-LbCpf1 mediated by oncolytic adenovirus induces efficient genome editing and potent antitumor effect	42	Illumina MiniSeq	0	42
+PRJNA561088	Distinct association of microbiota with CNS immune gene expressions between virus-induced acute myelitis versus chronic inflammatory demyelination	15	Illumina MiSeq	0	15
+PRJNA561631	Fungal and oomycete microbiome of Rhododendron roots in Oregon nurseries	3	Illumina MiSeq	0	3
+PRJNA564944	Prostaglandin E2 promotes intestinal inflammation via inhibiting microbiota-dependent regulatory T cells	1	Illumina MiSeq	0	1
+PRJNA565592	Amplicon sequencing of fungal mock community	3	MinION	0	3
+PRJNA566092	Metagenomic profiling on mock community	15	Illumina MiSeq	15	0
+PRJNA566399	Bioprophylaxis: a way to reduce pesticide contamination in agricultural soil	1	454 GS	0	1
+PRJNA574002	YES : YM155 based Enriched Selection of CRISPR co-target approach	16	Illumina MiniSeq	0	16
+PRJNA574678	Reduced metagenome sequencing for strain-resolution taxonomic profiles	30	Illumina HiSeq 3000	0	30
+PRJNA575097	Quantitative sequencing of lumenal and microbial communities along the mouse GI tract on a ketogenic and control diet	8	Illumina MiSeq	8	0
+PRJNA575777	Relationships among wood-boring beetles, fungal endophytes and saprotrophs, and the decomposition of forest biomass	1	Ion Torrent PGM	0	1
+PRJNA575822	Mock HM-783D MiSeq-PGM	2	Illumina MiSeq; Ion Torrent PGM	0	2
+PRJNA576519	16S rRNA gene amplicon sequencing on Miseq using mock communities of bacteria and archaea	432	Illumina MiSeq	432	0
+PRJNA576764	Thermal stress response of GBR Exaiptasia's microbiome	3	Illumina MiSeq	0	3
+PRJNA578400	Tidal and diurnal succession of microbial communities at three tropical biomes: mangroves, seagrasses, and coral reefs	2	Illumina MiSeq	0	2
+PRJNA578766	Immunoglobulin coating in healthy dogs and dogs with chronic enteropathy	16	Illumina MiSeq	16	0
+PRJNA578869	Gut microbiota of worker honey bees	1	Illumina MiSeq	0	1
+PRJNA579572	Assessing the ingestion of arthropods by ungulates using DNA metabarcoding	4	Illumina MiniSeq	0	4
+PRJNA580284	Impact of Candida utilis as a protein source on intestinal microbiota in weaner piglets	2	Illumina HiSeq 4000	2	0
+PRJNA580390	The milk microbiota during experimentally induced bovine mastitis	6	Illumina MiSeq	0	6
+PRJNA580513	A new high throughput sequencing assay for characterising the diversity of natural Vibrio communities and its application to a Pacific oyster mortality event	27	Illumina MiSeq	18	9
+PRJNA587449	Influence of long-term fertilization and crop rotation on soil microbiome	234	Illumina MiSeq	39	195
+PRJNA589050	Assessing fungal contributions to cellulose degradation in soil by using high-throughput stable isotope probing	1	Illumina MiSeq	0	1
+PRJNA589340	Fungal communities in hardwood trees selected by black-capped chickadees	1	Illumina MiSeq	0	1
+PRJNA589539	Phelipanche ramosa seed and soil metagenome	6	Illumina MiSeq	0	6
+PRJNA590467	Japanese quail (Coturnix japonica) as a novel model to study the microbial endocrinology-based neuroendocrine biogeography of the stressed gut and its influence on diversity of the microbiome	3	Illumina MiSeq	0	3
+PRJNA593265	Southern California coastal lagoon estuary vibrio microbiome and metagenomes 2015-2016	6	Illumina MiSeq	0	6
+PRJNA595173	Joint Microbiome Facility: amplicon sequencing controls	46	Illumina MiSeq	0	46
+PRJNA595174	Spurious ASVs	25	Illumina MiSeq	0	25
+PRJNA596353	CRISPR-Sub: analysis of DNA substitution mutations caused by CRISPR-Cas9 in human cells	69	Illumina MiniSeq	0	69
+PRJNA597057	Wastewater temporal and spatial meta-analysis	1	Illumina MiSeq	0	1
+PRJNA597997	Microbiota in human milk analyzed by 16S rRNA gene sequencing	24	Illumina MiSeq	24	0
+PRJNA598197	Evaluation of DNA extraction protocols from liquid-based cytology specimens for studying cervical microbiota	1	Illumina MiniSeq	0	1
+PRJNA599431	Polystichum munitum ferns host highly-specialized endophyte communities across four unique habitat types	2	Illumina MiSeq	0	2
+PRJNA601657	Microbiome standard and non-DNA template controls	1	Illumina MiSeq	1	0
+PRJNA601852	ASV vs OTU mock communities	18	Illumina MiSeq	0	18
+PRJNA602955	Sequencing the facilities used to assemble test and launch the OSIRIS-REx spacecraft	3	Illumina MiSeq	1	2
+PRJNA603120	Microbial response to water damage in buildings	2	Illumina MiSeq	0	2
+PRJNA603167	LibSize Project	440	Illumina MiSeq	0	440
+PRJNA603487	Carbohydrate complexity and maintenance of human gut microbiome diversity	6	Illumina MiSeq	5	1
+PRJNA604896	Metagenome raw sequence reads from airborne fungal microbiome in Belgian forest - validation of the FungiSearch pipeline	28	Illumina MiSeq	0	28
+PRJNA604970	Mock community ITS mock	3	Illumina MiSeq; PacBio RS II; Sequel	0	3
+PRJNA605031	Longitudinal development of preterm intestinal microbiome	4	454 GS	0	4
+PRJNA606798	Breeding ground diet of the common cuckoo Cuculus canorus	3	Illumina MiSeq	0	3
+PRJNA607089	16S rRNA gene sequencing of the chicken eggshell and intestinal tract	7	Illumina MiSeq	0	7
+PRJNA607284	Bacterial Metagenomic Samples from Human Breast Milk	11	Illumina MiSeq	11	0
+PRJNA60765	Human Microbiome Project (HMP) 16S rRNA Gene Diversity, the diversity of 16S ribosomal RNA genes in the human microbiome: Sanger Protocol Development - Mock	13	AB 310 Genetic Analyzer	0	13
+PRJNA608529	Initial gut microbiota influences Clostridioides difficile colonization after antibiotic perturbation in mice	5	Illumina MiSeq	0	5
+PRJNA608965	Direct high-throughput sequencing of mercury methylation genes in environmental samples	80	Illumina MiSeq	0	80
+PRJNA610028	eDNA metabarcoding - aquatic plants	1	Illumina HiSeq 2500	0	1
+PRJNA612331	Fungal and bacterial communities of root and rhizoplane in Clarkia xantiana ssp. xantiana	2	Illumina MiSeq	0	2
+PRJNA612815	Influence of rRNA 16S target region on the outcome of microbiome studies in soil and saliva samples	4	Illumina MiSeq	4	0
+PRJNA613169	Seasonal microbial dynamics and associations in the Southern Ocean as revealed by RAS	2	Illumina MiSeq	0	2
+PRJNA613382	Microbiota in Chronic Granulomatous Disorder-associated colitis	1	Illumina MiSeq	0	1
+PRJNA615981	Seasonal variation in the diet of the serotine bat investigated by DNA metabarcoding	1	Illumina MiSeq	0	1
+PRJNA622300	Predicting Early Childhood Caries Risk from Oral Microbiota Composition	6	Illumina MiSeq	6	0
+PRJNA623352	Bacterial diversity in saliva associated with oral health, caries, and periodontitis	1	Illumina MiSeq	0	1
+PRJNA623498	Bacterial mock community, species derived from eight different genera, including Alcaligenes sp. (Accession number JF698681), Arthrobacter sp. (Accession number FJ851358), Bacillus sp. (Accession number KU556329), Cupriavidus sp. (Accession number KU	20	Illumina MiSeq	0	20
+PRJNA623504	fungal mock community under GO	20	Illumina MiSeq	0	20
+PRJNA624255	Mock Synechococcus community Targeted loci cultured	13	Illumina MiSeq	0	13
+PRJNA625408	Malaise trap metabarcoding - size sorting & primer tests (2020)	8	Illumina MiSeq	0	8
+PRJNA626434	Illumina MiSeq sequencing of fungal mock community	3	Illumina MiSeq	0	3
+PRJNA628100	Increasing CRISPR efficiency and measuring its specificity in hematopoietic stem and progenitor cells	10	Illumina MiSeq	0	10
+PRJNA629775	Phylotype-level characterization of complex Lactobacilli communities using a high-throughput, high-resolution phenylalanyl-tRNA synthetase (pheS) gene amplicon sequencing approach	4	Illumina NovaSeq 6000	2	2
+PRJNA629856	Weaning Piglet Gut Microbiome	9	Illumina MiSeq	0	9
+PRJNA630002	CRISPECTOR - Accurate estimation of genome editing translocation and NHEJ off-target activity from comparative NGS data	8	Illumina MiSeq	0	8
+PRJNA630282	Exercise Microbiome	2	Illumina MiSeq	0	2
+PRJNA630325	Exogenous antioxidants do not reduce the impact of thermal stress on Exaiptasia diaphana	1	Illumina MiSeq	1	0
+PRJNA632840	Fungal community response to forest restoration thinnings in a Pinus tabuliformis plantation in northern China	3	Ion Torrent PGM	0	3
+PRJNA632856	Lung microbiota of non small-cell cancer patients	30	Illumina MiSeq; Illumina MiniSeq	30	0
+PRJNA634912	Aedes albopictus L4 larval mycobiota study	4	NextSeq 500	0	4
+PRJNA635270	Homo sapiens Targeted Locus (Loci)	4	Illumina MiniSeq	0	4
+PRJNA635510	Microbial Exposures in Moisture-Damaged Schools and Associations with Respiratory Symptoms in Students: A Multicountry Environmental Exposure Study	24	Illumina MiSeq	0	24
+PRJNA636810	Microbial ecology of coral-dominated reefs in the Federated States of Micronesia	2	Illumina MiSeq	0	2
+PRJNA637486	White leg shrimp (Litopenaeus vannamei) larviculture	6	Illumina MiSeq	6	0
+PRJNA637866	Oregano essential oil improves piglet health and performance through maternal feeding and is associated with changes in the gut microbiota.	1	Illumina MiSeq	0	1
+PRJNA639425	Skin and gut microbiota in vitiligo patiens and matched controls	1	Illumina MiSeq	0	1
+PRJNA639647	16S rRNA gene sequencing for a mock bacterial community	2	Illumina MiSeq	2	0
+PRJNA640064	Community structure of root-associated fungi in heathlands and grasslands of Western Europe	2	Illumina MiSeq	0	2
+PRJNA641575	Rhizosphere fungal communities of British grassland plant species	1	Illumina MiSeq	0	1
+PRJNA642018	Shelfordella lateralis microbiome assembly	1	Illumina HiSeq 2500	0	1
+PRJNA643648	The compatibility evaluation of V3V4 and V4 16S-amplicon libraries	3	Illumina MiSeq	3	0
+PRJNA644197	Ultra-accurate Microbial Amplicon Sequencing Directly from Complex Samples with Synthetic Long Reads	1	NextSeq 500	1	0
+PRJNA644622	Response of soil microbes and enzymatic activity to 21 years of fertilization	3	Illumina MiSeq	3	0
+PRJNA645139	Influence of long-term fertilization on soil and endophytic microbial communities	12	Illumina MiSeq	6	6
+PRJNA645478	Nanopore or Illumina Amplicon Sequencing	18	MinION	0	18
+PRJNA645727	Root associated fungi metagenome Metagenome	1	Illumina MiSeq	0	1
+PRJNA646239	The Genomic Research in Alpha-1 Antitrypsin Deficiency and Sarcoidosis (GRADS) microbiome project	53	Illumina MiSeq	0	53
+PRJNA646490	Bacterial dynamics in substrates and residues of Hermetia illucens larvae	2	Illumina MiSeq	0	2
+PRJNA647539	Microbiome of human lungs with aspergillosis infection	2	Illumina MiSeq	2	0
+PRJNA648321	Comparison of DNA extraction protocols from stool samples	20	Illumina MiSeq	20	0
+PRJNA650221	Characterization of the bacterial communities associated with multiple species of Symbiodiniaceae	1	Illumina MiSeq	1	0
+PRJNA655464	PCR Bias in Mock Microbial Community (Repeated Experiment)	108	Illumina MiniSeq	0	108
+PRJNA655555	Rhesus BCL11A enhancer editing to induce fetal globin expression	12	Illumina MiSeq; Illumina MiniSeq	0	12
+PRJNA656526	Clostridioides difficile interacts with other mucus-associated microbes in bioreactors	2	Illumina MiSeq	0	2
+PRJNA657026	Comprehensive survey of the litter bacterial communities in commercial turkey farms	2	Illumina MiSeq	0	2
+PRJNA658437	Relationship between the gut microbiome and genetic markers in the Galapagos mockingbird species complex	133	Illumina MiSeq	0	133
+PRJNA658576	Eastern Oyster Microbiome Sequencing	2	Illumina MiSeq	2	0
+PRJNA659641	Analysis of spurious sequences in high-throughput 16S rRNA gene amplicon sequencing data	19	Illumina MiSeq	19	0
+PRJNA659851	Universal Amplicon Sequences (mixed 16S/18S) from GEOTRACES Cruises GA03 and GP13	10	Illumina HiSeq 2500	10	0
+PRJNA660116	ArcticFlora	8	Illumina MiSeq	0	8
+PRJNA660245	Comparison of ITS1 and LSU for metabarcoding of Fungi	7	Illumina MiSeq	0	7
+PRJNA664034	human lung metagenome Raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA665246	Evaluation of evidence for a meconium microbiome	3	Illumina MiSeq	0	3
+PRJNA667146	Human oral bacteriome of Spanish residents.	12	Illumina MiSeq	12	0
+PRJNA668181	Alberta Ixodes 16S rRNA	1	Ion Torrent PGM	1	0
+PRJNA668526	Predator preferences shape the diets of arthropodivorous bats more than quantitative prey abundance	1	Ion Torrent PGM	0	1
+PRJNA669399	RoC-ITS Mock Community Data	4	Illumina MiSeq; MinION	1	3
+PRJNA669652	The effect of different corn lines on the broiler chicken cecal microbiome	1	Illumina MiSeq	1	0
+PRJNA670368	Evaluation of CRISPR Cas9 Off Target Nomination Methods	6	NextSeq 500	0	6
+PRJNA670745	Piglet ileum 16S rRNA gene amplicons under the effect of L-glutamine and antibiotics postweaning and transport.	4	Illumina MiSeq	4	0
+PRJNA672793	Agave lechuguilla rhizosphere microbiome from Central and Meseta subregions from the Chihuahuan Desert	2	Illumina MiSeq	0	2
+PRJNA672912	Coral Reef Stony Coral Tissue Loss Disease Microbiomes in Coral Tissue and Near-Coral Seawater	3	Illumina iSeq 100	0	3
+PRJNA673155	Experimental manipulation of fish host microbiomes	2	Illumina MiSeq	2	0
+PRJNA673973	Dissecting primer editing by proofreading polymerases	32	Illumina MiSeq	32	0
+PRJNA674326	Bacteremic showering as a result of dental extractions in horses	1	Illumina MiSeq	1	0
+PRJNA674417	To compare the root-associated microbes of NPB-KJ201 and Pizt-KJ201	48	Illumina MiniSeq	0	48
+PRJNA674596	Primer, pipelines, parameters - issues in 16S rRNA gene sequencing	56	Illumina MiSeq	56	0
+PRJNA674858	Clearance of Clostridioides difficile colonization is associated with antibiotic-specific	7	454 GS; Illumina MiSeq	0	7
+PRJNA675451	Targeted reference metagenomic data set	9	MinION	0	9
+PRJNA676117	Potato aphid impacts on wild tomato rhizosphere bacterial community	2	Illumina MiSeq	2	0
+PRJNA677875	Microbiome of Revdalen Aquifer	4	Illumina MiSeq	4	0
+PRJNA679180	Direct meta-analyses reveal unexpected microbial life in the highly radioactive water of an operating nuclear reactor core	1	Illumina MiSeq	0	1
+PRJNA679730	3G-ESP Lake Erie 2018	4	Illumina MiSeq	2	2
+PRJNA680653	Epigenetic regulation of cold tolerance in Arabidopsis thaliana	4	Sequel II	0	4
+PRJNA680927	Nanopore-based detection of Clavibacter nebraskensis in corn leaves	4	MinION	0	4
+PRJNA681555	Description of the temporal dynamics in microbial community composition and beer chemistry in sour beer production via barrel ageing of finished beers	1	Illumina MiSeq	0	1
+PRJNA682103	Exploring the potential of Micrococcus luteus culture supernatant with resuscitation-promoting factor for enhancing the culturability of soil bacteria	3	Illumina MiSeq	0	3
+PRJNA682859	Ampliseq detection	1	Ion Torrent Proton	0	1
+PRJNA683617	COVID-19 microbiome project	22	Illumina HiSeq 2500	0	22
+PRJNA684121	Evaluation of established methods for DNA extraction and primer pairs targeting 16S rRNA gene for bacterial microbiome profiling of olive xylem sap	8	Illumina MiSeq	0	8
+PRJNA685292	Testing markers (ITS1, ITS2, LSU D1D2 and RPB2) to characterize microbial communities in food ecosystems using metagenomics approach	128	Illumina MiSeq	0	128
+PRJNA685466	UMICRO	4	Illumina MiSeq	4	0
+PRJNA685902	LD 9 (males) II	1	Illumina MiSeq	0	1
+PRJNA685914	Microbiota-based markers predictive of development of Clostridioides difficile infection	4	454 GS	0	4
+PRJNA687039	Microbial communities of lizard cloaca and eggshells	6	Illumina MiSeq	0	6
+PRJNA687502	16S-23S rRNA operon sequencing of bacterial mock community (ZymoBIOMICS)	2	MinION	2	0
+PRJNA689204	Species-resolved sequencing of low-biomass or degraded microbiomes using 2bRAD-M	44	Illumina HiSeq 2500	0	44
+PRJNA690816	Daphnia magna metagenomics across generations	1	Illumina MiSeq	0	1
+PRJNA690947	Testing the effect of pollen exine rupture on metabarcoding with Illumina sequencing	48	Illumina MiSeq	0	48
+PRJNA691168	Sub-communities originating from White leg shrimp (Litopenaeus vannamei) larviculture rearing water	7	Illumina MiSeq	7	0
+PRJNA691350	Gene replacement of alpha-globin with beta-globin restores hemoglobin balance in beta-thalassemia-derived hematopoietic stem and progenitor cells	3	Illumina MiSeq	0	3
+PRJNA692251	Study of microbial taxa associated with wheat insects.	1	Illumina MiSeq	0	1
+PRJNA693350	Fungal mock community	188	Illumina MiSeq	0	188
+PRJNA693865	Differential impact of OTC regimen on growth and gut microbiota of pigs co-infected with respiratory pathogens	1	Illumina MiSeq	1	0
+PRJNA694538	Effects of tetracycline on Drosophila nigrosparsa	2	Illumina MiSeq	0	2
+PRJNA695397	st16S-seq method	24	Illumina MiSeq	0	24
+PRJNA699317	Holstein dairy calves fecal 16S rRNA gene amplicons after been fed with Saccharomyces cerevisiae fermentation products through 4 month of age.	5	Illumina MiSeq	5	0
+PRJNA699592	Mild chronic exposure to pesticides alters physiological markers of honey bee health without perturbing the core gut microbiota	2	Illumina MiSeq	0	2
+PRJNA699663	Rps10: a new barcode for high throughput amplicon sequencing of Oomycete communities	6	Illumina MiSeq	0	6
+PRJNA700075	Parasitism by parasitic wasps alters the internal but not the external microbiome in host insects	1	Illumina MiSeq	0	1
+PRJNA701542	Gut DNA metabarcoding of the green and yellow snake (Hierophis viridiflavus) - Raw sequence reads	1	Illumina MiniSeq	0	1
+PRJNA703791	16S rRNA amplicon sequencing of bos taurus fecal sample co-extracted with a moch community	89	Illumina MiSeq	89	0
+PRJNA704990	Characterization of the cutaneous microbiota in Persian cats with severe dermatophytosis	1	Illumina MiSeq	0	1
+PRJNA707308	Bacteriome consistency in a parasitic worm: variation throughout the life cycle and across geographic space	12	Illumina MiSeq	12	0
+PRJNA709151	Contributions of environmental and maternal transmission to the assembly of leaf fungal endophyte communities	3	Illumina MiSeq	0	3
+PRJNA715197	Caproate and hydrogen co-production in lactate-based chain elongation	1	Illumina MiSeq	1	0
+PRJNA716058	Metabarcoding to detect pest insects	25	Illumina MiSeq	0	25
+PRJNA716278	Microbial Composition of Raw Milk based kefir.	1	Illumina MiSeq	1	0
+PRJNA717071	De novo Origination Patterns of the Malaria-resistant, Sickle-cell-anemia-causing Hemoglobin S Mutation	24	Illumina MiSeq	0	0
+PRJNA717293	Switchgrass leaf ITS sequencing	8	Illumina MiSeq	0	8
+PRJNA718152	16S microbiome analysis of Atlantic salmon gill mucus bacteria, under amoebic gill disease challenge	1	Illumina MiSeq	1	0
+PRJNA718741	Horizontal gene transfer of an IncP1 plasmid to soil bacterial community introduced by Escherichia coli through manure amendment under realistic conditions	1	Illumina MiSeq	0	1
+PRJNA719385	Soil microbes associated with Phragmites australis in a controlled plant-soil feedback experiment	4	454 GS	0	4
+PRJNA719465	Diversity disturbance relationships in bioreactor bacterial communities	1	Illumina MiSeq	1	0
+PRJNA719471	Deep mutational scanning of avian influenza PB2 to identify pimodivir resistance mutations	4	Illumina HiSeq 2500	0	4
+PRJNA719984	Full-Length SSU rRNA Gene Sequencing Allows Species-Level Detection of Bacteria, Archaea, and Yeasts Present in Milk	2	Illumina MiSeq	2	0
+PRJNA720816	SolACE - Root-associated microbiota from potato plants exposed to no stress and combined stresses	2	Illumina MiSeq	0	2
+PRJNA720967	dITSy fungal mock communities	10	Illumina MiSeq	0	10
+PRJNA722763	Metabarcoding of mixed drosophila traps	60	Illumina MiSeq; Illumina NovaSeq 6000	0	60
+PRJNA722859	Human salivary mycobiome in OSCC	1	Illumina MiSeq	0	1
+PRJNA723326	Bacterial Metagenomic DNA from Preterm Infant Stool	15	Illumina MiSeq	15	0
+PRJNA725011	eDNA metabarcoding - freshwater mussels	6	Illumina MiSeq	0	6
+PRJNA725047	16s vs shallowshotgun	8	Illumina MiSeq	8	0
+PRJNA725207	Gut mock community Raw sequence reads	2	Illumina MiSeq; MinION	0	2
+PRJNA725368	metagenomics strategies to infer fungal species compositions of complex communities	4	Illumina MiSeq; MinION	0	4
+PRJNA726571	Corn root and soil microbiomes	4	Illumina MiSeq	0	4
+PRJNA726587	Clam samples' Microbiome and Vibrio spp. Metabarcoding Raw sequence reads	2	Illumina MiSeq	0	2
+PRJNA727293	An osmotic laxative, Clostridioides difficile infection, and the murine gut microbiota	17	454 GS	0	17
+PRJNA727992	Peatland phototrophic metagenome	3	Illumina MiSeq	0	3
+PRJNA728536	Bovine milk microbiota: comparison among three different DNA extraction protocols to identify a better approach for bacterial analysis	39	Illumina MiSeq	39	0
+PRJNA728976	Larvae growth and microbiota when reared on agri-food by-products	6	Illumina MiSeq	0	6
+PRJNA729511	Microbiota characterization of stool samples from patients with Clostridiodes difficile infection, patients with diarrhea that were C. difficile negative, or formed control samples that were not tested.	44	454 GS	0	44
+PRJNA730696	Gut microbiota of pre-smolt Atlantic salmon fed an insect meal diet	5	Illumina MiSeq	0	5
+PRJNA731938	DNA metabarcoding-inferred haplotyping	1	Illumina MiSeq	0	1
+PRJNA732842	Honeyee (Apis mellifera) gut microbiome Raw sequence reads	4	Illumina HiSeq 2500	0	4
+PRJNA733109	Soil bacterial communities of Switchgrass and other biofuel grasses in the Michigan and Wisconsin (2016)	3	Illumina MiSeq	0	3
+PRJNA733505	Soil bacterial communities of Switchgrass and other biofuel grasses in the Michigan and Wisconsin (2017)	4	Illumina MiSeq	0	4
+PRJNA733652	Biogeography of reef water microbes at transect, reef and global scales	3	Illumina iSeq 100	0	3
+PRJNA733764	Soil and root bacterial communities of Switchgrass and other biofuel grasses in the Michigan and Wisconsin (2018)	3	Illumina MiSeq	1	2
+PRJNA734187	Evaluation of mock community as an in situ positive control for metataxonomic studies in microbial ecology	57	Illumina MiSeq	0	57
+PRJNA734481	Soil fungal composition changes with shrub encroachment in the Chihuahuan Desert	4	Illumina MiSeq	0	4
+PRJNA734952	Repair-seq screens for modulators of prime editing outcomes	2	Illumina NovaSeq 6000	0	2
+PRJNA736438	Sequenced functional metagenomic METa assembly libraries	4	Sequel II	0	4
+PRJNA737418	The effect of different corn lines on the layer chicken cecal microbiome	1	Illumina MiSeq	1	0
+PRJNA739848	Microbial Aggregates in Human Saliva Build the Oral Biofilm	2	Illumina HiSeq 2500	0	2
+PRJNA742057	16S rRNA and 16S rRNA gene amplicon analysis of marine sediment microorganisms	9	Illumina MiSeq	9	0
+PRJNA742764	Formalin-fixed paraffin embedded colorectal cancer and healthy colonic tissue sample collection 2	2	Illumina NovaSeq 6000	0	2
+PRJNA742922	Assessing the bacterial community composition of black soldier fly larvae from consecutive, industrial rearing cycles	1	Illumina MiSeq	0	1
+PRJNA743218	CeMbio43 Microbial Genomes and Sequencing Reads	3	Illumina MiSeq	0	3
+PRJNA744562	Larval Hatchery Crasn 16s Amplicon Sequencing	2	Illumina MiSeq	2	0
+PRJNA745937	Host Immunity Influences the Composition of Murine Gut Microbiota	4	454 GS	0	4
+PRJNA745966	Functional Correction of CFTR Mutations in Human Airway Epithelial Cells using Adenine Base Editors	49	Illumina MiSeq	0	49
+PRJNA746809	Nasal 16S rRNA gene amplicons obtained from healthy and BRD-positive pen-mates Holstein steers.	3	Illumina MiniSeq	3	0
+PRJNA746980	Repair-seq screens of double-strand break repair	2	Illumina NovaSeq 6000	0	2
+PRJNA747117	Development and Demonstration of Mock Microbial Communities for Human Microbiome Measurements	84	Illumina MiSeq	0	84
+PRJNA748008	Dynamics of rhizosphere bacteria inhabiting in a pine forest	3	Illumina MiSeq	3	0
+PRJNA749789	Canine oral bacteria before and after dental chew use	1	Illumina MiSeq	0	1
+PRJNA750488	Enhanced Sensitivity Tagmentation-Assisted PCR Data	3	Illumina MiSeq	0	3
+PRJNA751895	NOD2 signaling in antigen presenting cells during oral vaccination is critical for eliciting a humoral immune response and maintaining the gut microbiome	8	Illumina MiSeq	8	0
+PRJNA754487	The diet of the little red flying fox	12	Illumina MiSeq	0	12
+PRJNA755072	EcoImpact 2.0. Impact of wastewater on the tolerance of periphyton to micropollutants - Experiment 2	1	Illumina MiSeq	0	1
+PRJNA757573	Microbiota as a biomarker for prediction of mucocutaneous adverse effects of biologics used in inflammatory bowel disease	4	Illumina MiSeq	4	0
+PRJNA758792	DNA metabarcoding diet analysis of black-faced spoonbill	10	Illumina MiSeq	0	10
+PRJNA758797	Barrel ageing of finished beers: Impact of wood species on microbial community composition, beer chemistry and sensory characteristics	2	Illumina MiSeq	0	2
+PRJNA758928	Use of an ecosystem-based approach to shed light on the heterogeneity of the contamination pattern of Listeria monocytogenes on conveyor belt surfaces in a swine slaughterhouse in the province of Quebec, Canada	5	Illumina MiSeq	0	5
+PRJNA762081	Transcriptome and metagenome sequencing of Magallana gigas exposed to low pH and sodium molybdate conditions	3	Illumina MiSeq	0	3
+PRJNA762332	Tree Canopy of Parque Nacional Tapanti Targeted loci environmental	5	Illumina MiSeq	0	5
+PRJNA762510	Impact of dietary insect meals and fractions on gut microbiota in Atlantic salmon	2	Illumina MiSeq	0	2
+PRJNA762559	High-throughput imaging of CRISPR- and rAAV-induced DNA Damage Response in Human Hematopoietic Stem and Progenitor Cells	5	Illumina MiSeq	0	5
+PRJNA762720	Mesoplasma Genome sequencing and assembly	1	Illumina MiSeq	1	0
+PRJNA765214	Teabag microbiome - Klosterneuburg Targeted loci environmental	2	Illumina MiSeq; Illumina MiniSeq	0	2
+PRJNA767112	Disentangling bias for non-destructive insect metabarcoding.	64	Illumina MiSeq	0	64
+PRJNA767767	Environmental metabarcoding of marine sediments with and without, PCR and eDNA removal	36	Illumina MiSeq	0	36
+PRJNA768241	Lung and gut microbiota in Mtb infection and BCG vaccination.	2	Illumina MiSeq	0	2
+PRJNA768350	Spider web microbiome Targeted loci environmental	2	Illumina MiSeq	1	1
+PRJNA768849	A refined, controlled 16S rRNA gene sequencing approach reveals limited detection of cerebrospinal fluid microbiota in children with bacterial meningitis	40	Illumina MiSeq	0	40
+PRJNA770954	Microbial community structure in the central Arctic Ocean	5	Illumina MiSeq	0	5
+PRJNA770996	Targeted epimutagenesis on Biomphalaria glabrata embryos	9	Illumina MiSeq	0	9
+PRJNA772099	Effect of chemical fumigation and biofumigation on the soil bacterial community diversity	1	Illumina MiSeq	0	1
+PRJNA773195	The subgingival microbiota communities in periodontal health and periodontitis studied by sequencing the V1-V3 16S rRNA gene region.	2	Illumina MiSeq	2	0
+PRJNA773202	The subgingival microbiota communities in periodontal health and periodontitis studied by sequencing the V3-V4 16S rRNA gene region.	2	Illumina MiSeq	2	0
+PRJNA773649	Upper respiratory and gut microbiomes after oral polio revaccination	3	Illumina MiSeq	0	3
+PRJNA774247	The salivary microbial communities in periodontal health and periodontitis studied by sequencing the V1-V3 16S rRNA gene region.	1	Illumina MiSeq	1	0
+PRJNA774299	The salivary microbial communities in periodontal health and periodontitis studied by sequencing the V3-V4 16S rRNA gene region.	1	Illumina MiSeq	1	0
+PRJNA774796	The salivary microbial communities in periodontal health and periodontitis studied by sequencing the V1-V3 16S rRNA gene region.	1	Illumina MiSeq	1	0
+PRJNA774981	The salivary microbial communities in periodontal health and periodontitis studied by sequencing the V3-V4 16S rRNA gene region.	1	Illumina MiSeq	1	0
+PRJNA776715	16S-FASAS: an integrated pipeline for full-length 16S rRNA gene sequencing data analysis	2	Illumina MiSeq	0	2
+PRJNA777043	Inducible CRISPR activation screen for interferon-stimulated genes identifies OAS1 as a SARS-CoV-2 restriction factor	17	NextSeq 500	0	17
+PRJNA777052	PrimedPlant: Rhizomicrobiome transplantation increases resistance in barley	1	Illumina MiSeq	0	1
+PRJNA778070	Gut and oral microbiota of indigenous Orang Asli community	2	Illumina MiSeq	0	2
+PRJNA779026	diatom-bacteria co-cultures, axenic diatom Seminavis robusta and bacteria controls Raw sequence reads 16S rRNA	1	Illumina MiSeq	1	0
+PRJNA779070	Utqiagvik ice melt experiment	3	Illumina MiSeq	3	0
+PRJNA779927	Fungi biodiversity on audio-visual materials	10	Illumina MiSeq	0	10
+PRJNA779941	A genome-wide CRISPR screen identifies interactors of the autophagy pathway as conserved coronavirus targets	6	Illumina NovaSeq 6000	0	6
+PRJNA780498	The microbiome of common bedding materials, before and after use on commercial dairy farms	1	Illumina MiSeq	0	1
+PRJNA781121	Fecal samples Damaraland mole-rats Raw sequence reads	3	Illumina MiSeq	3	0
+PRJNA781217	TAHD lesion material in sheep model Metagenome	40	Illumina HiSeq 2500	0	40
+PRJNA783648	Comparative analysis of DNA extraction and PCR product purification methods for cervicovaginal microbiome analysis using cpn60	12	Illumina MiSeq	0	12
+PRJNA784331	The healthy equine uterus harbors a distinct core microbiome plus a rich and diverse microbiome that varies with geographical location	1	Illumina HiSeq 2500	1	0
+PRJNA786706	Bacterial community dynamics following antibiotic exposure in a trematode parasite.	5	Illumina MiSeq	5	0
+PRJNA787941	The gut bacterial community potentiates Clostridiodes difficile infection disease severity	4	454 GS	0	4
+PRJNA791834	Salivary and mucosal microbiomes of Vietnamese colorectal cancer patients	1	Illumina MiSeq	1	0
+PRJNA792398	The gut microbiota affects the social network of honey bees	3	Illumina MiSeq	0	3
+PRJNA792716	Microbiome profiling from Fecal Immunochemical Test reveals microbial signatures with potential for Colorectal Cancer screening	3	Illumina MiSeq	3	0
+PRJNA795185	Analyzing the gut microbiomes of patients with myeloproliferative neoplasms (MPN)	2	Illumina MiSeq	0	2
+PRJNA797929	Metabarcoding of rice rhizosphere nematode communities in diterpenoid phytoalexin mutants and plants treated with resistance-inducing stimuli	16	Illumina MiSeq	0	16
+PRJNA798403	Fungal communities associated with Culex mosquito larvae	3	NextSeq 500	0	3
+PRJNA799201	Soil and Root Fungal communities of Switchgrass and other biofuel grasses in the Michigan and Wisconsin (2018)	2	Illumina MiSeq	0	2
+PRJNA799878	Targeted sequencing of CRISPR targets with POLQ inhibitor	19	Illumina NovaSeq 6000	0	19
+PRJNA800805	Biomarkers associated with high and low survival of shrimp larvae	55	Illumina NovaSeq 6000	0	55
+PRJNA801011	Bias of the Mock Community Composed of Common Strains Isolated from Clinical Specimens	5	Illumina MiSeq	0	5
+PRJNA801219	Microbiome of aphids from bell pepper greenhouses	2	MinION	2	0
+PRJNA802876	Responses of broiler chickens in growth performance, nutrient utilization, and gut microbiome to dietary fiber and dried fermentation product	4	Illumina MiSeq	4	0
+PRJNA803472	Effect of thermal pruning on the wild blueberry rhizosphere microbiota	2	Illumina MiSeq	0	2
+PRJNA804004	Nanopore long reads (Kit 9 and Q20+) for the Zymo standard	64	GridION; Illumina NovaSeq 6000; Sequel II	55	9
+PRJNA804133	Wood tiger moth fecal transplantation	3	Sequel	3	0
+PRJNA804973	An optimized approach for processing of frozen lung and lavage samples for microbiome studies	4	Illumina MiSeq	0	4
+PRJNA805249	Somatic disruption of human Lp(a) with CRISPR/Cas9 potently lowers apo(a) in transgenic mouse model	2	Illumina MiSeq	0	2
+PRJNA805265	Targeted Integration Editing Approach for Correction of the Wiskott-Aldrich Syndrome	46	Illumina MiSeq	0	46
+PRJNA807646	Dietary diversity of multiple shorebird species in an Asian subtropical wetland unveiled by DNA metabarcoding	8	Illumina MiniSeq	0	8
+PRJNA808420	Microbiome Analysis in Colorectal Cancer: The Catholic University of Korea, St. Vincent's Hospital Cohort	3	Illumina MiSeq	0	3
+PRJNA809520	Cucurbits and their secondary metabolites as stimulators of biological remediation of soil contaminated with phenoxy acid herbicides	1	Illumina MiSeq	0	1
+PRJNA811510	rRNA gene sequencing of the gastric microbiota of mice	2	Illumina MiSeq	0	2
+PRJNA813560	Demographic and seasonal variation in the cloacal microbiome of free-ranging striped plateau lizards, Sceloporus virgatus	6	Illumina MiSeq	0	6
+PRJNA814853	Faecal Pollution Source Tracking in the Ouseburn	2	MinION	2	0
+PRJNA814881	Classification Accuracy of Fungal Mock Communities Based on ITS1 and ITS2 MiSeq Sequences Using Different Software and Databases	74	Illumina MiSeq	0	74
+PRJNA816177	Effects of intermittent fasting and physical exercise on modulation of the gut microbiota, energy metabolism and inflammatory cytokines in Obesity	1	Illumina MiSeq	0	1
+PRJNA817063	DNA-stable isotope probing (DNA-SIP) identifies the response of methanotrophs to glacier melting in Glacier foreland	1	Illumina NovaSeq 6000	0	1
+PRJNA817531	Epiphytes of Parque Nacional Tapanti Targeted loci environmental	2	Illumina MiSeq	0	2
+PRJNA818501	Linking gastrointestinal microbiota and metabolome dynamics to clinical outcomes in pediatric hematopoietic stem cell transplantation	7	Illumina MiSeq	0	7
+PRJNA818650	Fungi and bacteria of New Mexico soils Targeted loci environmental	2	Illumina MiSeq	0	2
+PRJNA818855	Microbial communities of dental calculus from 100+ year-old human remains in Milwaukee, WI USA	1	Illumina MiSeq	0	1
+PRJNA818995	Longitudinal sampling of the rainbow trout (Oncorhynchus mykiss) microbiome reveals effects of dietary cecropin A and Yersinia ruckeri infection	67	Illumina MiSeq	0	67
+PRJNA82109	Human Gut Metagenome Targeted Locus	2	454 GS FLX Titanium	0	2
+PRJNA821319	Zooplankton communities in contrasting regions of the southern Gulf of Mexico	2	Illumina MiSeq	0	2
+PRJNA821632	Swine intestinal microbiota grown in bioreactor	1	Illumina MiSeq	0	1
+PRJNA823742	Meat Dry-aging Microbiome	1	Illumina MiSeq	1	0
+PRJNA824056	Neotoma spp. (woodrats) fecal fungal ITS and metagenomic sequencing.	2	Illumina MiSeq	0	2
+PRJNA824125	Exploring the maternal LEGACY during infant stool microbiome development	9	Illumina MiSeq	0	9
+PRJNA825282	Transcriptomic analysis of signaling pathways activated in DTMUV-infected DF1 and DEF cells	6	Illumina HiSeq 2500	0	6
+PRJNA826088	Metformin modulates the gut microbiome in broiler breeder hens	3	Illumina NovaSeq 6000	3	0
+PRJNA826108	16S microbiome analyses of wild and captive headstart Blanding's turtles (Emydoidia blandingii), and associated water samples	3	Illumina MiSeq	0	3
+PRJNA826317	Infection signaling and antimicrobial wound care in an ant society	1	Illumina MiSeq	0	1
+PRJNA826861	Low- and high-biomass samples Metagenome	8	Illumina MiSeq	4	4
+PRJNA827111	COI metabarcoding of large benthic Foraminifera: method validation for application in ecological studies	30	Illumina MiSeq	0	30
+PRJNA827178	Effect of habitat variation and host relatedness on Sceloporus cloacal microbiomes	17	Illumina MiSeq	0	17
+PRJNA830656	Illumina MiSeq paired end sequencing of 16S rDNA	1	Illumina MiSeq	1	0
+PRJNA833471	Root-associated_fungi_Mafune2022	5	Illumina MiSeq; MinION	0	5
+PRJNA833472	Comparison of next-generation sequencing methods for catfish bacterial microbiota profiling	11	GridION; Illumina MiSeq	11	0
+PRJNA833545	Root-associated_fungi_Mafune2022_Ambient	6	Illumina MiSeq; MinION	0	6
+PRJNA835806	Simplified fecal community transplant restores Clostridioides difficile colonization resistance to antibiotic perturbed murine communities	15	454 GS	0	15
+PRJNA837409	Lamesley constructed wetlands	2	MinION	2	0
+PRJNA838341	Multiplex HDR for Disease and Correction Modeling of SCID by CRISPR Genome Editing in Human HSPCs	16	Illumina MiSeq	0	16
+PRJNA840924	Effect of sainfoin (Onobrychis viciifolia) on cyathostomin communities	6	Illumina MiSeq	0	6
+PRJNA841769	Mock community standard for multi-step assessment of microbiome protocols	4	Illumina MiSeq	4	0
+PRJNA843111	malt microbiomes	3	Illumina MiSeq	0	3
+PRJNA844382	Comparative analysis of fish eDNA reveals higher sensitivity achieved through sequence-based metabarcoding	168	Illumina NovaSeq 6000	0	168
+PRJNA845890	Effective splicing restoration of a deep-intronic ABCA4 variant in cone photoreceptor precursor cells by CRISPR/SpCas9 approaches	6	Illumina MiniSeq	0	6
+PRJNA847007	Lyophilized wild sea beet roots Raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA848844	VertU: universal multilocus primer sets for eDNA metabarcoding of vertebrate diversity, evaluated by both artificial and natural cases	4	HiSeq X Ten	0	4
+PRJNA849001	Soil-to-skin bacterial transfer during gardening activities	5	Illumina MiSeq	0	5
+PRJNA849212	Resilience of cyathostomin community to anthelmintic treatment Raw sequence reads	20	Illumina MiSeq	0	20
+PRJNA849960	Dros_2016_Microbiome	8	Illumina MiSeq	0	8
+PRJNA851191	Modular, multi-barcode amplicon sequencing of ophiostomatalean fungi	106	Illumina MiSeq	0	106
+PRJNA853770	WISER_Mock_Community_Data	120	HiSeq X Ten; Illumina MiSeq	0	120
+PRJNA855455	Developing Whole Cell Standards for the Microbiome Field	67	NextSeq 500	0	67
+PRJNA856849	Genome-wide mapping of gene-microbe interactions in the murine lung microbiota based on quantitative microbial profiling	1	Illumina MiSeq	1	0
+PRJNA858104	Atlantic Killifish (Fundulus heteroclitus) gut microbiome sequencing	2	NextSeq 2000	0	2
+PRJNA858867	Transcriptomic study of DTMUV-infected IFNAR1 knockout DF1 cell line	3	Illumina HiSeq 2500	0	3
+PRJNA859856	The Impact of Urine Collection Method on the Canine Urinary Microbiota: A Cross-Sectional Study	1	Illumina MiSeq	0	1
+PRJNA860001	Gut microbiome associations with poliovirus vaccine responses in children in the Democratic Republic of Congo	3	Illumina MiSeq	0	3
+PRJNA860052	bacterial gut microbiome of Macrotermes natalensis termites Raw sequence reads	2	Illumina MiSeq	0	2
+PRJNA862334	Illumina MiSeq rDNA sequences of yeast mock communities.	36	Illumina MiSeq	0	36
+PRJNA862978	Impact of drought severity on assembly of rhizosphere microbial communities in two plant species	6	Illumina MiSeq	6	0
+PRJNA863631	Antibiotics induce transgenerational dysbiosis in the honey bee gut microbiome	2	Illumina MiSeq	0	2
+PRJNA865318	Cacao phyllosphere and ferment microbiomes in Hawaii	2	Illumina MiSeq	0	2
+PRJNA866473	Sus scrofa domesticus breed:Landrace x Large white Metagenome	1	Illumina MiSeq	1	0
+PRJNA866667	High quality single amplicon sequencing method for illumina Miseq platforms using pool of N spacer-linked target specific primers without PhiX spike-in	8	Illumina MiSeq	0	8
+PRJNA867321	A metabarcoding framework for wild bee assessment in Luxembourg	1	Illumina MiSeq	0	1
+PRJNA868201	Evaluating nanopore sequencing for microbial community characterization in catfish pond water	12	GridION	12	0
+PRJNA868354	Ophthalmic viscoelastics commonly used in cataract surgery: a microbiota investigation	1	Illumina MiSeq	0	1
+PRJNA868804	Soil biofilms responding to plant VOCs	2	Illumina HiSeq 2500	0	2
+PRJNA869923	Analysis of the microbiome associated with eggs of the Southern green stinkbug, Nezara viridula	2	Illumina MiSeq	0	2
+PRJNA870285	Selecting primers for microbiome analysis in a host-microbe system: the case of the jellyfish Rhopilema nomadica	8	Illumina MiSeq	0	8
+PRJNA870476	Microbial signature profiles of Penaeus vannamei larvae in low-survival hatchery tanks	21	Illumina NovaSeq 6000	0	21
+PRJNA872539	16S V4 sequencing of surface mucus from Montastraea cavernosa corals	1	Illumina MiSeq	1	0
+PRJNA876647	Metabarcoding study of soil fungi following wildfire	6	Illumina MiSeq	0	6
+PRJNA877614	Drosophila melanogaster gut microbiota in males and females	3	Illumina HiSeq 3000	0	3
+PRJNA878641	BACTERIAL EXTRACELLULAR VESICLES OF THE FOETAL ENVIRONMENT	2	Ion Torrent PGM	0	2
+PRJNA878850	Parasitism causes changes in caterpillar odours and associated bacterial communities with consequences for host-location by a hyperparasitoid	1	Illumina MiSeq	0	1
+PRJNA879334	Mutagenic loads in cells edited through homologous recombination versus in trans paired nicking	3	Illumina MiSeq	0	3
+PRJNA881235	Impact of orofacial clefts (OFCs) on early life oral microbiome maturation.	2	Illumina MiSeq	0	2
+PRJNA881261	Microbial community composition study at the Upper Floridan Aquifer	2	Illumina MiSeq	2	0
+PRJNA882805	TillageCARP	3	Illumina MiSeq	0	3
+PRJNA883611	Sustainable management and quality improvement in red fruit crops	4	Illumina NovaSeq 6000	2	2
+PRJNA883615	Medicago truncatula root - soil microbiome	8	Illumina MiSeq	0	8
+PRJNA883633	Multiple amplicon sequences from mock bacterial community sequences	41	Ion Torrent PGM; Ion Torrent S5 XL	0	41
+PRJNA884879	Asellus aquaticus Microbiome Raw sequence reads	2	Illumina MiSeq	0	2
+PRJNA885053	COI amplicon sequencing data for multi-species insect mock communities	268	Illumina MiSeq	0	268
+PRJNA887898	eDNA from Gulf of Mexico Ecosystems and Carbon Cruise 2021 (GOMECC-4)	3	Illumina MiSeq	0	3
+PRJNA888649	Investigation of duckweed microbial communities	1	Illumina NovaSeq 6000	0	1
+PRJNA890389	Fungal community associated with Aedes albopictus mosquito ontogeny	1	NextSeq 500	0	1
+PRJNA891255	Fish microbiota research: Strengths and limitations for fast and low-cost profiling of intestinal gilthead sea bream (Sparus aurata) microbiota	2	MinION	0	2
+PRJNA891670	Adenine base editing efficiently restores the function of Fanconi anemia hematopoietic stem and progenitor cells	20	Illumina MiSeq	0	20
+PRJNA893706	Leucopaxillus fungal mat microbiomes	1	Illumina MiSeq	0	1
+PRJNA894713	Effects of HIV and STI on the vaginal microbiome during pregnancy and postpartum	72	Illumina NovaSeq 6000	0	72
+PRJNA895860	eDNA sequences of primer test study	28	HiSeq X Ten	0	28
+PRJNA895866	16S and 18S rRNA amplicon data for the Multidisciplinary drifting Observatory for the Study of Arctic Climate (MOSAiC) Raw sequence reads	15	Illumina MiSeq	15	0
+PRJNA898823	cervicovaginal microbial communities resolved using cpn60 profilling	13	NextSeq 500	0	13
+PRJNA898904	Chesapeake Bay 2019 Particle Size Fractionation	4	Illumina MiSeq	0	4
+PRJNA899073	Mycobiome of Thinopyrum intermedium	4	Sequel II	0	4
+PRJNA900717	Mouse upper and lower respiratory tract microbiome during influenza A virus and Methicillin-resistant Staphylococcus aureus infection	12	MinION	0	11
+PRJNA901287	Airborne algicidal bacteria may control cell fate in the oceanic blooms	1	Illumina MiSeq	0	1
+PRJNA905430	Contamination benchmark using human-derived samples	1	Illumina MiSeq	1	0
+PRJNA906497	Nasal fungal ITS amplicons obtained from healthy and BRD-positive pen-mates Holstein steers	2	Illumina MiniSeq	0	2
+PRJNA910300	Mouse respiratory tract and intestine microbiome during influenza A viruses infection	40	MinION	0	40
+PRJNA910578	Ambient oxygen levels regulate intestinal dysbiosis and GVHD severity after allogeneic stem cell transplantation	5	Illumina MiSeq	0	5
+PRJNA910824	Microorganisms and dissolved metabolites distinguish Floridas Coral Reef habitats	4	Illumina iSeq 100	3	1
+PRJNA911046	Multicenter evaluation study of gut microbiome profiling by next-generation sequencing	18	Illumina MiSeq; NextSeq 500	0	18
+PRJNA914708	Fungal mock community comprised of 5 species mixed in equimolar concetrations prior to nanopore sequencing library preparation. Raw sequence reads	3	MinION	0	3
+PRJNA914907	CD3d SCID ABE Editing	18	Illumina MiSeq; NextSeq 500	0	18
+PRJNA915597	Host phylogeny and functional traits differentiate gut microbiomes in a diverse natural community of small mammals	1	Illumina MiSeq	0	1
+PRJNA916082	Raw sequence reads of regenerated Nicotiana benthamiana editd by CRISPR/Cas12a	1	Illumina HiSeq 1500	0	1
+PRJNA916089	Raw sequence reads of regenerated Nicotiana benthamiana editd by CRISPR/Cas9	1	Illumina HiSeq 1500	0	1
+PRJNA916090	Raw sequence reads of regenerated Nicotiana tabacum editd by CRISPR/Cas12a	1	Illumina HiSeq 1500	0	1
+PRJNA916091	Raw sequence reads of regenerated Solanum lycopersicum editd by CRISPR/Cas9	1	Illumina HiSeq 1500	0	1
+PRJNA917542	Evaluation of Metabarcoding Methods for Plant Disease Surveillance	9	Illumina MiSeq	0	9
+PRJNA918331	Prokaryotic Communities Shed by Diseased and Healthy Corals (Diploria labyrinthiformis, Pseudodiploria strigosa, Montastraea cavernosa, Colpophyllia natans, and Orbicella faveolata) into Filtered Seawater Mesocosms	1	Illumina MiSeq	1	0
+PRJNA919080	16S Sequencing of mock community of gut bacterial isolates incubated with a thymidine analogue	10	NextSeq 2000	10	0
+PRJNA923001	A split and inducible adenine base editor for precise in vivo base editing	21	Illumina MiSeq	0	21
+PRJNA923785	Peptide-mediated delivery of CRISPR enzymes for the efficient editing of primary human lymphocytes	3	Illumina MiSeq	0	3
+PRJNA923807	Root-associated fungal communities are influenced more by soils than by plant-host root traits in a Chinese tropical forest	2	Illumina MiSeq	0	2
+PRJNA924858	Microbiome of Australian Platypodinae ambrosia beetles & inquiline	4	Illumina MiSeq	0	4
+PRJNA926613	CRISPR-Cas9 RAG2 Correction Simulation via Coding Sequence Replacement to Preserve Gene Regulation and Locus Structure	5	Illumina MiSeq	0	5
+PRJNA929534	Bacteria in aquaponics vs. recirculating aquaculture	1	Ion Torrent PGM	1	0
+PRJNA931297	Severe acute respiratory syndrome coronavirus 2 Genome sequencing and assembly	1	Illumina NovaSeq 6000	0	1
+PRJNA932988	Monitoring of planktonic eukaryotes and prokaryotes in the Belgian Schelde estuary	10	Illumina MiSeq	0	10
+PRJNA934863	DNA extraction kit comparison using ZymoBIOMICS Community Standard	20	GridION	20	0
+PRJNA935035	Consumer feces impact coral health in guild-specific ways	5	Illumina MiSeq	5	0
+PRJNA935275	EcoImpact 2.0. Impact of wastewater on the tolerance of periphyton to micropollutants - Experiment 3	1	Illumina MiSeq	0	1
+PRJNA936071	EcoImpact 2.0. Impact of wastewater on the tolerance of periphyton to micropollutants - Field Muri 2021 and Oberglatt 2022	1	Illumina MiSeq	0	1
+PRJNA936592	Seawater microorganisms within overlying reef seawater change over six years	3	Illumina MiSeq	0	3
+PRJNA938061	Microbial Mock Community B (Even, High Concentration) [BEI Resources]	1	MinION	0	1
+PRJNA938807	Sequencing datasets for synthetic community in sterilized soils and for chemical fertilized soils	10	Illumina HiSeq 2500	0	10
+PRJNA939351	Metagenomic research project organized by Saito lab, TMDU	2	Illumina MiSeq; MinION	0	2
+PRJNA939914	Study of microbiome in a lab-scale methanogenic bioreactor	24	Illumina MiSeq	24	0
+PRJNA941216	CRISPR-Cas9 mediated endogenous utrophin modulation improves Duchenne Muscular Dystrophy	3	Illumina MiSeq	0	3
+PRJNA941910	Bacterial biodiversity in the archives of the Czech Republic	11	Illumina MiSeq	0	11
+PRJNA942323	Microbiome of matrix stones Raw sequence reads	1	Illumina MiniSeq	0	1
+PRJNA942369	RARE, Grand, Eramosa eDNA 2021	2	Illumina MiSeq	0	2
+PRJNA943488	Joining the bacterial conversation: increasing the cultivation efficiency of soil bacteria with acyl-homoserine lactones and cAMP	4	Illumina MiSeq	0	4
+PRJNA944652	Congruent downy mildew-associated microbiomes reduce plant disease and function as transferable resistobiomes	16	Illumina MiSeq	0	16
+PRJNA944839	Quantitative differences in synthetic gut microbial inoculums do not affect the final stabilized in vitro community compositions Raw sequence reads	2	Illumina HiSeq 2500	0	2
+PRJNA947186	Bacterial communities and biomarkers in the stomach and intestine of shrimp adult Penaeus vannamei	48	Illumina NovaSeq 6000	0	48
+PRJNA947809	Unveiling the Microbiome of Hydroponically Cultivated Lettuce: Impact of Phytophthora cryptogea Infection on Plant-Associated Microorganisms	1	Illumina MiSeq	0	1
+PRJNA950015	Flurex	4	Ion Torrent S5	0	4
+PRJNA950050	Amplicon sequencing of base editing	12	Illumina MiniSeq	0	12
+PRJNA950075	Leaf endomicrobiomes of early and late planted sorghum seedlings	1	Illumina MiSeq	0	1
+PRJNA951625	Profiling walnut pathobiome associated with walnut dieback using community-targeted DNA metabarcoding	25	Illumina MiSeq	0	25
+PRJNA953052	Recovery of the soil fungal microbiome after steam disinfection to manage the plant pathogen Fusarium solani	1	Illumina MiSeq	0	1
+PRJNA956423	Comparison of DNA-metabarcoding approaches	5	Illumina MiSeq; Sequel	0	5
+PRJNA956448	Dinoflagellate's and diatom's mock communities	22	Illumina MiSeq	0	22
+PRJNA957096	Homo sapiens Raw sequence reads	60	Illumina MiSeq	0	60
+PRJNA957099	Oryza sativa Raw sequence reads	2	Illumina MiSeq	0	2
+PRJNA957967	Precise selection-free DMD prime editing using high-capacity adenovectors	9	Illumina MiSeq	0	9
+PRJNA961840	Microbiome response to phage treatment of tree fruit	137	Illumina MiSeq	0	137
+PRJNA962833	MOCK	99	Illumina MiSeq	0	99
+PRJNA966219	Deciphering inter-species interactions between flower microbiota members and a floral pathogen	6	Illumina MiSeq	0	6
+PRJNA966238	Signal and Noise in Metabarcoding Data	128	Illumina MiSeq	0	128
+PRJNA967038	Whole lung tissue and bronchoalveolar lavage fluid are both suitable for the evaluation of murine lung microbiota in acute lung injury.	1	Illumina MiSeq	0	1
+PRJNA967126	NGS data for ITS1 region from stem endophytes of Triticum aestivum (domesticated wheat), Triticum dicoccoides (wild wheat), and Aegilops sharonensis (Sharon goatgrass)	4	Illumina HiSeq 2000	0	4
+PRJNA967220	Social network position is a major predictor of ant behaviour, microbiota composition, and brain gene expression	6	Illumina MiSeq	6	0
+PRJNA970831	Human immunodeficiency virus 1 Raw sequence reads	18	Illumina NovaSeq 6000	0	18
+PRJNA972185	Bacteriota of four trematode species of the same snail intermediate host species	2	Illumina MiSeq	2	0
+PRJNA972909	Sequencing of the mock samples amplifying with primers targeting different 16S regions	90	Illumina MiSeq; Illumina NovaSeq 6000; Sequel II	0	90
+PRJNA973996	Gut microbiome of cold-tolerant and sensitive Piaractus mesopotamicus	1	MinION	1	0
+PRJNA974066	Healthcare-Associated Infection Microbiome Project	1	Illumina MiSeq	1	0
+PRJNA974480	High-accuracy meets high-throughput for microbiome profiling with near full-length 16S rRNA amplicon sequencing on the Nanopore platform	7	MinION	7	0
+PRJNA975486	THE UNRESOLVED STRUGGLE OF 16S MICROBIAL PROFILING, A BENCHMARKING ANALYSIS OF CLUSTERING AND DENOISING METHODS.	3	Illumina MiSeq	0	3
+PRJNA977699	Identification of bacterial pathogens in sudden unexpected death in infancy and childhood using 16S rRNA gene sequencing	1	Illumina MiSeq	0	1
+PRJNA978345	Infant cystic fibrosis BAL and stool microbiome	4	Illumina MiSeq	4	0
+PRJNA978637	The microbiome of grapevine trunk disease escape grapevines	1	Illumina MiSeq	0	1
+PRJNA979964	Arctocephalus pusillus (Australian Fur Seal) gut microbiome Raw sequence reads	1	Illumina MiSeq	0	1
+PRJNA982569	RESCUE RRN Sequencing Nanopore Submission	4	GridION	0	4
+PRJNA982727	Defining Porphyromonas gingivalis strains	2	Illumina MiSeq	0	2
+PRJNA983409	Heat-evolved algal symbionts enhance thermotolerance of adult corals	4	Illumina MiSeq	0	4
+PRJNA983549	Study into the identity of Angiostrongylus in a zoo in New South Wales, Australia (2022)	12	Illumina MiSeq	0	12
+PRJNA984187	DNA metabarcoding of octopus diet	8	Illumina MiSeq	0	8
+PRJNA985243	Mangrove sediments Guadeloupe Babin Riviere salee	2	Illumina MiSeq; MinION	1	1
+PRJNA987026	Microbial community organization of pulmonary exacerbation types in cystic fibrosis	43	Illumina MiSeq	43	0
+PRJNA989419	Pod-associated bacterial microiota	4	HiSeq X Ten	0	4
+PRJNA989426	Pod-associated fungal microiota	4	HiSeq X Ten	0	4
+PRJNA990995	Caecal content and caecal tissue microbiota of anti-coccidiosis vaccine trial chickens	20	Illumina MiSeq	0	20
+PRJNA991556	Fungal ITS1 metabarcoding sequences from air samples	10	Illumina MiSeq; Illumina NovaSeq 6000	0	10
+PRJNA992680	Trematode infections alter the microbiota signature of parasite vector Galba truncatula	3	Illumina MiSeq	3	0
+PRJNA993625	Study of microbial diversity (bacteria and fungi) on Pinus sylvestris rhizosphere and root endosphere	12	Illumina MiSeq	6	6
+PRJNA994926	Fungal diversity from air samples on a waxcap grassland in Switzerland	12	Illumina MiSeq	0	12
+PRJNA995568	How does fertilization impact the wild blueberry microbiome ?	2	Illumina MiSeq	0	2
+PRJNA995888	16s rRNA sequencing of Galleria mellonella cuticular microbiome	3	Illumina HiSeq 2500	0	3
+PRJNA996092	Environmetal DNA from marine sediments from around Greenland and Svelbard	4	Illumina MiSeq	0	4
+PRJNA996221	Maize rhizosphere in tropical soil	2	Illumina MiSeq	1	1
+PRJNA996312	Hyphosphere microbiome of Chlorophyllum molybdites	1	Illumina MiSeq	0	1
+PRJNA996313	Deep volcanic Andisol soil microbiomes in Hawai'i	2	Illumina MiSeq	1	1
+PRJNA996926	Protist biodiversity (18S V9) across Indo-Pacific	1	Illumina MiSeq	0	1
+PRJNA997934	Upper respiratory tract microbiota across the human lifespan: a nationwide Dutch population study.	269	Illumina MiSeq	0	269
+PRJNA997989	Full-length 16S rRNA sequencing of a mock community	5	MinION	5	0
+PRJNA998321	off-target amplicon sequencing	1	Illumina MiSeq	0	1
+PRJNA999916	Yukon Permafrost Soil Sequencing	1	Illumina MiSeq	1	0
